@@ -1,4 +1,4 @@
-# Aula02 - Exercícios de Layout e Lógica [Meet](https://meet.google.com/qfo-feta-kah)
+# Aula02 - Exercícios de Layout e Lógica [Meet](https://meet.google.com/jfm-nvty-gpv)
 Projetos simples de uma página, com desafios para treinar a lógica em blocos
 
 |Layout|Lógica|
