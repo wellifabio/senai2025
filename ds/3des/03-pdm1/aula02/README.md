@@ -1,6 +1,16 @@
-# Aula02 - Exercícios de Layout e Lógica [Meet](https://meet.google.com/jfm-nvty-gpv)
+# Aula02 - Exercícios de Layout e Lógica
 Projetos simples de uma página, com desafios para treinar a lógica em blocos
 
+## Demonstração
+Vamos programar em bloco uma calculadora de IMC, criando um novo projeto chamado **AvaliacaoIMC**
+<br>![IMC Layout](./imclayout.png)
+- Vamos validar com um if se os campos de entrada não estão em branco
+- Usar texto para fala para mensagems de boas vindas e de erro
+- Variável local para calcular o **imc**
+- if encadeado com else if para definir o diagnóstico
+<br>![IMC blocos](./imcbloco.png)
+
+## Desafios
 |Layout|Lógica|
 |-|-|
 |![Financiamentos](./financiamentos.png)|**Contextualização:** As taxas de juros continuam autíssimas dificultando a aquisição de bens e serviços. Antes de comprar um bem financiado como um carro, uma moto, um imóvel ou até mesmo um eletrodoméstico, é importante simular o valor das parcelas e o custo total do financiamento.<br>**Objetivo:** Desenvolver um aplicativo semelhante ao da imagem ao lado que recebe como entrada o valor do bem, o número de parcelas, a taxa de juros mensal e as taxas adicionais e exibe o valor da parcela e o Montante total do financiamento.|
