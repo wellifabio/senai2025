@@ -1,4 +1,4 @@
-# Aula02 - Layout e Lógica com blocos [MEET](https://meet.google.com/svj-uhhz-dvt)
+# Aula02 - Layout e Lógica com blocos
 Projetos simples de uma página, com desafios para treinar a lógica em blocos
 
 ## Demonstração
