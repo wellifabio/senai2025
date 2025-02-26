@@ -1,4 +1,4 @@
-# Aula02 - Exercícios de Layout e Lógica
+# Aula02 - Layout e Lógica com blocos
 Projetos simples de uma página, com desafios para treinar a lógica em blocos
 
 ## Demonstração
