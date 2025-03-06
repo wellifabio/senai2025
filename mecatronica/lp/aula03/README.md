@@ -14,11 +14,13 @@
 - **Obs**: Todas as entradas serão consideradas como valores inteiros e positivos, portanto o algoritmo e um fluxograma não precisará testá-las.
 
 ### Todos os algoritmos e fluxogramas deverão ser feitos no seu caderno e mostrados ao professor na aula seguinte.
-Os programas em python serão desenvolvidos no laboratório de informática na próxima aula.
-
-## [Link para a entrega dos códigos fontes em Python](https://forms.gle/7xKikVNzboWx1RM46)
 
 ## Correções em aula
-- Correção de alguns exercícios em aula, para que possam ser utilizados como referência para a resolução dos demais exercícios.
+- Correção dos exercícios do 4 ao 10 em aula.
 - ![Correção 01](./correcao01.png)
 - ![Correção 02](./correcao02.png)
+- ![Correção 03](./correcao03.png)
+- ![Correção 04](./correcao04.png)
+
+### Os programas em python serão desenvolvidos no laboratório de informática na próxima aula.
+## [Link para a entrega dos códigos fontes em Python](https://forms.gle/7xKikVNzboWx1RM46)
