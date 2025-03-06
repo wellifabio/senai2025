@@ -22,5 +22,6 @@
 - ![Correção 03](./correcao03.png)
 - ![Correção 04](./correcao04.png)
 
-### Os programas em python serão desenvolvidos no laboratório de informática na próxima aula.
+### Os programas em python desenvolvidos no laboratório de informática utilizando o Google COLAB ou Python online
+- Os códigos fontes devem ser organizados em um **bloco de notas** para serem entregues no formulário.
 ## [Link para a entrega dos códigos fontes em Python](https://forms.gle/7xKikVNzboWx1RM46)
