@@ -3,6 +3,10 @@
 ## Atividade02
 ![Atividade02](./atividade02.png)
 
+## Dados atualizados para 2025
+![Atividade02](./atividade02a.png)
+![Atividade02](./atividade02b.png)
+
 ## Análise de Viabilidade
 - ![Viabilidade01](./viabilidade01.png)
 - Fórmulas
