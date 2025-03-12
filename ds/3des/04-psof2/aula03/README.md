@@ -42,3 +42,105 @@ Indique como as entregas e revisões do software serão feitas ao longo do desen
 ## 5. Apresentação da Atividade
 
 Prepare um pequeno documento ou apresentação explicando suas escolhas e como você irá aplicar a metodologia escolhida na prática.
+
+## Apresentações - 12/03/2025
+### Grupo01
+- Metodologia: SCRUM
+- Tema inicial: Diagnostico Rápido
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Melissa|PO|
+|Lizzie|Full Stack|
+|Pedro|Scrum Master|
+|Rodrigo|Back End - QA|
+
+### Grupo02
+- Metodologia: KANBAN - Trello
+- Tema inicial: PetShop - Adoção
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Rebeca|Front-End|
+|Evelyn|Banco de dados|
+|Larissa|Testes|
+|Larissa V.|Back-End|
+|Crislaine|Documentação|
+
+### Grupo03
+- Metodologia: KANBAN - Trello
+- Tema inicial: Gestão e Cantina Escolar
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Pedro Oliveira| Front-End|
+|João Angra| Back-end|
+|Steffany|Teste|
+|Thamye|Front-end Teste|
+|Rebega Ap.|PO|
+
+
+### Grupo04
+- Metodologia: SCRUM
+- Tema inicial: Guarda Roupa Online (Combinações de peças do seu próprio guarda roupa)
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Laís|Dev - Design|
+|Catarina|QA - Design|
+|Kathleen|Dev - Design|
+|Beatriz|QA - Design, PO|
+
+### Grupo05
+- Metodologia: KANBAN
+- Tema inicial: Sistema de Gestão de PetShop
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Erick|Back-end|
+|Thiago|Front-end|
+|Justo|Testes|
+
+### Grupo06
+- Metodologia: SCRUM
+- Tema inicial: Pizzaria - Pedidos Online
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Fernando|QA|
+|Kamili|Scrum-Master|
+|Willian|Back-End|
+|Maria|Front-end, PO|
+
+### Grupo07
+- Metodologia: SCRUM
+- Tema inicial: Pizzaria - Pedidos Online
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Fernando|QA|
+|Kamili|Scrum-Master|
+|Willian|Back-End|
+|Maria|Front-end, PO|
+
+### Grupo08
+- Metodologia: KANBAN
+- Tema inicial: Catálogo de Filmes
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Jessé|Dev - Front, Testes|
+|Diego|Dev, Back-End, Docs|
+|Vitor|Dev - Front, Testes|
+|Arthur|Dev - Front, Testes|
+
+### Grupo09
+- Metodologia: 
+- Tema inicial:
+
+|Recursos|Papéis e Responsabilidades|
+|-|-|
+|Hélio||
+|João Santos||
+|Luiza||
+|Rhayssa||
