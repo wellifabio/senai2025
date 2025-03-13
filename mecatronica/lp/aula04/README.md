@@ -207,4 +207,4 @@ int main(){
 - 3 ![Fluxograma](./fluxo03.png)
 
 ## Entrega:
-- Apresentar o computador com os códigos ao professor quando solicitado nas próximas aulas, dica, mantenha seus códigos em um pendrive ou github.
+- Forms: https://forms.gle/dTiYAW6nXpaJzb5L7
