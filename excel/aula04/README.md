@@ -10,3 +10,6 @@
 - 5. Utilizando a função SE() faça com que o Excel calcule se o emprestimo será "Aprovado" ou "Reprovado".
 - 6. Utiliza formatação condicional para deixar as palavras "Reprovado" em vermelho.
 - 7. Por fim, calcule novamente a coluna "G" agora aplicando juros compostos.
+
+## Atividade 02
+![Atividade04](./atividade04.png)
