@@ -13,3 +13,13 @@
 
 ## Atividade 02
 ![Atividade04](./atividade04.png)
+- Segue a planilha com valores atualizados e INSS de 2025
+
+|Faixa de Salário de Contribuição (R$)|Alíquota (%)|Parcela a deduzir|
+|-|-|-|
+|Até R$ 1.518,00|7,5%|–|
+|De R$ 1.518,01 até R$ 2.793,88|9%|R$ 22,77|
+|De R$ 2.793,89 até R$ 4.190,83|12%|R$ 106,60|
+|De R$ 4.190,84 até R$ 8.157,41|14%||R$ 190,42|
+
+- ![inss](./inss.png)
