@@ -9,5 +9,6 @@
 |2090106001|Iniciação Profissional|FIC|
 |2090107001|Qualificação Profissional|FIC|
 |2090108001|Aperfeiçoamento/Especialização|FIC|
+|2090101001|Aprendizagem Industrial|CAI|
 
 ### [UWF](uwf.md)
