@@ -136,3 +136,30 @@ git push
  - Criar a UI web com linguagens de marcação HTMLe CSS estilizando um único **card**
  - ![wireframe01](./wireframe01.png)
  - Criar um script para carregar os outros cards
+ ```js
+ const uri = './assets/dados.json';
+var produtos = [];
+
+//Carrega os dados do Mockup
+fetch(uri)
+    .then(resp => resp.json())
+    .then(resp => { produtos = resp; })
+    .then(() => mostrarCards())
+
+function mostrarCards() {
+    const main = document.querySelector('main');
+    produtos.forEach(p => {
+        main.innerHTML += `
+        <div class="card">
+            <h3>${p.produto}</h3>
+            <img src="${p.imagem}" alt="${p.produto}">
+            <p>Preco: ${p.preco}</p>
+            <button>Detalhes</button>
+        </div>
+        `;
+    })
+}
+```
+- ![Wireframe02](./wireframe02.png)
+- ![Wireframe03](./wireframe03.png)
+
