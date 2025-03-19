@@ -26,4 +26,5 @@
 ```bash
 git config --global user.name "wellifabio"
 git config --global user.email "seu@email.com"
+git config --list
 ```
