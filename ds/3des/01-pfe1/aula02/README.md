@@ -132,3 +132,7 @@ git push
     
 ]
  ```
+ #### Carregando dados em CARDs
+ - Criar a UI web com linguagens de marcação HTMLe CSS estilizando um único **card**
+ - ![wireframe01](./wireframe01.png)
+ - Criar um script para carregar os outros cards
