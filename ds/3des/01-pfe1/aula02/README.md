@@ -22,8 +22,9 @@
 
 ## Demonstração com replica prática
 - 1 Criar um github repositório público chamado **loja-pfe01-aula02**
-- 2 Clonar ele na área de trabalho
+- 2 Clonar ele na área de trabalho e configurar o computador para que o git seja o seu, com os comandos
 ```bash
+git clone endereço do repositório
 git config --global user.name "wellifabio"
 git config --global user.email "seu@email.com"
 git config --list
