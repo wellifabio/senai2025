@@ -36,7 +36,7 @@ Esse itinerário específico é voltado para a Formação Técnica e Profissiona
     - Desvendando a Indústria 4.0 - 20h
     - Web 3.0 - 20h
     - Fluência - Fundamentos da Inteligência Artificial - 8h
-- 3 Caso já tenha concluído algum dos cursos escolha mais cursos sugeridos no Site do **[SENAI Jaguariúna](https://jaguariuna.sp.senai.br/cursos/13/899/formacao-inicial-e-continuada?Parent=898)**
+- 3 Para se matricular nos cursos acima caso não esteja matriculado acessar **[SENAI Jaguariúna](https://sp.senai.br/cursos?unidade=513)** e pesquisar o curso
 - 4 Se tiver dificuldades de acesso, senha, clique **[Tutorial de como acessar o Portal EAD](https://ead.sp.senai.br/tutorial/comoacessar/)**
 - 5 Enviar os certificados (Print ou PDF) neste formulário **[FORMS](https://forms.gle/STMxikkU8qVfLuEb8)**
 
