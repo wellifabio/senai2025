@@ -1,5 +1,5 @@
 # Aula 02
-
+#### [Link do repositório com o exemplo visto em aula](https://github.com/wellifabio/loja-pfe01-aula02.git)
 ## Capacidades Técnicas
 - 1 Utilizar semântica de linguagem de marcação conforme normas
 - 2 Elaborar formulários de página web
