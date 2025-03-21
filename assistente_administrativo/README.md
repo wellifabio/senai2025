@@ -1,6 +1,6 @@
 # Assistente Administrativo
 ## Aprendizagem Indústrial - Assistente Administrativo
-- [FERRAMENTAS DIGITAIS PARA O MERCADO DE TRABALHO](./fdmt)
+- [FERRAMENTAS DIGITAIS PARA O MERCADO DE TRABALHO](./fmdt)
 ### Turma Grimaldi - Instituto DúOliverio
 
 |Quadros|
