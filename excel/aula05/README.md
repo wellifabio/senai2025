@@ -68,5 +68,30 @@ thiago.santos222@senaisp.edu.br
 vitor.gomes31@senaisp.edu.br
 willian.ferreira13@senaisp.edu.br
 ```
+## Exemplo 04
+- Folha de Pagamentos
+![Folha de Pagamentos](./pagtos.png)
+- Segue a lista de funcionários
+```
+Camilla Piva da Silva
+Carla Carota Mozena
+Carlos Augusto Rodrigues
+Carlos Henrique de Oliveira Siqueira
+Cicero Ruan Soares Baborsa
+Erick da Silva de Jesus
+Gabriella Godoi Avila
+Guilherme Carvalho de Oliveira
+Igor Henrique Gonçalves
+Jaqueline de Faria Rodrigues
+João Victor Colosso
+João Vitor Castro Viana Marques
+Leticia Aparecido Hofman de Souza
+Maria Fernanda Mattoso Oliveira Rello
+Mirella França de Almeida
+Otávio Bassi de Freitas
+Otavio Lima Bueno
+Pedro Henrique Pereira Sanches
+```
+
 
 
