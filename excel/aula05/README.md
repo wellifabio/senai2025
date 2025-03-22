@@ -52,21 +52,21 @@ Willian Piedade Ferreira
 ```
 - Lista de e-mails
 ```
-Lizzie de Sousa
-Luiza Uchoa Lima
-Maria Luiza Alves Florêncio
-Mellyssa Eduarda de Medeiros Silveira
-Pedro Duarte Naddeu Russo
-Pedro Henrique de Oliveira
-Rebeca Aparecida Lima do Nascimento
-Rebeca Cinthia Lazarini
-Rhayssa Rhackelly Maria
-Rodrigo Passberg de Oliveira
-Steffany Giovanna da Silva Souza
-Thamye Souza Correa
-Thiago Muniz dos Santos
-Vitor Alexandre Menegão Gomes
-Willian Piedade Ferreira
+lizzie.sousa@senaisp.edu.br
+luiza.lima8@senaisp.edu.br
+maria.florencio3@senaisp.edu.br
+mellyssa.silveira@senaisp.edu.br
+pedro.russo3@senaisp.edu.br
+pedro.oliveira290@senaisp.edu.br
+rebeca.nascimento8@senaisp.edu.br
+rebeca.lazarini@senaisp.edu.br
+rhayssa.maria@senaisp.edu.br
+rodrigo.oliveira95@senaisp.edu.br
+steffany.souza@senaisp.edu.br
+thamye.correa2@senaisp.edu.br
+thiago.santos222@senaisp.edu.br
+vitor.gomes31@senaisp.edu.br
+willian.ferreira13@senaisp.edu.br
 ```
 
 
