@@ -70,7 +70,7 @@ willian.ferreira13@senaisp.edu.br
 ```
 ## Exemplo 04
 - Folha de Pagamentos
-![Folha de Pagamentos](./folha.png)
+- ![Folha de Pagamentos](./folha.png)
 - Segue a lista de funcionários
 ```
 Camilla Piva da Silva
