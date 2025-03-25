@@ -21,11 +21,12 @@ npm i prisma -g
 ```
 - Conctar o prisma ao um SGBD MySQL
 ```bash
-npx prisma init --datasouce-provider mysql
+npx prisma init --datasource-provider mysql
 ```
-- Editar a variável de ambiente DATABASE_URL no arquivo **.env**
+- Editar a variável de ambiente DATABASE_URL e PORT no arquivo **.env**
 ```js
 DATABASE_URL="mysql://root@localhost:3306/petshop?schema=public&timezone=UTC"
+PORT=5000
 ```
 - Navegar até o arquivo ./prisma/schema.prisma
 ```js
@@ -123,10 +124,14 @@ const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 
 const create = async (req, res) => {
-    const cliente = await prisma.cliente.create({
-        data: req.body
-    });
-    res.status(201).json(cliente).end();
+    try {
+        const cliente = await prisma.cliente.create({
+            data: req.body
+        });
+        res.status(201).json(cliente).end();
+    } catch (e) {
+        res.status(400).json(e).end();
+    }
 }
 
 const read = async (req, res) => {
