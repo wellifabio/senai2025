@@ -2,7 +2,7 @@
 - ORM (Object Relationship Management)
 ## Demonstração
 Projeto modelo com prisma **[SNOOPY PetShop](https://github.com/wellifabio/pbe2-aula03-prisma-2025.git)**
-
+- ![Der-DC](./der+dc.png)
 ### Step by Step
 - Iniciar um projeto com prisma
 - 1 Ter um documento DER ou DC
