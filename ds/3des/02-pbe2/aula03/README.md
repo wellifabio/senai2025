@@ -40,7 +40,7 @@ datasource db {
 
 model Cliente{
   id Int @id @default(autoincrement())
-  cpf String? @db.VarChar(20)
+  cpf String? @db.VarChar(20) @unique
   nome String
   telefones Telefone[]
   pedidos Pedido[]
@@ -99,3 +99,74 @@ app.listen(process.env.PORT,()=>{
     console.log('API respondendo em http://localhost:'+process.env.PORT);
 });
 ```
+- Editar as rotas src/router.js
+```js
+const express = require('express');
+const router = express.Router();
+
+const Cliente = require('./controllers/cliente');
+
+router.get('/',(req, res)=>{
+    res.json({titulo:'SNOOPY PetSHop API'});
+});
+
+router.post('/clientes',Cliente.create);
+router.get('/clientes',Cliente.read);
+router.patch('/clientes/:id',Cliente.update);
+router.delete('/clientes/:id',Cliente.remove);
+
+module.exports = router;
+```
+- Editar os controles iniciando pelo Cliente
+```js
+const { PrismaClient } = require('@prisma/client');
+const prisma = new PrismaClient();
+
+const create = async (req, res) => {
+    const cliente = await prisma.cliente.create({
+        data: req.body
+    });
+    res.status(201).json(cliente).end();
+}
+
+const read = async (req, res) => {
+    const clientes = await prisma.cliente.findMany();
+    res.json(clientes);
+}
+
+const update = async (req, res) => {
+    try {
+        const cliente = await prisma.cliente.update({
+            data: req.body,
+            where: {
+                id: Number(req.params.id)
+            }
+        });
+        res.status(202).json(cliente).end();
+    } catch (e) {
+        res.status(400).json(e).end();
+    }
+}
+
+const remove = async (req, res) => {
+    try {
+        const cliente = await prisma.cliente.delete({
+            where: {
+                id: Number(req.params.id)
+            }
+        });
+        res.status(204).json(cliente).end();
+    } catch (e) {
+        res.status(400).json(e).end();
+    }
+}
+
+module.exports = {
+    create,
+    read,
+    update,
+    remove
+}
+```
+- Testar utilizando o Insomnia
+- ![Indomnia](./insomnia.png)
