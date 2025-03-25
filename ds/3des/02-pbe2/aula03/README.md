@@ -23,6 +23,10 @@ npm i prisma -g
 ```bash
 npx prisma init --datasouce-provider mysql
 ```
+- Editar a variável de ambiente DATABASE_URL no arquivo **.env**
+```js
+DATABASE_URL="mysql://root@localhost:3306/petshop?schema=public&timezone=UTC"
+```
 - Navegar até o arquivo ./prisma/schema.prisma
 ```js
 generator client {
