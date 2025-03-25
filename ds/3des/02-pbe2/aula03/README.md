@@ -178,3 +178,8 @@ module.exports = {
 
 ## Atividade
 - Conclua os controles, rotas e testes das classes **Telefone** e **Pedido**
+
+## Destaques do Kahoot
+- 1 Mellyssa
+- 2 Evelyn
+- 3 Steffany
