@@ -170,3 +170,6 @@ module.exports = {
 ```
 - Testar utilizando o Insomnia
 - ![Indomnia](./insomnia.png)
+
+## Atividade
+- Conclua os controles, rotas e testes das classes **Telefone** e **Pedido**
