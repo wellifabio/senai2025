@@ -23,3 +23,41 @@ npm i prisma -g
 ```bash
 npx prisma init --datasouce-provider mysql
 ```
+- Navegar até o arquivo ./prisma/schema.prisma
+```js
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Cliente{
+  id Int @id @default(autoincrement())
+  cpf String? @db.VarChar(20)
+  nome String
+  telefones Telefone[]
+  pedidos Pedido[]
+}
+
+model Telefone{
+  id Int @id @default(autoincrement())
+  clienteId Int
+  numero String @db.VarChar(20)
+  tipo String @db.VarChar(20)
+  cliente Cliente @relation(fields: [clienteId], references: [id])
+}
+
+model Pedido{
+  id Int @id @default(autoincrement())
+  clienteId Int
+  data DateTime @default(now())
+  produto String
+  qtd Int
+  preco Decimal @db.Decimal(10,2)
+  subTotal Decimal? @db.Decimal(10,2)
+  cliente Cliente @relation(fields: [clienteId], references: [id])
+}
+```
