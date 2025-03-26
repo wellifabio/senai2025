@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "produto": "Banho Pequeno",
+        "descricao": "Banho em cachorros pequenos",
+        "preco": 39.9,
+        "imagem": "https://conteudo.imguol.com.br/c/entretenimento/5e/2016/12/08/banho-cachorro-1481227592481_v2_3x4.jpg"
+    },
+    {
+        "id": 2,
+        "produto": "Banho Médio",
+        "descricao": "Banho em cachorros médios",
+        "preco": 49.9,
+        "imagem": "https://blog-static.petlove.com.br/wp-content/uploads/2022/02/cachorro-espuma-banho-Petlove.jpg"
+    },
+    {
+        "id": 3,
+        "produto": "Big Banho",
+        "descricao": "Banho em cachorros de grande porte",
+        "preco": 59.9,
+        "imagem": "https://mypetprince.com.br/wp-content/uploads/2019/04/autri-taheri-521018-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "produto": "Tosa Pequena",
+        "descricao": "Tosa de cachorros pequenos",
+        "preco": 29.9,
+        "imagem": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2024/01/11/2008554773-tosa-animal.jpg"
+    },
+    {
+        "id": 5,
+        "produto": "Tosa média",
+        "descricao": "Tosa de cachorros médios",
+        "preco": 39.9,
+        "imagem": "https://blog-static.petlove.com.br/wp-content/uploads/2020/12/devo-tosar-pet-verao-petlove.jpg"
+    },
+    {
+        "id": 6,
+        "produto": "Big Tosa",
+        "descricao": "Tosa de cachorros de grande porte",
+        "preco": 49.9,
+        "imagem": "https://comomontarpetshop.com.br/wp-content/uploads/2020/04/border.jpg"
+    },
+    {
+        "id": 7,
+        "produto": "Banho e tosa pequeno",
+        "descricao": "Banho e tosa de cachorros pequenos",
+        "preco": 59.9,
+        "imagem": "https://blog.vhsys.com.br/wp-content/uploads/2023/04/9-dicas-de-gestao-para-quem-tem-um-banho-e-tosa-pequeno.png"
+    },
+    {
+        "id": 8,
+        "produto": "Banho e tosa médio",
+        "descricao": "Banho e tosa de cachorros médios",
+        "preco": 110.9,
+        "imagem": "https://foxvet.com.br/wp-content/uploads/2022/07/banner-banho-tosa-perguntas-frequentes-1200x675.jpg"
+    },
+    {
+        "id": 9,
+        "produto": "Coleira",
+        "descricao": "Coleira para cachorros",
+        "preco": 25.9,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRptWC0kJeUQUtg8S8g3iFtUSVdwx_BLaaPIg&s"
+    },
+    {
+        "id": 10,
+        "produto": "Casa de Gato",
+        "descricao": "Casa para gatos",
+        "preco": 85.9,
+        "imagem": "https://cdn.leroymerlin.com.br/products/casa_para_gato_arranhador_com_rede_caramelo_e_bege_lilies_mov_1570552740_96e2_600x600.jpg"
+    }
+]

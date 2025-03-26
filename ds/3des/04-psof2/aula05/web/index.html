@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./assets/icone.png" type="image/x-icon">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>API não está respondendo</h1>
+        <nav>
+            <button onclick="novoCli.classList.remove('oculto')">Novo Cliente</button>
+            <button>Listar Pedidos</button>
+        </nav>
+    </header>
+    <main></main>
+    <footer>
+        <h2>By wellifabio</h2>
+        <p></p>
+    </footer>
+    <section id="novoCli" class="modal oculto">
+        <div class="janela">
+            <div>
+                <h2>Novo Cliente</h2>
+                <button onclick="window.location.reload()">X</button>
+            </div>
+            <form>
+                <label for="nome">Nome</label>
+                <input type="text" name="nome" required>
+                <label for="cpf">CPF</label>
+                <input type="text" name="cpf">
+                <label for="telefone">Telefone</label>
+                <input type="text" name="telefone">
+                <button type="submit">Salvar</button>
+            </form>
+        </div>
+    </section>
+</body>
+<script src="script.js"></script>
+
+</html>
