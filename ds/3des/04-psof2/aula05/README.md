@@ -25,4 +25,14 @@
     - É para trabalhar no projeto que você fez **fork**, pois os end-points estão mais completos.
     - Crie uma pasta chamada **web** dentro dela os arquivos index.html, style.css e script.js
 
+## Contextualização
+O projeto **SNOOPY PetShop** foi iniciado em aula de back-end, refere-se a um sistema para registro de vendas de produtos ou serviços no balcão de atendimento de qualquer petshop. Nesta situação problema, você é um programa dor full-stack e fica encumbido de desenvolver o front-end do sistema, criando uma web UI conforme descrição a seguir:
+### Desafio01
+- Tela principal
+    - Cabeçalho (Header)
+        - Título e menu com as opções (Novo Produto, Listar Pedidos)
+    - Principal (Main)
+        - Cards listando todos os produtos
+    - Rodapé (Footer)
+        - Autor e Data
 ## Wireframe
