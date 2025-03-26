@@ -22,7 +22,7 @@
 - Clone o projeto que fez o fork na área de trabalho.
 - Abra com VsCode e inicie a codificação do Front-End conforme wireframes e regras de negócio a seguir.
     - **Mais Instruções**
-    - É para trabalhar no projeto que você fez **fork**
+    - É para trabalhar no projeto que você fez **fork**, pois os end-points estão mais completos.
     - Crie uma pasta chamada **web** dentro dela os arquivos index.html, style.css e script.js
 
 ## Wireframe
