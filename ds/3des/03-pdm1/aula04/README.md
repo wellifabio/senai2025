@@ -13,7 +13,7 @@ void main(){
     print('Alô mundo!');
 }
 ```
-- Variáveis em Dart
+- Estudo de **variáveis** e **Strings** em Dart
 ```dart
 void main(){
     int x = 10;
@@ -37,5 +37,45 @@ void main(){
     print("O valor de dinamico  é ${dinamico}");
     dinamico = 50.9;
     print("O valor de dinamico  é ${dinamico}");
+}
+```
+- Estudo de **funções**
+```dart
+void main(){
+    //Variáveis simples
+    int v1 = 1253;
+    int v2 = 3261;
+
+    //Listas ou Vetores
+    List<double> numeros = [9.9,85.08,99.9,74,100,85]; 
+
+    //Chamando a função que soma dois múmeros
+    int resultado = somaDois(v1,v2);
+
+    //Mostrando o resultado
+    print('A soma de ${v1} + ${v2} é ${resultado}');
+
+    //Chamando a função que soma vários números
+    double total = somaVarios(numeros);
+
+    //Mostrando o resultado
+    print('O total da soma de ${numeros} é ${total}');
+
+    //Exercício01: Crie uma função que multiplique dois números inteiros e retorne o resultado
+    //Exercício02: Crie uma função que divida dois números reais e retorne o resultado,
+    // caso o divisor seja 0 imprima a mensagem 'Proibido dividir por 0' e retorne -1
+    //Desafio: Crie uma função que calcule o fatorial de um número: Teste com números menores que 100
+}
+
+int somaDois(int a, int b){
+    return a + b;
+}
+
+double somaVarios(List<double> vetor){
+    double total = 0;
+    for(var i = 0; i < vetor.length; i++){
+        total += vetor[i];
+    }
+    return total;
 }
 ```
