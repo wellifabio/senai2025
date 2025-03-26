@@ -1,4 +1,5 @@
 # Aula04 - DART
+![Lousa](./lousa.png)
 - Instalação [Flutter](https://docs.flutter.dev/get-started/install)
     - Instalar o flutter, descompactando em **C:\\**
     - Configurar a veriável de ambiente do sistema (RUM:sysdm.cpl) **path**
@@ -64,7 +65,7 @@ void main(){
     //Exercício01: Crie uma função que multiplique dois números inteiros e retorne o resultado
     //Exercício02: Crie uma função que divida dois números reais e retorne o resultado,
     // caso o divisor seja 0 imprima a mensagem 'Proibido dividir por 0' e retorne -1
-    //Desafio: Crie uma função que calcule o fatorial de um número: Teste com números menores que 100
+    //Desafio: Crie uma função que calcule o fatorial de um número: Teste com números menores que 50
 }
 
 int somaDois(int a, int b){
