@@ -18,8 +18,11 @@
 |Back-End|SGBD MySQL|
 
 ## Back-end já iniciado em aula anterior
-- Crie um **fork** do [projeto](https://github.com/wellifabio/pbe2-aula03-prisma-2025.git) com o Back-end já iniciado.
-- Clone o seu projeto na área de trabalho.
+- Crie um **fork** do [projeto](https://github.com/wellifabio/pbe2-aula03-prisma-2025.git) iniciado em aula anterior, acrescente seu login no nome do repositorio ex: **pbe2-aula03-prisma-2025-luisfernando**.
+- Clone o projeto que fez o fork na área de trabalho.
 - Abra com VsCode e inicie a codificação do Front-End conforme wireframes e regras de negócio a seguir.
+    - **Mais Instruções**
+    - É para trabalhar no projeto que você fez **fork**
+    - Crie uma pasta chamada **web** dentro dela os arquivos index.html, style.css e script.js
 
 ## Wireframe
