@@ -32,7 +32,7 @@ O projeto **SNOOPY PetShop** foi iniciado em aula de back-end, refere-se a um si
     - Cabeçalho (Header)
         - Título e menu com as opções (Novo Cliente, Listar Pedidos)
     - Principal (Main)
-        - Cards listando todos os produtos
+        - Cards listando todos os produtos e um botão comprar em cada card
     - Rodapé (Footer)
         - Autor e Data
 #### Paleta de Cores
