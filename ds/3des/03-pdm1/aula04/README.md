@@ -133,3 +133,9 @@ class Produto{
     }
 }
 ```
+
+## Exercícios
+- 1 Desenvolva um programa que leia o preço de um produto e se o preço for maior do que 1000 reais aplique um desconto de 8%. Mostre o preço final.
+- 2 Desenvolva um programa que leia o salário de um funcionário e o número de filhos. Se o salário for menor do que 2000 o funcionário receberá um salário família equivalente a 60 reais por filho. Apresente o salário final.
+- 3 Desenvolva um programa que calcule desconto de INSS de um funcionário, pesquise "Tabela INSS" no google e faça os cálculos com a tabela atualizada. Mostre o desconto e o valor do salário final.
+- 4 Desenvolva um programa que leia os valores de três lados de um triângulo (a, b e c) e se os três lados forem diferentes escreva ESCALENO se os três lados forem iguais EQUILÁTERO e se apenas dois lados forem iguais ISÓSCELES.
