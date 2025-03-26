@@ -42,4 +42,6 @@ O projeto **SNOOPY PetShop** foi iniciado em aula de back-end, refere-se a um si
 - #F7F4EB
 - rgba(0,0,0,0.7)
 - rgba(255,255,255,0.7)
+#### Fontes
+- Arial, Helvetica, sans-serif
 #### Wireframe
