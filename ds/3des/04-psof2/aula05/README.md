@@ -35,11 +35,11 @@ O projeto **SNOOPY PetShop** foi iniciado em aula de back-end, refere-se a um si
         - Cards listando todos os produtos
     - Rodapé (Footer)
         - Autor e Data
-### Paleta de Cores
+#### Paleta de Cores
 - #100E10
 - #321110
 - #955643
 - #F7F4EB
 - rgba(0,0,0,0.7)
 - rgba(255,255,255,0.7)
-### Wireframe
+#### Wireframe
