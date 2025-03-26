@@ -1,4 +1,5 @@
 # Aula04 - Função SE()
+![Lousa](lousa.png)
 - Exercícios com cálculos de porcentagem e função SE()
 - SE(Comparação > maior, Menor, igual...; se sim; senão)
 - <img src="atividade03.png">
