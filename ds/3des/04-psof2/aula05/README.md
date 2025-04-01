@@ -4,6 +4,19 @@
 - 2 Definir a infraestrutura física a ser utilizada no desenvolvimento dos componentes  
 - 3 Projetar os componentes do sistema considerando as plataformas computacionais
 
+## Conhecimentos
+- Programação Front-End
+- Integração Front-End x Back-End
+- Consumo de API com fetch (JavaScript[vanilla])
+- UX (User experience) e UI (User Interface)
+    - Responsividade
+        - Dimensões vw, vh
+        - @media (CSS) query
+        - Tabela responsiva
+    - **Modais**
+        - Abrir e fechar formulários e tabelas em modais
+        - Tabela zebrada
+
 ## Infraestrutura física
 |Stack|Tecnologia|
 |-|-|
@@ -17,8 +30,8 @@
 |Back-End|Framework XAMPP|
 |Back-End|SGBD MySQL|
 
-## Back-end já iniciado em aula anterior
-- Crie um **fork** do [projeto](https://github.com/wellifabio/pbe2-aula03-prisma-2025.git) iniciado em aula anterior, acrescente seu login no nome do repositorio ex: **pbe2-aula03-prisma-2025-luisfernando**.
+## API iniciada em aula anterior de PBE1 (Back-end)
+- Crie um **fork** do **[projeto SNOOPY PetShop](https://github.com/wellifabio/pbe2-aula03-prisma-2025.git)** iniciado em aula anterior, acrescente seu login no nome do repositorio ex: **pbe2-aula03-prisma-2025-luisfernando**.
 - Clone o projeto que fez o fork na área de trabalho.
 - Abra com VsCode e inicie a codificação do Front-End conforme wireframes e regras de negócio a seguir.
     - **Mais Instruções**
@@ -123,3 +136,8 @@ Na pasta web, crie uma subpasta chamada assets e um arquivo produtos.json conten
 ```
 #### Wireframes
 ![Wireframe01](./wireframe01.png)
+![Wireframe02](./wireframe02.png)
+![Wireframe03](./wireframe03.png)
+
+### Obs:
+- O **Front-end** do projeto com exemplo dos conhecimentos citados na aula encontra-se implementado no repositório.
