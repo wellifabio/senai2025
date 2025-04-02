@@ -31,7 +31,7 @@
 |Back-End|SGBD MySQL|
 
 ## API iniciada em aula anterior de PBE1 (Back-end)
-- Crie um **fork** do **[projeto SNOOPY PetShop](https://github.com/wellifabio/pbe2-aula03-prisma-2025.git)** iniciado em aula anterior, acrescente seu login no nome do repositorio ex: **pbe2-aula03-prisma-2025-luisfernando**.
+- Crie um **fork** do **[projeto SNOOPY PetShop](https://github.com/wellifabio/psof2-snoopy-petshop-2025.git)** iniciado em aula anterior, acrescente seu login no nome do repositorio ex: **pbe2-aula03-prisma-2025-luisfernando**.
 - Clone o projeto que fez o fork na área de trabalho.
 - Abra com VsCode e inicie a codificação do Front-End conforme wireframes e regras de negócio a seguir.
     - **Mais Instruções**
