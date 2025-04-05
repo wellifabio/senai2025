@@ -15,6 +15,7 @@
 
 ## Atividade 02
 ## Planilha de cobranças
+
 |Credor|Valor|Devido|Data|Situação|Multa|
 |-|-|-|-|-|
 |Norberto Filho|2200|15/04/2025||||
