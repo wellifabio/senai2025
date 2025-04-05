@@ -45,3 +45,9 @@
 - 4 Aplique uma **multa** de 10% somente nos valores que estiverem em atraso.
 - 5 Calcule o valor total acrescentando a multa ao valor devido
 - 6 No fila da columa **Valor Total** faça as 4 estatísticas básicas (Soma, média, máximo e mínimo)
+- 7 Crie uma tabela de resumo utilizando a função somase conforme dados a seguir e faça um gráfico de colunas
+
+|Situação|Valor Total|
+|-|-|
+|Em dia||
+|Em atraso||
