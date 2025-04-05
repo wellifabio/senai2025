@@ -13,6 +13,8 @@
 
 - Crie um gráfico de pizzas da planilha de produção e coloque em outra aba da planilha.
 - ![Procução](./producao.png)
+- ![Procução 2](./producao2.png)
+- Obs: O gráfico de pizza fica mais colorido e até mais bonito do que o gráfico de colunas, porém a comparação dos tamanhos é mais difícil
 
 ## Atividade 02
 ## Planilha de cobranças
@@ -54,3 +56,4 @@
 |Em atraso||
 
 - ![Cobrança](./cobranca.png)
+- ![Cobrança 2](./cobranca2.png)
