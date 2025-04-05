@@ -12,6 +12,7 @@
 |Feijão|78987|
 
 - Crie um gráfico de pizzas da planilha de produção e coloque em outra aba da planilha.
+- ![Procução](./producao.png)
 
 ## Atividade 02
 ## Planilha de cobranças
@@ -51,3 +52,5 @@
 |-|-|
 |Em dia||
 |Em atraso||
+
+- ![Cobrança](./cobranca.png)
