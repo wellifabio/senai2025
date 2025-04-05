@@ -2,7 +2,9 @@
 ## Gráficos simples e dinâmicos
 ### Atividade 01
 ### Planilha de controle de produção
+
 |Produto|Total Produzido|
+|-|-|
 |Soja|12354|
 |Milho|65478|
 |Arroz|9877|
