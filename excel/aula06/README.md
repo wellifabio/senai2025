@@ -57,3 +57,4 @@
 
 - ![Cobrança](./cobranca.png)
 - ![Cobrança 2](./cobranca2.png)
+- Obs: Neste segundo caso como são somente dois valores o gráfico de pizza se aplica melhor
