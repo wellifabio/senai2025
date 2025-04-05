@@ -16,7 +16,7 @@
 ## Atividade 02
 ## Planilha de cobranças
 
-|Credor|Valor|Devido|Data|Situação|Multa|
+|Credor|Valor Devido|Vencimento|Situação|Multa 10%|Valor Total|
 |-|-|-|-|-|-|
 |Norberto Filho|2200|15/04/2025||||
 |Queila Silva|1500|04/04/2025||||
@@ -38,3 +38,7 @@
 |Tatiane Teixeira Oliveira|2300|31/03/2025||||
 |Raul de Souza|1900|26/03/2025||||
 |Tatiane Martim|3700|24/04/2025||||
+
+- 1 Copie a planilha de cobranças no Excel
+- 2 Formate os valores como Monetários (Dinheiro)
+- 3
