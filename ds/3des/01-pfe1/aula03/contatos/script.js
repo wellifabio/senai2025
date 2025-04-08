@@ -1,9 +1,10 @@
-alert('Esta página armazena dados sensíveis!');
 const cadastro = document.querySelector('header form');
 const tcorpo = document.querySelector('main tbody');
 const listaArmazenada = JSON.parse(window.localStorage.getItem('contatos'));
+
 if(!listaArmazenada){
     window.localStorage.setItem('contatos', JSON.stringify([]));
+    alert('Esta página armazena dados sensíveis!');
     listaArmazenada = [];
 }else{
     preencherTabela();
@@ -37,4 +38,12 @@ async function preencherTabela(){
 
 async function salvar(){
     window.localStorage.setItem('contatos', JSON.stringify(listaArmazenada));
+}
+
+function excluir(i){
+    if(confirm('Deseja realmente excluir?')){
+        listaArmazenada.splice(i, 1);
+        preencherTabela();
+        salvar();
+    }
 }
