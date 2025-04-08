@@ -14,4 +14,5 @@
     - Melhore a estilização CSS a sua escolha.
 - ![Gestão de contatos](./print02.png)
 ### Entrega
-- Crie um repositório público github chamado pfe1-aula03 suba os códigos e habilite o gitpages.
+- Crie um repositório público github chamado **pfe1-aula03-contatos** suba os códigos e habilite o gitpages.
+- Envie o link do gitpages neste **[Formulário]()**
