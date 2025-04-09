@@ -41,7 +41,7 @@ Desenvolver o back-end do sistema de gerenciamento de pedidos para delivery da P
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
 |-|:-:|-|
 |![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|1 Utilizar o paradigma da programação orientada a objetos|Utilizou o ORM Prisma que utiliza MVC como padrão|
-|![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|2 Elaborar diagramas de classe|Nesta situação não será necessária esta elaboração, bstando somente interpretar o DER de forma precisa|
+|![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|2 Elaborar diagramas de classe|Nesta situação não será necessária esta elaboração, bastando somente interpretar o DER de forma precisa|
 |![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|3 Aplicar técnicas de código limpo (clean code)|Implementou somente os códigos que resolvem os requisitos funcionais e casos de testes|
 |![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|4 Identificar as características de programação back-end em ambiente web|O projeto foi emplementado no Node.js + prisma e os casos de teste foram implementados via Insomnia|
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|5 Preparar o ambiente necessário ao desenvolvimento back-end para a plataforma web|Se necessário, sabe instalar ou reinstalar XAMPP, VsCode, NodeJS e Insomnia|
