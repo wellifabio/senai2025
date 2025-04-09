@@ -257,4 +257,4 @@ void main(){
 }
 ```
 ### Desafio 03
-- Ao exibir os canidatos e porcentagens informe se o primeiro candidato seria eleito em primeiro turno ou se haverá segundo turno.
+- Ao exibir os candidatos e porcentagens informe se o primeiro candidato seria eleito em primeiro turno ou se haverá segundo turno.
