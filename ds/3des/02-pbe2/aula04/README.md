@@ -70,7 +70,7 @@ model Matricula{
 ```
 - Faremos a migração do banco de dados para o MySQL através do comando a seguir no terminal
 ```bash
-prisma migrate dev --name init
+npx prisma migrate dev --name init
 ```
 - O Banco de dados será migrado e se quisermos conferir podemos abrir o PHPMyAdmin e verificar o **Desenhador**
 - ![DER Modelo Lógico](./escola-der-logico.png)
