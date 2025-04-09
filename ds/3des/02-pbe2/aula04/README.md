@@ -442,3 +442,6 @@ module.exports = {
     - Matricule os 15 alunos em todas as 5 disciplinas (75 matrículas)
 - Altere o **readOne** do controlle turma para que mostre os dados:
     - Turma {disciplinas{alunos,professores}}
+
+### [Repositório do projeto concluído](https://github.com/wellifabio/pbe2-aula04-escola-2025.git)
+Contendo os dados de teste sendo semeados a partir de documentos JSON
