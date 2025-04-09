@@ -11,7 +11,7 @@ cd api
 npm i prisma -g
 npm init -y
 npm i express cors dotenv
-    prisma init --datasource-provider mysql
+npx prisma init --datasource-provider mysql
 ```
 - Altere o endereço do arquivo **.env** para:
 ```js
