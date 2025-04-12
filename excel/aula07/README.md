@@ -16,3 +16,5 @@
 ## Atividade
 - Digite a planilha a seguir e calcule a comissão de cada vendedor:
 - ![Concessionaria](./concessionaria.png)
+- Construa um dashboard com gráficos dinâmicos analisando os carros mais vendidos, comparando os vendedores e as comissões
+- Calcule o lucro da concessionária descontando as comissões dos vendedores.
