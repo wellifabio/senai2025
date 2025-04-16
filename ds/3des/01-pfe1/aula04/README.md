@@ -30,7 +30,7 @@ O P.O. criou os wireframes a seguir e você deve codificar o protótipo do carri
 |Página carrinho.html com os itens adicionados ao carrinho|carrinho.html Responsivo|
 
 ## Funcionalidades tela index.html
-- [ ] A página deve ser carregada com os produtos em formato de cards (pelo menos 6 produtos provenientes do seguinte JSON):
+- [ ] A página deve ser carregada com os produtos em formato de cards (pelo menos 6 produtos provenientes do JSON abaixo), os produtos são apenas exemplos podem ser alterados, mas devem ter as seguintes informações: id, imagem, nome, descrição, preço, peso e frete.
 ```json
  [
     {
