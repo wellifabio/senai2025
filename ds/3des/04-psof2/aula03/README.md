@@ -135,12 +135,12 @@ Prepare um pequeno documento ou apresentação explicando suas escolhas e como v
 |Arthur|Dev - Front, Testes|
 
 ### Grupo09
-- Metodologia: 
-- Tema inicial:
+- Metodologia: Kanban
+- Tema inicial: Hangetsu Uzumaki - Artes Marciais
 
 |Recursos|Papéis e Responsabilidades|
 |-|-|
-|Hélio||
-|João Santos||
-|Luiza||
-|Rhayssa||
+|Hélio|Back/Teste|
+|João Santos|Front|
+|Luiza|Back/Banco|
+|Rhayssa|Front|
