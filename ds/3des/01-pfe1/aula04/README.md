@@ -18,7 +18,6 @@ O P.O. criou os wireframes a seguir e você deve codificar o protótipo do carri
     - #F4A460 (SandyBrown)
     - #FFDEAD (NavajoWhite)
 - Fonte: Roboto (Google Fonts)
-- Imagens: Você pode usar imagens de produtos do site [Unsplash](https://unsplash.com/s/photos/clothes) ou [Pexels](https://www.pexels.com/pt-br/foto-livre/).
 
 ## Wireframes
 |Web|Responsivo|
@@ -108,4 +107,8 @@ O P.O. criou os wireframes a seguir e você deve codificar o protótipo do carri
 ## Entrega
 - Ao concluir o projeto deve enviar para um repositório público no GitHub.
 - Habilitar o GitHub Pages para o repositório e enviar o link do projeto para o professor.
-- O projeto deve ser entregue até o dia 16/04/2025.
+- O projeto deve ser entregue até o dia 16/04/2025 [Neste formulário](https://docs.google.com/forms/d/e/1FAIpQLSeGIpadyDSD0r27YQ865PzfKYIbitqjGOtzUoeZ2kpCHT0s4Q/viewform?usp=dialog).
+
+## Observações
+- O projeto deve ser responsivo e funcionar em dispositivos móveis e desktop.
+- As cores dos wireframes estão em escala de cinza, mas você deve usar as cores da paleta de cores acima.
