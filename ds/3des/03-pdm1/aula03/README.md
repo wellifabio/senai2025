@@ -1,7 +1,8 @@
 # Aula03 - Flutter
 ## 1. Introdução
 - O Flutter é um framework para desenvolvimento de aplicações móveis multiplataforma, ou seja, com uma única base de código é possível criar aplicativos para Android e iOS.
-
+- Projeto mantido pela google
+- [IDX - IDE Online](https://idx.google.com)
 ## Ambiente
 - Para desenvolver aplicações com Flutter é necessário instalar o Flutter SDK e o Android Studio.
 - Android Studio - IDE (Integrated Development Environment) para desenvolvimento de aplicativos Android.
