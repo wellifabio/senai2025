@@ -12,3 +12,9 @@
 |2090101001|Aprendizagem Industrial|CAI|
 
 ### [UWF](uwf.md)
+
+### Alura - Imersão Mobile - Aulas
+- [Live](https://alura.tv/43Rcp0O)
+- [Aula 1](https://alura.tv/4cv0Ezz)
+- [Aula 2](https://alura.tv/4lvGnhj)
+- [Aula 3](https://alura.tv/3RQxD7H)
