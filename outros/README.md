@@ -20,3 +20,4 @@
 - [Aula 3](https://alura.tv/3RQxD7H)
 - [Link figma](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f)
 - [Repositorio do App completo](https://github.com/wellifabio/flutter_techtaste.git)
+- [Firebase Studio](https://idx.google.com)
