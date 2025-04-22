@@ -20,39 +20,39 @@ Na tabela abaixo, a frente do seu nome encontra-se o link do projeto que você d
 
 |Programadores|Projetos|
 |-|-|
-|Arthur Souza de Oliveira||
-|Beatriz Vitoria Mendes de Almeida||
-|Catarina Silva Pereira||
-|Crislaine Leopoldo Candido||
-|Diego Maradona Preti Costa Figueiredo||
-|Erick Aguiar de Souza Pinto||
-|Evelyn Fernandes||
-|Femando Joaquim Mota||
-|Hélio Alves de Oliveira||
-|Jessé Oliveira da Silva||
-|João Pedro Nepomuceno dos Santos||
-|Joao Victor da Silva Angra||
-|Justo Willian Cardoso Carneiro||
-|Kamili Vitoria dos Santos||
-|Kathleen Carolini Silva Miranda||
-|Lais Nascimento Andrade||
-|Larissa dos Santos da Rocha||
-|Larissa Vitoria Alves dos Santos||
-|Lizzie de Sousa||
-|Luiza Uchoa Lima||
-|Maria Luiza Alves Florêncio||
-|Mellyssa Eduarda de Medeiros Silveira||
-|Pedro Duarde Naddeu Russo||
-|Pedro Henrique de Oliveira||
-|Rebeca Aparecida Lima do Nascimento||
-|Rebeca Cinthia Lazarini||
-|Rhayssa Rhackelly Maria||
-|Rodrigo Passberg de Oliveiro||
-|Steffany Giovanna da Silva Souza||
-|Thamye Souza Correa||
-|Thiago Muniz dos Santos||
-|Vitor Alexandre Menegão Gomes||
-|Willian Piedade Ferreira||
+|Arthur Souza de Oliveira|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Beatriz Vitoria Mendes de Almeida|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Catarina Silva Pereira|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|Crislaine Leopoldo Candido|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|Diego Maradona Preti Costa Figueiredo|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Erick Aguiar de Souza Pinto|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Evelyn Fernandes|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Femando Joaquim Mota|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|Hélio Alves de Oliveira|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Jessé Oliveira da Silva|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|João Pedro Nepomuceno dos Santos|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|Joao Victor da Silva Angra|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|Justo Willian Cardoso Carneiro|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git
+|Kamili Vitoria dos Santos|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Kathleen Carolini Silva Miranda|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Lais Nascimento Andrade|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Larissa dos Santos da Rocha|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Larissa Vitoria Alves dos Santos|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
+|Lizzie de Sousa|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Luiza Uchoa Lima|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Maria Luiza Alves Florêncio|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Mellyssa Eduarda de Medeiros Silveira|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Pedro Duarde Naddeu Russo|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Pedro Henrique de Oliveira|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Rebeca Aparecida Lima do Nascimento|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Rebeca Cinthia Lazarini|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Rhayssa Rhackelly Maria|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Rodrigo Passberg de Oliveiro|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Steffany Giovanna da Silva Souza|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Thamye Souza Correa|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Thiago Muniz dos Santos|https://github.com/wellifabio/pfe1-vps01-lanchonete-delivery-2025.git|
+|Vitor Alexandre Menegão Gomes|https://github.com/luisfernandospoljaric/pfe1-vps01-locacaoCarros-2025.git|
+|Willian Piedade Ferreira|https://github.com/luisfernandospoljaric/pfe1-vps01-sistemBiblioteca-2025.git|
 
 ## Critérios
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
