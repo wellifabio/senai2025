@@ -14,6 +14,7 @@ Na tabela abaixo, a frente do seu nome encontra-se o link do projeto que você d
 
 ## OBS:
 - Preste atenção nas orientações de entrega, pois a avaliação será conforme os commits realizados.
+- [Exemplo da correção do projeto da avaliação formativa na aula 04](https://github.com/wellifabio/pfe1-aula04-mariana-vest-2025.git)
 
 ## Tabela de projetos
 
