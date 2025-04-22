@@ -9,7 +9,8 @@ Na tabela abaixo, a frente do seu nome encontra-se o link do projeto que você d
 
 ## Entrega:
 - Ao concluir o desenvolvimento, faça **commit** no seu repositório público, para que o SCRUM Master possa validar suas implementações e enviar para o time de **Q.A.** testar.
-- Também habilite o github pages para que o SCRUM Master possa validar a entrega do projeto.
+- Também habilite o **github pages** para que o time de Q.A possa fazer testes de caixa preta e ponto a ponto.
+- Crie a estrutura de pastas tipo MVC (Model, View, Controller) para o projeto, conforme o exemplo abaixo:
 - O projeto deve ser entregue até o dia 22/04/2025, às 17:00h.
 
 ## OBS:
