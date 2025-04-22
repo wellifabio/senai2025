@@ -1,7 +1,7 @@
 # Aula04 - VPF01
 Verificação Pratica Formativa 01
 ## Contextualização
-Sra. Mariana doa da loja de roupas **Mariana Vest** gostaria de um site para vender seus produtos. Você como programador(a) front-end foi incumbido de codificar um protótipo do **Carrinho de Compras**.
+Sra. Mariana dona da loja de roupas **Mariana Vest** gostaria de um site para vender seus produtos. Você como programador(a) front-end foi incumbido de codificar um protótipo do **Carrinho de Compras**.
 
 ## Desafio
 O P.O. criou os wireframes a seguir e você deve codificar o protótipo do carrinho de compras. O protótipo deve ser responsivo e funcionar em dispositivos móveis e desktop e utilizar as configurações abaixo:
