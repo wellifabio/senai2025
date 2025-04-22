@@ -72,3 +72,20 @@ Na tabela abaixo, a frente do seu nome encontra-se o link do projeto que você d
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|3 Demonstrar inteligência emocional|Se dedicou ao aprendizado para compreender o mínimo do componente|
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|4 Demonstrar autonomia|Questionou os intrutores ou colegas sobre dúvidas ou problemas ocorridos durante o desenvolvimento. Se propôs a resolver os problemas|
 
+|NÍVEIS DE DESEMPENHO|NÍVEIS|NOTA|
+|-|-|-|
+|Atingiu todos os critérios críticos e desejáveis|1|100|
+|Atingiu todos os critérios críticos e 7 desejáveis|2|94|
+|Atingiu todos os critérios críticos e 6 desejáveis|3|88|
+|Atingiu todos os critérios críticos e 5 desejáveis|4|82|
+|Atingiu todos os critérios críticos e 4 desejáveis|5|76|
+|Atingiu todos os critérios críticos e 3 desejáveis|6|70|
+|Atingiu todos os critérios críticos e 2 desejáveis|7|64|
+|Atingiu todos os critérios críticos e 1 desejáveis|8|58|
+|Atingiu todos os critérios críticos|9|50|
+|Atingiu 3 critérios críticos|10|38|
+|Atingiu 2 critérios críticos|11|26|
+|Atingiu 1 critérios críticos|12|14|
+
+|NÍVEL MÍNIMO DE DESEMPENHO ESPERADO|9|
+|-|-|
