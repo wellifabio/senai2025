@@ -25,3 +25,8 @@ A partir do wireframe desenhado/esboçado na lousa abaixo, vamos reproduzir o me
 - 5 Criar um novo Frame (Tamanho: iPhone 14 Pro) e nomeá-lo como "Login".
 - 6 Na aba esquerda clicar em "Assets" e buscar por "Input" e arrastar os elementos para a área vazia da tela e após editar arrastar para o Frame "Login".
 <br>![Figma01](./figma01.png)
+
+### Simulação de exibição de senha
+![figma02](./figma02.png)
+- 1 Desenhar duas telas de Login, uma com a senha visível e outra com a senha oculta.
+- 2 Aplicar efeito "Touch down" no botão "Olho" para alternar entre a tela "login0" e "login1" e "Touch up" para voltar para a tela "login0".
