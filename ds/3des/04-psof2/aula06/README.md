@@ -9,5 +9,6 @@
 - [ ] Listar os requisitos **funcionais** na ordem [RF001], [RF002], [RF003], ... e os requisitos **não funcionais** na ordem [NF001], [NF002], [NF003], ... (não é necessário detalhar os requisitos, apenas listar)
     - Para cada **requisio funcional** deve ser desenhado um DCU (Diagrama de Casos de Uso).
 - [ ] Iniciar o desenvolvimento do projeto, criando as pastas e arquivos iniciais (README.md, .gitignore, etc).
+- [ ] Criar o protótipo com algumas funcionalidades simuladas utilizando o Figma (não é necessário criar o protótipo completo, mas deve ter algumas funcionalidades simuladas).
 
 ### [Forms para envio do link do repositório github do projeto](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)
