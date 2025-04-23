@@ -39,3 +39,7 @@ A partir do wireframe desenhado/esboçado na lousa abaixo, vamos reproduzir o me
 - 2 Aplicar efeito "Touch down" no botão "Olho" para alternar entre a tela "login0" e "login1" e "Touch up" para voltar para a tela "login0".
 
 ### [Link do App Chaves - Demonstração de aula](https://www.figma.com/design/XXfXuoXy8hPNhjEfaTGIag/App-Chaves?node-id=0-1&t=qeG3925r7voqeYug-1)
+
+## Atividades
+![Figma03](./figma03.png)
+<br>Use sua criatividade.
