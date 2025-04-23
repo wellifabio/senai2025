@@ -38,6 +38,11 @@ A partir do wireframe desenhado/esboçado na lousa abaixo, vamos reproduzir o me
 - 1 Desenhar duas telas de Login, uma com a senha visível e outra com a senha oculta.
 - 2 Aplicar efeito "Touch down" no botão "Olho" para alternar entre a tela "login0" e "login1" e "Touch up" para voltar para a tela "login0".
 
+### Rolagem de tela
+|Tela|Processo|
+|-|-|
+|![Rolagem](./rolagem.png)|1 Cria conteúdos maiores do que o tamanho da tela<br>2 Marcar os elementos que não devem rolar em "Prototype >> Scroll behavior >> Fixed"<br>3 Ainda em Prototype clicar no frame e habilitar a rolagem vertical ou horizontal|
+
 ### [Link do App Chaves - Demonstração de aula](https://www.figma.com/design/XXfXuoXy8hPNhjEfaTGIag/App-Chaves?node-id=0-1&t=qeG3925r7voqeYug-1)
 
 ## Atividades
