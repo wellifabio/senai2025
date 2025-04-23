@@ -18,6 +18,13 @@
 A partir do wireframe desenhado/esboçado na lousa abaixo, vamos reproduzir o mesmo no Figma. Criando um protótipo funcional.
 <br>![Lousa](./lousa.png)
 
+### Identidade Visual
+![Identidade Visual](./identidade.png)
+<br> Inicialmente precisamos definir a identidade visual do projeto, conforme exemplo acima:
+<br> Os elementos da indentidade visual devem ser salvos separadamente em uma pasta "assets" dentro do projeto, para facilitar a importação no figma.
+<br> Podemos utilizar oitras ferramentas como **Canva**, **Photoshop**, Illustrator, entre outras para criar a identidade visual do projeto.
+
+### Splash Screen e Tela de Login
 - 1 Abrir o figma e criar um novo Design.
 - 2 Criar um novo Frame (Tamanho: iPhone 14 Pro) e nomeá-lo como "Slpash0".
 - 3 Duplicar o Frame "Slpash0" e nomeá-lo como "Slpash1", modificar o tamanho dos elementos do splahs (Logotipo e Logomarca).
