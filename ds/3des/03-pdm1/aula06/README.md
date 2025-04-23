@@ -17,3 +17,11 @@
 ## Demonstração com reprodução prática
 A partir do wireframe desenhado/esboçado na lousa abaixo, vamos reproduzir o mesmo no Figma. Criando um protótipo funcional.
 <br>![Lousa](./lousa.png)
+
+- 1 Abrir o figma e criar um novo Design.
+- 2 Criar um novo Frame (Tamanho: iPhone 14 Pro) e nomeá-lo como "Slpash0".
+- 3 Duplicar o Frame "Slpash0" e nomeá-lo como "Slpash1", modificar o tamanho dos elementos do splahs (Logotipo e Logomarca).
+- 4 Clicar em prototype e aplicar um efeito "after delay" de 800ms, para o Frame "Slpash1".
+- 5 Criar um novo Frame (Tamanho: iPhone 14 Pro) e nomeá-lo como "Login".
+- 6 Na aba esquerda clicar em "Assets" e buscar por "Input" e arrastar os elementos para a área vazia da tela e após editar arrastar para o Frame "Login".
+<br>![Figma01](./figma01.png)
