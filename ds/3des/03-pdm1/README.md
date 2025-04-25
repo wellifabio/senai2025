@@ -25,7 +25,8 @@
 - 2 Preparar o ambiente necessário ao desenvolvimento do sistema para a plataforma mobile 
 - 3 Interpretar os requisitos do sistema, tendo em vista a elaboração dos componentes em ambiente mobile 
 - 4 Definir os elementos de entrada, processamento e saída para a codificação das funcionalidades mobile 
-- 5 Projetar interfaces para dispositivos móveis 6. Implementar o código respeitando as características da linguagem na plataforma mobile 
+- 5 Projetar interfaces para dispositivos móveis
+- 6. Implementar o código respeitando as características da linguagem na plataforma mobile 
 - 7 Persistir dados em dispositivos móveis
 - 8 Realizar a integração de dispositivos móveis aos serviços web 
 - 9 Realizar os testes unitários nos componentes do sistema mobile 
