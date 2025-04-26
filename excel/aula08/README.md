@@ -12,7 +12,7 @@
   - Utilize a função PROCV(Código, Tabela Relatório, Coluna 2)
 - 2 Preencha a coluna "C" com os totais de cada vendedor
   - Utilize a função PROCV(Código, Tabela Relatório, Coluna 8)
-- 3 Na coluna "D" calcule a comissão de cada vendedor seguindo a regra das comissões descrita na linha 18. Se utilizar a função SE() corretamente 90%, se fizer manualmente 85%
+- 3 Na coluna "D" calcule a comissão de cada vendedor seguindo a regra das comissões descrita na linha 18, utilize a função SE().
 - 4 Calcule as estatísticas por dia da semana (Total, Média, Máximo e Mínimo) somente até a coluna "M"
 - 5 Calcule as estátísticas por funcionário colunas (N, O, P e Q) somente até a linha "22"
 - 6 Calcule as estatísticas do Total "coluna N" (Soma(), Média(), Máximo() e Mínimo())
