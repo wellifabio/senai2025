@@ -2,6 +2,8 @@
 
 # VPS01 (Verificação Prática Formativa 01)
 
+## Situação de aprendizagem:
+
 |Abra uma nova pasta de trabalho do excel e digite a planilha a seguir:|
 |-|
 |![](planilha1.png)|
