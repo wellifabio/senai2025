@@ -18,7 +18,7 @@
 - 4 Calcule as estatísticas por dia da semana (Total, Média, Máximo e Mínimo) somente até a coluna "M"
 - 5 Calcule as estátísticas por funcionário colunas (N, O, P e Q) somente até a linha "22"
 - 6 Calcule as estatísticas do Total "coluna N" (Soma(), Média(), Máximo() e Mínimo())
-- 7 Selecione as colunas "B" e "D", vendedor e comissão e crie um gráfico recomendado, deixe-o ao na mesma página porém abaixo das Comissões na linha 19.
-- 8 Calcule o Total, Maior e Menor comissão nas células (D13, D14, D15)
+- 7 Calcule o Total, Maior e Menor comissão nas células (D13, D14, D15)
+- 8 Selecione as colunas "B" e "D", vendedor e comissão e crie um gráfico recomendado, deixe-o na mesma página porém abaixo das Comissões na linha 19.
 - 9 Crie um **Dashboard** com dois gráficos dinâmicos de (vendedor e total) e (vendedor e comissão) aplique **segmentação** de dados por vendedor.
 - 10 Clique no link a seguir e responda o questionário: https://forms.gle/N3io1HFogznzxPh57
