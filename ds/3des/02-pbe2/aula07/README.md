@@ -25,3 +25,4 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 |Grupo|Tipo|Pattern|
 |-|-|-|
 |Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|
+|Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|
