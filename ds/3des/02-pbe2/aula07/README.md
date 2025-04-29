@@ -10,7 +10,6 @@
 ## Exemplos
 #### [Exemplo Manual Composite e Builder](./gof/BuilderComposite.md)
 #### [Exemplo Prisma Singleton, Composite e Builder](./gof/README.md)
-![Insomnia](./insomniagof.png)
 
 ## Atividades
 Em grupos de duas a três pessoas, escolha uma solução classica, comunique-se com os colegas de sala para não escolherem os mesmos patterns. estude a solução.
