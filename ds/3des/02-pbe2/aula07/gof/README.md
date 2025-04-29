@@ -97,4 +97,4 @@ module.exports = {
 }
 ```
 - Neste exemplo basta utilizar o include: { itens: true } para incluir os itens do pedido na consulta. O padrão Composite é útil para representar hierarquias de objetos e tratar objetos individuais e composições de forma uniforme.
-<br>![Insomnia](./insomnia.png)
+<br>![Insomnia](./insomnia1.png)
