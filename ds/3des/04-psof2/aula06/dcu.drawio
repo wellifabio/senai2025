@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Página-1" id="vG8MjINoWmgi7BAERAm2">
+    <mxGraphModel dx="1428" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ehLrQ4JdI5holOjxMt8x-1" target="ehLrQ4JdI5holOjxMt8x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-1" value="Bibliotecário(a)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-2" value="&lt;div&gt;[RF001]&lt;/div&gt;Gerenciar alunos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-3" value="&lt;div&gt;[RF001.1]&lt;/div&gt;Listar livros emprestados" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="464" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-5" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ehLrQ4JdI5holOjxMt8x-4" target="ehLrQ4JdI5holOjxMt8x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Funcionalidades&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CRUD&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ehLrQ4JdI5holOjxMt8x-2" target="ehLrQ4JdI5holOjxMt8x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="ehLrQ4JdI5holOjxMt8x-9" target="ehLrQ4JdI5holOjxMt8x-10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-9" value="Bibliotecário(a)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="365" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-10" value="&lt;div&gt;[RF002]&lt;/div&gt;Gerenciar Empréstimos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-11" value="&lt;div&gt;[RF001.1]&lt;/div&gt;Associar o empréstimo ao aluno" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-12" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" source="ehLrQ4JdI5holOjxMt8x-13" target="ehLrQ4JdI5holOjxMt8x-10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-13" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Funcionalidades&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CRUD&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" source="ehLrQ4JdI5holOjxMt8x-10" target="ehLrQ4JdI5holOjxMt8x-11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-15" value="DCU (Diagrama de casos de uso)&lt;div&gt;Projeto: Biblioteca ACME&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-16" value="DCU (Diagrama de casos de uso)&lt;div&gt;Projeto: Biblioteca ACME&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-17" value="&lt;div&gt;[RF001.2]&lt;/div&gt;Obter data do sistema ao registrar novo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-18" value="&lt;div&gt;[RF001.3]&lt;/div&gt;Atualizar o empréstimo com a data da devolução" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-19" value="&lt;div&gt;[RF001.4]&lt;/div&gt;Calcular multa se houver" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="295" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-20" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ehLrQ4JdI5holOjxMt8x-19" target="ehLrQ4JdI5holOjxMt8x-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="ehLrQ4JdI5holOjxMt8x-10" target="ehLrQ4JdI5holOjxMt8x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehLrQ4JdI5holOjxMt8x-22" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.657;entryY=1.029;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="ehLrQ4JdI5holOjxMt8x-18" target="ehLrQ4JdI5holOjxMt8x-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
