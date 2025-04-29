@@ -1,0 +1,208 @@
+type: collection.insomnia.rest/5.0
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1740747688230
+  modified: 1740747688230
+collection:
+  - name: Restaurante
+    meta:
+      id: fld_f1d9a1cfa9794a1eb2ba184c183618c7
+      created: 1740747710762
+      modified: 1741616482478
+      sortKey: -1740747710762
+    children:
+      - name: clientes
+        meta:
+          id: fld_465a77db8a2a491492029e8f14726d0a
+          created: 1740747767904
+          modified: 1740747767904
+          sortKey: -1740747767904
+      - name: comidas
+        meta:
+          id: fld_53f5330f0ce448f39a0b5ea776059c3c
+          created: 1740747779231
+          modified: 1742237705033
+          sortKey: -1740747779231
+  - name: Escola
+    meta:
+      id: fld_84bcf5fdb5af4bc2be95be544bbb5b68
+      created: 1741616489807
+      modified: 1741616489807
+      sortKey: -1741616489807
+    children:
+      - name: Aluno
+        meta:
+          id: fld_fb0f757d3cea493f9acd12afb6d8494a
+          created: 1741616519606
+          modified: 1741625285294
+          sortKey: -1741616519682
+      - name: Professor
+        meta:
+          id: fld_e8bc98cf659c4058806d6a20a541af63
+          created: 1741623377484
+          modified: 1741625282383
+          sortKey: -1741616519657
+      - name: Turma
+        meta:
+          id: fld_87bdcd65beeb4d059063829b0ba93388
+          created: 1741623401211
+          modified: 1741623401211
+          sortKey: -1741616512157
+      - name: Disciplina
+        meta:
+          id: fld_509457d8ad7d4464869d10bf54ff94cd
+          created: 1741631496731
+          modified: 1741631496731
+          sortKey: -1741616500982
+      - name: Matricula
+        meta:
+          id: fld_c423dc24c44c45fb8c08cc0c49927554
+          created: 1741633748429
+          modified: 1741633748429
+          sortKey: -1741616495394.5
+  - name: Pizzaria
+    meta:
+      id: fld_84e0c887b3d54136a3d41052ee9b76e8
+      created: 1742823883717
+      modified: 1742823883717
+      sortKey: -1742823883717
+    children:
+      - name: Clientes
+        meta:
+          id: fld_2ea3eb894bcd40cea521e5cf541d450c
+          created: 1742823938240
+          modified: 1742823938240
+          sortKey: -1742823938240
+      - name: Pizzas
+        meta:
+          id: fld_929ef451f39545d9b6dcac791391765d
+          created: 1742825472347
+          modified: 1742825472347
+          sortKey: -1742823910978.5
+      - name: Pedidos
+        meta:
+          id: fld_6d54756707774911b1d63e1e0ff11694
+          created: 1742825945396
+          modified: 1742825945396
+          sortKey: -1742823897347.75
+      - name: Itens
+        meta:
+          id: fld_dadf675d4ca94a20aab94981cd7f8eca
+          created: 1742826447975
+          modified: 1742826453118
+          sortKey: -1742823890532.375
+  - name: Pizzaria
+    meta:
+      id: fld_b813d483a81d476b9bac997d016e7090
+      created: 1742823883717
+      modified: 1743167543769
+      sortKey: -1742823883717
+    children:
+      - name: Clientes
+        meta:
+          id: fld_fb1d939e646d48a0ad9772252f28bce3
+          created: 1742823938240
+          modified: 1742823938240
+          sortKey: -1742823938240
+      - name: Pizzas
+        meta:
+          id: fld_782c95f11e424ab488f813f7cbcb000a
+          created: 1742825472347
+          modified: 1742825472347
+          sortKey: -1742823910978.5
+      - name: Pedidos
+        meta:
+          id: fld_7830b0a07b2a49fd8207a9a2bfb6a135
+          created: 1742825945396
+          modified: 1742825945396
+          sortKey: -1742823897347.75
+      - name: Itens
+        meta:
+          id: fld_aab7dbed2ec9466bbf3cea67a55e898f
+          created: 1742826447975
+          modified: 1742826453118
+          sortKey: -1742823890532.375
+  - name: Biblioteca
+    meta:
+      id: fld_f43957244be24e0b81bb379ba9f36198
+      created: 1743431218324
+      modified: 1743431218324
+      sortKey: -1743431218325
+  - name: Gof
+    meta:
+      id: fld_7c8a9f29e6734018976cdfd503d7eed6
+      created: 1744630709013
+      modified: 1744630709013
+      sortKey: -1744630709013
+    children:
+      - name: PedidosBuilder
+        meta:
+          id: fld_591604c067f6416d9f96184ab3f5554e
+          created: 1744633109721
+          modified: 1744633113572
+          sortKey: -1744630745325
+        children:
+          - url: http://localhost:5000/pedidos
+            name: CREATE-ITEM
+            meta:
+              id: req_f07c1d607dbe4eb5aa4c577d36e1b55e
+              created: 1744633120889
+              modified: 1744635691129
+              isPrivate: false
+              sortKey: -1744633124210
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"produto":"Camiseta",
+                	"preco":9.9,
+                	"quantidade":5
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/11.0.2
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - url: http://localhost:5000
+        name: Teste ou título
+        meta:
+          id: req_5aa64088a46b4c28869a667565bf9371
+          created: 1744630742064
+          modified: 1744633134848
+          isPrivate: false
+          sortKey: -1744630745425
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.0.1
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1740747698883
+    modified: 1740747698883
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1740747698766
+    modified: 1740747698766
+    isPrivate: false
