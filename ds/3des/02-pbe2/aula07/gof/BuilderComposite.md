@@ -1,3 +1,5 @@
+# Diagrama de classes para os exemplos a seguir
+![Diagrama de classes](./uml-dc-pedidos.png)
 ### Exemplo do pattern **Criação - Builder** nas classes Pedido e Item
 - builderPedido.js
 ```js
