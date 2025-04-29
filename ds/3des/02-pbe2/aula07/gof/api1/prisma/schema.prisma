@@ -1,0 +1,26 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Pedido {
+  id      Int      @id @default(autoincrement())
+  cliente String   @db.VarChar(100)
+  data    DateTime @default(now())
+  itens   Item[]
+}
+
+model Item {
+  id         Int    @id @default(autoincrement())
+  produto    String @db.VarChar(100)
+  quantidade Int
+  preco      Float
+  subtotal   Float?
+  pedidoId   Int
+  pedido     Pedido @relation(fields: [pedidoId], references: [id])
+}
