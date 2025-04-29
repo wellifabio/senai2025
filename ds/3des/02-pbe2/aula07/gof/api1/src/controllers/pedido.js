@@ -1,4 +1,4 @@
-const { PrismaClient } = require('../prismaClient');
+const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 const pedido = require('../models/pedido');
 
@@ -26,5 +26,5 @@ const read = async (req, res) => {
 
 module.exports = {
     create,
-    read,
+    read
 }
