@@ -29,6 +29,6 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 |Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|100%|
 |Rhayssa, Maria Luiza e Luíza|Estrutura|[Proxy](https://github.com/Rhay1102/patterns-Proxy.git)|60%|
 |Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|100%|
-|Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|80%|
+|Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|60%|
 |Vitor, Jessé e Pedro H|Comportamento|[State](https://github.com/mercenarios13/Patterns-State?tab=readme-ov-file)|80%|
 |Steffany Giovanna e João Victor Angra|Comportamento|[Memento](https://github.com/steffanygiovanna/Estrutura-memento.git)|100%|
