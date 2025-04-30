@@ -22,11 +22,11 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 #### [Link do forms para entrega](https://docs.google.com/forms/d/e/1FAIpQLSed1z9aLJyOqwte9SR7nKioiAKLBRRgkra3f_GfB-bbRWvnuw/viewform?usp=dialog)
 
 ### Apresentações
-|Grupo|Tipo|Pattern|Prazo|
+|Grupo|Tipo|Pattern|Desempenho e prazo|
 |-|-|-|-|
 |Mellyssa e Pedro Duarte|Criação|[Abstract Factory](https://github.com/PedroDuarte2007/Abstratc_Factory)|100%|
 |Beatriz, Catarina e Kathleen|Estrutura|[Composite](https://mirandakathleen.github.io/modeloComposite)|100%|
 |Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|100%|
-|Rhayssa, Maria Luiza e Luíza|Estrutura|[Proxy](https://github.com/Rhay1102/patterns-Proxy.git)|100%|
+|Rhayssa, Maria Luiza e Luíza|Estrutura|[Proxy](https://github.com/Rhay1102/patterns-Proxy.git)|60%|
 |Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|100%|
-|Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|100%|
+|Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|80%|
