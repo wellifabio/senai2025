@@ -22,9 +22,10 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 #### [Link do forms para entrega](https://docs.google.com/forms/d/e/1FAIpQLSed1z9aLJyOqwte9SR7nKioiAKLBRRgkra3f_GfB-bbRWvnuw/viewform?usp=dialog)
 
 ### Apresentações
-|Grupo|Tipo|Pattern|
-|-|-|-|
-|Mellyssa e Pedro Duarte|Criação|[Abstract Factory](https://github.com/PedroDuarte2007/Abstratc_Factory)|
-|Beatriz, Catarina e Kathleen|Estrutura|[Composite](https://mirandakathleen.github.io/modeloComposite)|
-|Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|
-|Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|
+|Grupo|Tipo|Pattern|Prazo|
+|-|-|-|-|
+|Mellyssa e Pedro Duarte|Criação|[Abstract Factory](https://github.com/PedroDuarte2007/Abstratc_Factory)|100%|
+|Beatriz, Catarina e Kathleen|Estrutura|[Composite](https://mirandakathleen.github.io/modeloComposite)|100%|
+|Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|100%|
+|Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|100%|
+|Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|100%|
