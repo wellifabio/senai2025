@@ -24,5 +24,7 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 ### Apresentações
 |Grupo|Tipo|Pattern|
 |-|-|-|
+|Mellyssa e Pedro Duarte|Criação|[Abstract Factory](https://github.com/PedroDuarte2007/Abstratc_Factory)|
 |Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|
 |Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|
+
