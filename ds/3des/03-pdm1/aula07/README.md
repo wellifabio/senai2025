@@ -32,7 +32,7 @@
 ![Detalhes](./tela07.png)
 
 ## Entrega
-- [Formulário para enviar o link do figma](https://docs.google.com/forms/d/e/1FAIpQLSeJbBIqZcfNt2ZxZo-xJvYVkPV4theC8Ue1CjNYnEDb4WllIw/viewform?usp=dialog)
+- [Formulário para enviar o link do figma](https://docs.google.com/forms/d/e/1FAIpQLSdIqJLlwKR56-rwyo1KRACuo156_5jbzX2QqbaXi4v_P_r7FA/viewform?usp=dialog)
 
 ## Critérios
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
