@@ -25,9 +25,12 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 |Grupo|Tipo|Pattern|Desempenho e prazo|
 |-|-|-|-|
 |Mellyssa e Pedro Duarte|Criação|[Abstract Factory](https://github.com/PedroDuarte2007/Abstratc_Factory)|100%|
+|Kamili, Laís e Rodrigo|Estrutura|[Bridge]()|50%|
 |Beatriz, Catarina e Kathleen|Estrutura|[Composite](https://mirandakathleen.github.io/modeloComposite)|100%|
+|Arthur Souza, Diego Maradona e Hélio Alves|Estrutura|[Decorator](https://github.com/ArthurS0/apresenta-o-decorator)|50%|
 |Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|100%|
 |Rhayssa, Maria Luiza e Luíza|Estrutura|[Proxy](https://github.com/Rhay1102/patterns-Proxy.git)|60%|
+|Rebeca Lima e Thamye Corrêa|Comportamento|[Command](https://github.com/thamyeS/patterns-command)|100%|
 |Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|100%|
 |Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|60%|
 |Vitor, Jessé e Pedro H|Comportamento|[State](https://github.com/mercenarios13/Patterns-State?tab=readme-ov-file)|80%|
