@@ -31,3 +31,4 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 |Crislaine e Rebeca Lazarini|Comportamento|[Observer](https://github.com/rebecalazarini/patterns-Observer)|100%|
 |Erick Aguiar, Justo Willian e Thiago Muniz|Comportamento|[Visitor](https://github.com/ErickAguiar06/visitor-patterns)|80%|
 |Vitor, Jessé e Pedro H|Comportamento|[State](https://github.com/mercenarios13/Patterns-State?tab=readme-ov-file)|80%|
+|Steffany Giovanna e João Victor Angra|Comportamento|[Memento](https://github.com/steffanygiovanna/Estrutura-memento.git)|100%|
