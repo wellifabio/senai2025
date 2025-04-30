@@ -25,7 +25,7 @@ Monte uma pequena apresentação/demonstração para explicar para a turma após
 |Grupo|Tipo|Pattern|Desempenho e prazo|
 |-|-|-|-|
 |Mellyssa e Pedro Duarte|Criação|[Abstract Factory](https://github.com/PedroDuarte2007/Abstratc_Factory)|100%|
-|Kamili, Laís e Rodrigo|Estrutura|[Bridge]()|50%|
+|Kamili, Laís e Rodrigo|Estrutura|[Bridge](https://github.com/RodrigoPassberg/Pattens--Bidge-Pattens/tree/main)|80%|
 |Beatriz, Catarina e Kathleen|Estrutura|[Composite](https://mirandakathleen.github.io/modeloComposite)|100%|
 |Arthur Souza, Diego Maradona e Hélio Alves|Estrutura|[Decorator](https://github.com/ArthurS0/apresenta-o-decorator)|50%|
 |Lizzie, William, Fernando e João Pedro|Estrutura|[Facade](https://github.com/nandinho019/facade)|100%|
