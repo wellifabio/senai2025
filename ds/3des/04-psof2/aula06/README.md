@@ -1,9 +1,11 @@
 # Aula06
 
 ## Backlog do Projeto final
+#### Sprint inicial
 - [x] Escolher a metodologia **SCRUM, KANBAN, XP, outras**
 - [x] Definir **Papéis e responsabilidades**
 - [x] Apresentar a proposta inicial
+#### Sprint atual
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** com o nome do projeto ou tcc-nomeprojeto e adicionar os integrantes do grupo como colaboradores.
@@ -13,6 +15,8 @@
 - [ ] **Protótipo** funcional
 - [ ] Elencar os **requisitos funcionais** com diagramas com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
 - [ ] Modelar o banco de dados MER x DER Modelo conceitual
+- [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
+#### Próxima Sprint
 - [ ] [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) Back-End
 - [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
@@ -28,7 +32,7 @@
 - [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**. 
     - [ ] Ilustrar cada **requisito funciional** com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
 - [ ] Modelar o banco de dados MER x DER
-- [ ] Iniciar um [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) Back-End
+- [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 
 ## Apresentações
 
