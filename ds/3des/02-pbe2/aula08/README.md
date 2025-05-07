@@ -37,7 +37,6 @@ npx prisma init --datasource-provider mysql
 DATABASE_URL="mysql://root@localhost:3306/app88taxi"
 ```
 - 8º Editar o arquivo **schema.prisma** modelando o banco de dados conforme o DC (Diagrama de Classes) apresentado na contextualização. O arquivo **schema.prisma** deve ficar assim:
-```prisma:
 ```js
 generator client {
   provider = "prisma-client-js"
