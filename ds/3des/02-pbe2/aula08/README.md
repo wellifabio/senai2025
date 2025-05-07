@@ -77,3 +77,7 @@ model Viagem {
   motorista  Motorista? @relation(fields: [motoristaId], references: [id])
 }
 ```
+- 9º Executar a migração do banco de dados **app88taxi** no MySQL, executando o seguinte comando no terminal:
+```bash
+npx prisma migrate dev --name init
+```
