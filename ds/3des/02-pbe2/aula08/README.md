@@ -202,3 +202,8 @@ npx nodemon
 - 1º Cadastrar pelo menos 3 passageiros.
 - 2º Cadastrar pelo menos 3 motoristas.
 - 3º Cadastrar pelo menos 9 viagens.
+
+#### Evidências dos testes
+![Viagens](./print01.png)
+![Passageiros](./print02.png)
+![Motoristas](./print03.png)
