@@ -113,7 +113,7 @@ routes.get('/', (req, res) => {
 routes.post('/passageiros', Passageiro.create);
 routes.get('/passageiros', Passageiro.read);
 routes.get('/passageiros/:id', Passageiro.readOne);
-routes.put('/passageiros/:id', Passageiro.update);
+routes.patch('/passageiros/:id', Passageiro.update);
 routes.delete('/passageiros/:id', Passageiro.remove);
 
 module.exports = routes;
