@@ -97,7 +97,7 @@ app.listen(4000, () => {
   console.log('API executando em http://localhost:4000');
 });
 ```
-- 11º Criar a pasta **src** e dentro dela criar a pasta **routes** e o arquivo **index.js** com o seguinte conteúdo:
+- 11º Criar a pasta **src** e o arquivo **routes.js** com o seguinte conteúdo:
 ```js
 const express = require('express');
 const routes = express.Router();
