@@ -31,3 +31,8 @@ cd api
 npm init -y
 npm install express cors dotenv
 npx prisma init --datasource-provider mysql
+```
+- 7º Criar o arquivo **.env** com as variáveis de ambiente:
+```bash
+DATABASE_URL="mysql://root@localhost:3306/app88taxi"
+```
