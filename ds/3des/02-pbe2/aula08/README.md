@@ -193,3 +193,12 @@ module.exports = { create, read, readOne, update, remove };
 npx nodemon
 ```
 - Testar o projeto com o Insomnia.
+
+## Atividades
+- 1º Criar o CRUD do motorista.
+- 2º Criar o CRUD da viagem.
+
+#### Testes
+- 1º Cadastrar pelo menos 3 passageiros.
+- 2º Cadastrar pelo menos 3 motoristas.
+- 3º Cadastrar pelo menos 9 viagens.
