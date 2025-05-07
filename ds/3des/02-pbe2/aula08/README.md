@@ -15,3 +15,19 @@ Para testar o projeto, utilize o Postman ou o Insomnia. O projeto deve conter os
 - [CT003]**Cadastrar pelo menos 9 viagens**
 
 ## [Repositório do projeto](https://github.com/wellifabio/seduc-3des-pbe2-app88taxi-2025.git)
+
+## Iniciando um novo projeto
+- 1º Criar um repositório no GitHub.
+- 2º Clonar o repositório.
+- 3º Abrir com o **VsCode**.
+- 4º Criar uma pasta **api**
+- 5º Criar um README.md
+    - Descrição do projeto.
+    - Tecnologias utilizadas.
+    - Passos para executar o projeto.
+- 6º No VsCode abrir o terminal e executar os comandos:
+```bash
+cd api
+npm init -y
+npm install express cors dotenv
+npx prisma init --datasource-provider mysql
