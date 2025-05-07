@@ -19,8 +19,8 @@ Para testar o projeto, utilize o Postman ou o Insomnia. O projeto deve conter os
 ## Iniciando um novo projeto
 - 1º Criar um repositório no GitHub.
 - 2º Clonar o repositório.
-- 3º Abrir com o **VsCode**.
-- 4º Criar uma pasta **api**
+- 3º Abrir com o **VsCode**
+- 4º Criar uma pasta **./api** e o arquivo **./api/server.js**
 - 5º Criar um README.md
     - Descrição do projeto.
     - Tecnologias utilizadas.
@@ -81,3 +81,115 @@ model Viagem {
 ```bash
 npx prisma migrate dev --name init
 ```
+- 10º Criar o arquivo **server.js** com o seguinte conteúdo:
+```js
+const express = require('express');
+const cors = require('cors');
+const app = express();
+
+const routes = require('./src/routes');
+
+app.use(cors());
+app.use(express.json());
+app.use(routes);
+
+app.listen(4000, () => {
+  console.log('API executando em http://localhost:4000');
+});
+```
+- 11º Criar a pasta **src** e dentro dela criar a pasta **routes** e o arquivo **index.js** com o seguinte conteúdo:
+```js
+const express = require('express');
+const routes = express.Router();
+
+const Passageiro = require('./controllers/passageiro');
+// const Motorista = require('./controllers/motorista');
+// const Viagem = require('./controllers/viagem');
+
+routes.get('/', (req, res) => {
+  return res.json({ titulo: '88 Taxi' });
+});
+
+routes.post('/passageiros', Passageiro.create);
+routes.get('/passageiros', Passageiro.read);
+routes.get('/passageiros/:id', Passageiro.readOne);
+routes.put('/passageiros/:id', Passageiro.update);
+routes.delete('/passageiros/:id', Passageiro.remove);
+
+module.exports = routes;
+```
+- 12º Criar a pasta **controllers** dentro da pasta **src** e criar o arquivo **passageiro.js** com o seguinte conteúdo:
+```js
+const { PrismaClient } = require('@prisma/client');
+const prisma = new PrismaClient();
+
+const create = async (req, res) => {
+    try {
+        const passageiro = await prisma.passageiro.create({
+            data: req.body
+        });
+        return res.status(201).json(passageiro);
+    } catch (error) {
+        return res.status(400).json({ error: error.message });
+    }
+}
+
+const read = async (req, res) => {
+    const passageiros = await prisma.passageiro.findMany();
+    return res.json(passageiros);
+}
+
+const readOne = async (req, res) => {
+    try {
+        const passageiro = await prisma.passageiro.findUnique({
+            select: {
+                id: true,
+                nome: true,
+                cpf: true,
+                email: true,
+                viagens: true
+            },
+            where: {
+                id: Number(req.params.id)
+            }
+        });
+        return res.json(passageiro);
+    } catch (error) {
+        return res.status(400).json({ error: error.message });
+    }
+}
+
+const update = async (req, res) => {
+    try {
+        const passageiro = await prisma.passageiro.update({
+            where: {
+                id: Number(req.params.id)
+            },
+            data: req.body
+        });
+        return res.status(202).json(passageiro);
+    } catch (error) {
+        return res.status(400).json({ error: error.message });
+    }
+}
+
+const remove = async (req, res) => {
+    try {
+        await prisma.passageiro.delete({
+            where: {
+                id: Number(req.params.id)
+            }
+        });
+        return res.status(204).send();
+    } catch (error) {
+        return res.status(404).json({ error: error.message });
+    }
+}
+
+module.exports = { create, read, readOne, update, remove };
+```
+- Executar o projeto com o comando:
+```bash
+npx nodemon
+```
+- Testar o projeto com o Insomnia.
