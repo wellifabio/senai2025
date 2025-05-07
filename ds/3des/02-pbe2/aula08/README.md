@@ -36,3 +36,45 @@ npx prisma init --datasource-provider mysql
 ```bash
 DATABASE_URL="mysql://root@localhost:3306/app88taxi"
 ```
+- 8º Editar o arquivo **schema.prisma** modelando o banco de dados conforme o DC (Diagrama de Classes) apresentado na contextualização. O arquivo **schema.prisma** deve ficar assim:
+```prisma:
+```js
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Passageiro {
+  id    Int    @id @default(autoincrement())
+  nome  String @db.VarChar(100)
+  cpf   String @unique @db.VarChar(30)
+  email String @unique @db.VarChar(100)
+  senha String @db.VarChar(100)
+  viagens Viagem[]
+}
+
+model Motorista {
+  id    Int    @id @default(autoincrement())
+  nome  String @db.VarChar(100)
+  cnh   String @unique @db.VarChar(30)
+  email String @unique @db.VarChar(100)
+  senha String @db.VarChar(100)
+  viagens Viagem[]
+}
+
+model Viagem {
+  id         Int       @id @default(autoincrement())
+  origem     String    @db.VarChar(100)
+  destino    String    @db.VarChar(100)
+  dataInicio DateTime  @default(now())
+  dataFim    DateTime?
+  passageiroId Int
+  motoristaId Int?
+  passageiro Passageiro @relation(fields: [passageiroId], references: [id])
+  motorista  Motorista? @relation(fields: [motoristaId], references: [id])
+}
+```
