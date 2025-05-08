@@ -24,7 +24,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Pedro Bueno Toledo Semeghini]()||
 |[Pedro Henrique Damasio]()||
 |[Pedro Henrique Dorta Zonzini](https://portifoliodorta8.my.canva.site)|OK|
-|[Riquelme Alves Bispo]()||
+|[Riquelme Alves Bispo](https://riquelme-alves.my.canva.site/)|Ok|
 |[Sarah Lavínia De Oliveira Martins]()||
 |[Tainá Gabrielli Francisco Roberto](https://tainagabrielli.my.canva.site/contadora)|Ok|
 |[Tamires Brandão Mendes]()||
