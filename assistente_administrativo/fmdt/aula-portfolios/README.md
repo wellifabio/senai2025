@@ -7,7 +7,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Ana Júlia Tavares Teixeira](https://www.canva.com/design/DAGldWPa30I/83r9SNZLSP9bbCz4dzKpPA/edit?utm_content=DAGldWPa30I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|Ok|
 |[Andreza Francisco da Silva](https://andrezasilva.my.canva.site/)|OK|
 |[Anna Karolline Carlos Pinto](https://www.canva.com/design/DAGldWkT3gY/SNKTPlMK3u5LU5fckU1YPg/edit?utm_content=DAGldWkT3gY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|Ok|
-|[Clara Gabriela Neres de Souza]()||
+|[Clara Gabriela Neres de Souza](https://clara-souza.my.canva.site/)|Ok|
 |[Emanuelle Santos da Cruz](https://cruzemanuelle.my.canva.site/)|OK|
 |[Gabriela Costa de Lima]()||
 |[Guilherme Expedito Ferigatti](https://guilherme-fetigatti.my.canva.site/)|OK|
