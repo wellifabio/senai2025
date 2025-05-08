@@ -11,13 +11,13 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Emanuelle Santos da Cruz](https://cruzemanuelle.my.canva.site/)|OK|
 |[Gabriela Costa de Lima]()||
 |[Guilherme Expedito Ferigatti](https://guilherme-fetigatti.my.canva.site/)|OK|
-|[Jhennifer Synara da Silva]()||
+|[Jhennifer Synara da Silva](https://jhennifer-synara.my.canva.site/jhennifer-silva)|OK|
 |[José Nelson da Silva Liberato]()||
 |[José Tauã Santos da Costa]()||
 |[Kezia dominique Jesus Aragão](https://www.canva.com/design/DAGmHceSsBc/Go4-El5iPAcdmZhHpXC5qA/edit?utm_content=DAGmHceSsBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|Ok|
 |[Leonardo dos Santos da Costa](https://www.canva.com/design/DAGlde05anI/cP8iaodKGGHj_oRp4LcQdQ/edit)|OK|
-|[Luiza Vitoria Scarpato Biason]()||
-|[Maria Cecília do Nascimento Castro]()||
+|[Luiza Vitoria Scarpato Biason](https://luizabiason.my.canva.site/luiza-biason)|OK|
+|[Maria Cecília do Nascimento Castro](https://maria-ceccy.my.canva.site/)|Ok|
 |[Matheus Moura]()||
 |[Milena Ariely Pereira do Carmo](https://millenaariely.my.canva.site/)|OK|
 |[Natalia moura de jesus Oliveira](https://nataliamoura695985884884848484848484848.my.canva.site/)|Ok|
@@ -25,6 +25,6 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Pedro Henrique Damasio]()||
 |[Pedro Henrique Dorta Zonzini](https://portifoliodorta8.my.canva.site)|OK|
 |[Riquelme Alves Bispo](https://riquelme-alves.my.canva.site/)|Ok|
-|[Sarah Lavínia De Oliveira Martins]()||
+|[Sarah Lavínia De Oliveira Martins](https://sarahm3.my.canva.site/)|OK|
 |[Tainá Gabrielli Francisco Roberto](https://tainagabrielli.my.canva.site/contadora)|Ok|
 |[Tamires Brandão Mendes](https://tamires-brandao.my.canva.site/)|Ok|
