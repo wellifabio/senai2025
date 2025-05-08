@@ -22,7 +22,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Milena Ariely Pereira do Carmo](https://millenaariely.my.canva.site/)|OK|
 |[Natalia moura de jesus Oliveira](https://nataliamoura695985884884848484848484848.my.canva.site/)|Ok|
 |[Pedro Bueno Toledo Semeghini](https://www.canva.com/design/DAGldbVNjNA/ZBfUStTzBGrflVirFw7M-g/edit?utm_content=DAGldbVNjNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|OK|
-|[Pedro Henrique Damasio]()||
+|[Pedro Henrique Damasio](https://www.canva.com/design/DAGmHNQAWbg/HGkWiwE8JCudRAtSG5OB_w/edit?utm_content=DAGmHNQAWbg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|Ok|
 |[Pedro Henrique Dorta Zonzini](https://portifoliodorta8.my.canva.site)|OK|
 |[Riquelme Alves Bispo](https://riquelme-alves.my.canva.site/)|Ok|
 |[Sarah Lavínia De Oliveira Martins](https://sarahm3.my.canva.site/)|OK|
