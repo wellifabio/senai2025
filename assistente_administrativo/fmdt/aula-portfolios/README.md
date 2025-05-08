@@ -20,7 +20,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Maria Cecília do Nascimento Castro]()||
 |[Matheus Moura]()||
 |[Milena Ariely Pereira do Carmo](https://millenaariely.my.canva.site/)|OK|
-|[Natalia moura de jesus Oliveira]()||
+|[Natalia moura de jesus Oliveira](https://nataliamoura695985884884848484848484848.my.canva.site/)|Ok|
 |[Pedro Bueno Toledo Semeghini]()||
 |[Pedro Henrique Damasio]()||
 |[Pedro Henrique Dorta Zonzini](https://portifoliodorta8.my.canva.site)|OK|
