@@ -4,7 +4,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |Aluno|Verificado
 |-|-|
 |[Ana Caroliny de Oliveira Almeida](https://www.canva.com/design/DAGldWkT3gY/SNKTPlMK3u5LU5fckU1YPg/edit?utm_content=DAGldWkT3gY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|OK|
-|[Ana Júlia Tavares Teixeira]()||
+|[Ana Júlia Tavares Teixeira](https://www.canva.com/design/DAGldWPa30I/83r9SNZLSP9bbCz4dzKpPA/edit?utm_content=DAGldWPa30I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|Ok|
 |[Andreza Francisco da Silva](https://andrezasilva.my.canva.site/)|OK|
 |[Anna Karolline Carlos Pinto]()||
 |[Clara Gabriela Neres de Souza]()||
