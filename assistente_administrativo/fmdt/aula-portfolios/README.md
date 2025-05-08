@@ -27,4 +27,4 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Riquelme Alves Bispo](https://riquelme-alves.my.canva.site/)|Ok|
 |[Sarah Lavínia De Oliveira Martins]()||
 |[Tainá Gabrielli Francisco Roberto](https://tainagabrielli.my.canva.site/contadora)|Ok|
-|[Tamires Brandão Mendes]()||
+|[Tamires Brandão Mendes](https://tamires-brandao.my.canva.site/)|Ok|
