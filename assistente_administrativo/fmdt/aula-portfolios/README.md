@@ -14,7 +14,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Jhennifer Synara da Silva]()||
 |[José Nelson da Silva Liberato]()||
 |[José Tauã Santos da Costa]()||
-|[Kezia dominique Jesus Aragão]()||
+|[Kezia dominique Jesus Aragão](https://www.canva.com/design/DAGmHceSsBc/Go4-El5iPAcdmZhHpXC5qA/edit?utm_content=DAGmHceSsBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|Ok|
 |[Leonardo dos Santos da Costa](https://www.canva.com/design/DAGlde05anI/cP8iaodKGGHj_oRp4LcQdQ/edit)|OK|
 |[Luiza Vitoria Scarpato Biason]()||
 |[Maria Cecília do Nascimento Castro]()||
