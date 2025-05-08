@@ -15,7 +15,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[José Nelson da Silva Liberato]()||
 |[José Tauã Santos da Costa]()||
 |[Kezia dominique Jesus Aragão]()||
-|[Leonardo dos Santos da Costa](https://www.canva.com/design/DAGlde05anI/cP8iaodKGGHj_oRp4LcQdQ/edit)||
+|[Leonardo dos Santos da Costa](https://www.canva.com/design/DAGlde05anI/cP8iaodKGGHj_oRp4LcQdQ/edit)|OK|
 |[Luiza Vitoria Scarpato Biason]()||
 |[Maria Cecília do Nascimento Castro]()||
 |[Matheus Moura]()||
@@ -23,7 +23,7 @@ Cada aluno cria seu portfolio com Canvas e envia o link para **[Este formulário
 |[Natalia moura de jesus Oliveira]()||
 |[Pedro Bueno Toledo Semeghini]()||
 |[Pedro Henrique Damasio]()||
-|[Pedro Henrique Dorta Zonzini](https://portifoliodorta8.my.canva.site)||
+|[Pedro Henrique Dorta Zonzini](https://portifoliodorta8.my.canva.site)|OK|
 |[Riquelme Alves Bispo]()||
 |[Sarah Lavínia De Oliveira Martins]()||
 |[Tainá Gabrielli Francisco Roberto]()||
