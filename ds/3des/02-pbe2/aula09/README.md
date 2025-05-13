@@ -19,9 +19,9 @@ Na tabela abaixo, a frente do seu nome encontra-se o link do projeto que você d
 
 |Programadores|Projetos|
 |-|-|
-|Arthur Souza de Oliveira|https://github.com/wellifabio/pbe2-vps01-estacionamento-2025.gitt|
-|Jessé Oliveira da Silva|https://github.com/wellifabio/pbe2-vps01-estacionamento-2025.gitt|
-|Justo Willian Cardoso Carneiro|https://github.com/wellifabio/pbe2-vps01-estacionamento-2025.gitt|
+|Arthur Souza de Oliveira|https://github.com/wellifabio/pbe2-vps01-estacionamento-2025.git|
+|Jessé Oliveira da Silva|https://github.com/wellifabio/pbe2-vps01-estacionamento-2025.git|
+|Justo Willian Cardoso Carneiro|https://github.com/wellifabio/pbe2-vps01-estacionamento-2025.git|
 |Larissa Vitoria Alves dos Santos|https://github.com/wellifabio/pbe2-vps01-escola-atividades-2025.git|
 |Luiza Uchoa Lima|https://github.com/wellifabio/pbe2-vps01-escola-atividades-2025.git|
 |Pedro Henrique de Oliveira|https://github.com/wellifabio/pbe2-vps01-escola-atividades-2025.git|
