@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "nome": "case 01",
+      "largura": 300,
+      "altura": 180,
+      "x": 50,
+      "y": 220,
+      "arquivo": "case-capitao-america-02.png"
+    },
+    {
+        "id": 2,
+        "nome": "case 02",
+        "largura": 350,
+        "altura": 220,
+        "x": 20,
+        "y": 80,
+        "arquivo": "case-demolidor.png"
+      },
+      {
+          "id": 3,
+          "nome": "case 03",
+          "largura": 310,
+          "altura": 250,
+          "x": 50,
+          "y": 90,
+          "arquivo": "case-capitao-america-01.jpeg"
+        }
+]

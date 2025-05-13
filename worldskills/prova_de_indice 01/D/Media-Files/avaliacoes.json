@@ -1,0 +1,128 @@
+[
+  {
+    "numeroPedido": 1234,
+    "nota": 4,
+    "total": 270,
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      },
+      {
+        "id": 2,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      },
+        {
+        "id": 3,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      }
+    ]
+  },
+ {
+    "numeroPedido": 5678,
+    "nota": 5,
+    "total": 180,
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Case Capitão America 02",
+        "foto": "case-capitao-america-02.png",
+        "preco": 90
+      },
+      {
+        "id": 2,
+        "nome": "Case Capitão America 01",
+        "foto": "case-capitao-america-01.jpeg",
+        "preco": 90
+      }
+    ]
+  },
+  {
+    "numeroPedido": 9101,
+    "nota": 3,
+    "total": 270,
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      },
+      {
+        "id": 2,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      },
+      {
+        "id": 3,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      }
+    ]
+  },
+  {
+    "numeroPedido": 1121,
+    "nota": 2,
+    "total": 180,
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Case Capitão America 02",
+        "foto": "case-capitao-america-02.png",
+        "preco": 90
+      },
+      {
+        "id": 2,
+        "nome": "Case Capitão America 01",
+        "foto": "case-capitao-america-01.jpeg",
+        "preco": 90
+      }
+    ]
+  },
+  {
+    "numeroPedido": 3141,
+    "nota": 5,
+    "total": 270,
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      },
+      {
+        "id": 2,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      },
+      {
+        "id": 3,
+        "nome": "Case demolidor 01",
+        "foto": "case-demolidor.png",
+        "preco": 90
+      }
+    ]
+  },
+  {
+    "numeroPedido": 1617,
+    "nota": 1,
+    "total": 90,
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Case Capitão America 02",
+        "foto": "case-capitao-america-02.png",
+        "preco": 90
+      }
+    ]
+  }
+]

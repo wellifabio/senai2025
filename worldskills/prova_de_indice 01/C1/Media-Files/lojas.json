@@ -1,0 +1,102 @@
+[
+  {
+    "nome": "Loja 01",
+    "telefone": "(11)1111-1111",
+    "endereco": "R. Baraldi, 1128",
+    "bairro": "Cento",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6152916,
+    "longitude": -46.5711487
+  },
+  {
+    "nome": "Loja 02",
+    "telefone": "(11)2222-2222",
+    "endereco": "Av. Goiás, 925",
+    "bairro": "Santa Paula",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6153941,
+    "longitude": -46.5714259
+  },
+  {
+    "nome": "Loja 03",
+    "telefone": "(11)3333-3333",
+    "endereco": "Av. Goiás, 383",
+    "bairro": "Cento",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6153941,
+    "longitude": -46.5714259
+  },
+  {
+    "nome": "Loja 04",
+    "telefone": "(11)4444-4444",
+    "endereco": "Rua Oswaldo Cruz, 170",
+    "bairro": "Santa Paula",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6168449,
+    "longitude": -46.5714339
+  },
+  {
+    "nome": "Loja 05",
+    "telefone": "(11)5555-5555",
+    "endereco": "Av. Sen. Roberto Simonsen, 551",
+    "bairro": "Santo Antônio",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6171395,
+    "longitude": -46.5732424
+  },
+  {
+    "nome": "Loja 06",
+    "telefone": "(11)6666-6666",
+    "endereco": "Rua Espirito Santo, 347",
+    "bairro": "Santo Antônio",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6180748,
+    "longitude": -46.5719483
+  },
+  {
+    "nome": "Loja 07",
+    "telefone": "(11)7777-7777",
+    "endereco": "Rua Pernambuco, 258 - Centro",
+    "bairro": "Cento",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6125663,
+    "longitude": -46.5734457
+  },
+  {
+    "nome": "Loja 08",
+    "telefone": "(11)8888-8888",
+    "endereco": "R Piaui, 969",
+    "bairro": "Santa Paula",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6185749,
+    "longitude": -46.5672745
+  },
+  {
+    "nome": "Loja 09",
+    "telefone": "(11)9999-9999",
+    "endereco": "R Heloisa Pamplona, 679",
+    "bairro": "Fundação",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6120225,
+    "longitude": -46.5713206
+  },
+  {
+    "nome": "Loja 10",
+    "telefone": "(11)0000-0000",
+    "endereco": "Rua Alagoas, 436",
+    "bairro": "Cento",
+    "cidade": "São Caetano do Sul",
+    "uf": "SP",
+    "latitude": -23.6124353,
+    "longitude": -46.5762451
+  }
+]
