@@ -113,17 +113,6 @@ Prepare um pequeno documento ou apresentação explicando suas escolhas e como v
 |Maria|Front-end, PO|
 
 ### Grupo07
-- Metodologia: SCRUM
-- Tema inicial: Pizzaria - Pedidos Online
-
-|Recursos|Papéis e Responsabilidades|
-|-|-|
-|Fernando|QA|
-|Kamili|Scrum-Master|
-|Willian|Back-End|
-|Maria|Front-end, PO|
-
-### Grupo08
 - Metodologia: KANBAN
 - Tema inicial: Catálogo de Filmes
 
@@ -134,7 +123,7 @@ Prepare um pequeno documento ou apresentação explicando suas escolhas e como v
 |Vitor|Dev - Front, Testes|
 |Arthur|Dev - Front, Testes|
 
-### Grupo09
+### Grupo08
 - Metodologia: Kanban
 - Tema inicial: Hangetsu Uzumaki - Artes Marciais
 

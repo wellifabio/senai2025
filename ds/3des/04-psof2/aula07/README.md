@@ -98,23 +98,6 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 ### Grupo06
 - Metodologia: SCRUM
 - Tema inicial: Pizzaria - Pedidos Online
-- Alunos: Melissa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
-- [Repositório github]()
-- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
-- [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
-- [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
-    - [ ] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
-- [ ] **Protótipo** funcional inicial (Com Figma - Mobile e Web))
-    - [ ] Web
-    - [ ] Mobile
-- [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**. 
-    - [ ] Ilustrar cada **requisito funciional** com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
-- [ ] Modelar o banco de dados MER x DER
-- [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
-
-### Grupo07
-- Metodologia: SCRUM
-- Tema inicial: Pizzaria - Pedidos Online
 - Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Back-End|, Maria|Front-end, PO|
 - [Repositório github](https://github.com/Malu100/pizzaria.git)
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
@@ -129,7 +112,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - [ ] Modelar o banco de dados MER x DER
 - [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 
-### Grupo08
+### Grupo07
 - Metodologia: KANBAN
 - Tema inicial: Catálogo de Filmes
 - Alunos: Jessé|Dev - Front, Testes|, Diego|Dev, Back-End, Docs|, Vitor|Dev - Front, Testes|, Arthur|Dev - Front, Testes|
@@ -146,7 +129,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - [ ] Modelar o banco de dados MER x DER
 - [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 
-### Grupo09
+### Grupo08
 - Metodologia: Kanban
 - Tema inicial: Hangetsu Uzumaki (Espiral da meia lua) - Artes Marciais
 - Alunos: Hélio|Back/Teste|, João Santos|Front|, Luiza|Back/Banco|, Rhayssa|Front|
