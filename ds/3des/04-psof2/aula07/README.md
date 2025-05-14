@@ -97,36 +97,36 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 
 ### Grupo06
 - Metodologia: SCRUM
-- Tema inicial: Pizzaria - Pedidos Online
+- Tema inicial: Pizzaria do seu Zé - Pedidos Online
 - Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Back-End|, Maria|Front-end, PO|
 - [Repositório github](https://github.com/Malu100/pizzaria.git)
-- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
-- [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
-- [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
-    - [ ] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
-- [ ] **Protótipo** funcional inicial (Com Figma - Mobile e Web))
+- [x] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
+- [x] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
+- [x] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
+    - [x] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
+- [x] **Protótipo** funcional inicial (Com Figma - Mobile e Web))
     - [ ] Web
-    - [ ] Mobile
+    - [x] Mobile
 - [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**. 
-    - [ ] Ilustrar cada **requisito funciional** com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
-- [ ] Modelar o banco de dados MER x DER
-- [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
+    - [x] Ilustrar cada **requisito funciional** com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
+- [x] Modelar o banco de dados MER x DER
+- [x] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 
 ### Grupo07
 - Metodologia: KANBAN
 - Tema inicial: Catálogo de Filmes
 - Alunos: Jessé|Dev - Front, Testes|, Diego|Dev, Back-End, Docs|, Vitor|Dev - Front, Testes|, Arthur|Dev - Front, Testes|
 - [Repositório github]()
-- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
+- [x] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
-    - [ ] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
+    - [x] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
 - [ ] **Protótipo** funcional inicial (Com Figma - Mobile e Web))
     - [ ] Web
     - [ ] Mobile
 - [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**. 
     - [ ] Ilustrar cada **requisito funciional** com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
-- [ ] Modelar o banco de dados MER x DER
+- [x] Modelar o banco de dados MER x DER
 - [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 
 ### Grupo08
