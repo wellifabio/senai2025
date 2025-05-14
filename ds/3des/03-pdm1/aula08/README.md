@@ -33,7 +33,7 @@ void main(){
   runApp(const MaterialApp(title:'Login App',home: LoginScreen()));
 }
 ```
-- login.dart
+- login_screen.dart
 ```dart
 import 'package:flutter/material.dart';
 
@@ -77,7 +77,7 @@ class _LoginScreenState extends State<LoginScreen> {
 }
 
 ```
-- home.dart
+- home_screen.dart
 ```dart
 import 'package:flutter/material.dart';
 
