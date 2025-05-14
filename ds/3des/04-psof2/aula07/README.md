@@ -1,4 +1,10 @@
 # Aula07 - SCRUM
+
+- Kahoot01
+    - Pedro
+    - Artur
+    - Steffany
+
 ## Próxima Sprint 3º
 - [ ] [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) Back-End
 - [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
