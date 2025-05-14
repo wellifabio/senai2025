@@ -4,26 +4,32 @@
 - Ambiente Local - Android Studio
 - Ambiente Web - [IDX](https://idx.google.com)
 
-## Exemplo de um app de tela de login
-Esta primeira versão faremos o login com os dados:
-```
-email: aluno@email.com
-senha: senha123
-```
+
+## Hello World
 - main.dart
 ```dart
 import 'package:flutter/material.dart';
-import 'package:telalogin/screens/login.dart';
-
 void main() {
-  runApp(const MaterialApp(title:'Login', home:Login(title:'Tela de Login')));
+  runApp(const MaterialApp(
+    title: 'Hello World',
+    home: Scaffold(
+      appBar: AppBar(title: Text('Hello World')),
+      body: Center(
+        child: Text('Hello World'),
+      ),
+    ),
+  ));
 }
 ```
+
+
+## Exemplo de um app de Login Básico
+- Estrutura do projeto
+
 |![Pastas](./arvore.png)|![Login01](./login01.png)|![Login02](./login02.png)|
 |-|-|-|
 |Estrutura|Tela de login|Tela Home|
 
-## [Link do projeto feito em aula](https://github.com/wellifabio/flutter-loginbasico-2025.git)
 - main.dart
 ```dart
 import 'package:applogin/ui/login_screen.dart';
@@ -105,30 +111,13 @@ class HomeScreen extends StatelessWidget {
 }
 
 ```
+- Acima temos os códigos apenas de cada tela do app, onde temos a tela de login e a tela principal.
+- As telas ainda não estão conectadas, ou seja, ao clicar no botão "Entrar" não acontece nada.
 
-## Desafio
-- 1 Autenticar o login com os dados contidos em um arquivo JSON na pasta ./assets do projeto.
-- assets/dados.json
-```json
-[
-  {
-    "id": 1,
-    "nome": "Ana Silva",
-    "email": "ana@email.com",
-    "senha": "senai123"
-  },
-  {
-    "id": 2,
-    "nome": "Marcelo Silva",
-    "email": "marcelo@email.com",
-    "senha": "senai123"
-  },
-  {
-    "id": 3,
-    "nome": "Maria Silva",
-    "email": "maria@email.com",
-    "senha": "senai123"
-  }
-]
+## Conectando as telas
+- Para conectar as telas, precisamos importar a tela principal na tela de login e criar uma função para navegar entre as telas.
+- Nesta primeira versão faremos o login com os dados:
 ```
-- 2 Altere o campo de senha para que fique mais completa com o ícone do olho para ocultar e mostrar
+email: aluno@email.com
+senha: senha123
+```
