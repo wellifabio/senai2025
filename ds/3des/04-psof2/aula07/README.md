@@ -126,7 +126,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
     - [ ] Mobile
 - [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**. 
     - [x] Ilustrar cada **requisito funciional** com [DCU (Diagrama de casos de Uso)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula02)
-- [ ] Modelar o banco de dados MER x DER
+- [x] Modelar o banco de dados MER x DER
 - [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 
 ### Grupo08
