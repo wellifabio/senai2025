@@ -9,6 +9,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: SCRUM
 - Tema inicial: Diagnostico Rápido (Saúde relação entre paciente e médico)
 - Alunos: Melissa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
+- [Repositório github](https://github.com/PedroDNRusso/TCC-DS.git)
 - [x] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [x] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -25,6 +26,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: KANBAN - Trello
 - Tema inicial: PetShop - Adoção
 - Alunos: Rebeca|Front-End|, Evelyn|Banco de dados|, Larissa|Testes|, Larissa V.|Back-End|, Crislaine|Documentação|
+- [Repositório github]()
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -41,6 +43,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: KANBAN - Trello
 - Tema inicial: Gestão e Cantina Escolar
 - Alunos: Pedro|Front-End|, João|Back-End|, Steffany|Teste|, Thamye|Front-end Teste|, Rebega Ap.|PO|
+- [Repositório github]()
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -57,6 +60,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: SCRUM
 - Tema inicial: All Wear - Provador Online (Combinações de peças com seu prórpio guarda roupas)
 - Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
+- [Repositório github]()
 - [x] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [x] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -73,6 +77,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: KANBAN
 - Tema inicial: Sistema de Gestão de PetShop
 - Alunos: Larissa|PO|, João|Back-End|, Steffany|Teste|, Thamye|Front-end Teste|, Rebega Ap.|PO|
+- [Repositório github]()
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -88,7 +93,9 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 ### Grupo06
 - Metodologia: SCRUM
 - Tema inicial: Pizzaria - Pedidos Online
-- Alunos: Melissa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
+- Alunos: Melissa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
+- [Repositório github]()
+- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
     - [ ] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
@@ -104,6 +111,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: SCRUM
 - Tema inicial: Pizzaria - Pedidos Online
 - Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Back-End|, Maria|Front-end, PO|
+- [Repositório github]()
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -120,6 +128,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: KANBAN
 - Tema inicial: Catálogo de Filmes
 - Alunos: Jessé|Dev - Front, Testes|, Diego|Dev, Back-End, Docs|, Vitor|Dev - Front, Testes|, Arthur|Dev - Front, Testes|
+- [Repositório github]()
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
@@ -136,6 +145,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: Kanban
 - Tema inicial: Hangetsu Uzumaki - Artes Marciais
 - Alunos: Hélio|Back/Teste|, João Santos|Front|, Luiza|Back/Banco|, Rhayssa|Front|
+- [Repositório github](https://github.com/helio000/projeto-2025.git)
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
