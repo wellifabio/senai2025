@@ -50,7 +50,8 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 ### Grupo04
 - Metodologia: SCRUM
 - Tema inicial: Guarda Roupa Online (Combinações de peças do seu próprio guarda roupa)
-- Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
+- Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
+- [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
     - [ ] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
