@@ -2,9 +2,9 @@
 
 ## Apresentações
 ### Checklist do progresso da Segunda Sprint
+Apresetações das entregas parciais do projeto final, com o objetivo de apresentar o progresso do projeto e o que foi desenvolvido até o momento.
 
-Prepare um pequeno documento ou apresentação explicando suas escolhas e como você irá aplicar a metodologia escolhida na prática.
-
+## Entregas
 ### Grupo01
 - Metodologia: SCRUM
 - Tema inicial: Diagnostico Rápido
