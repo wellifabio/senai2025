@@ -116,7 +116,7 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: SCRUM
 - Tema inicial: Pizzaria - Pedidos Online
 - Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Back-End|, Maria|Front-end, PO|
-- [Repositório github]()
+- [Repositório github](https://github.com/Malu100/pizzaria.git)
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [ ] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
 - [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
