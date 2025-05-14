@@ -65,11 +65,11 @@ Apresetações das entregas parciais do projeto final, com o objetivo de apresen
 - Metodologia: SCRUM
 - Tema inicial: All Wear - Provador Online (Combinações de peças com seu prórpio guarda roupas)
 - Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
-- [Repositório github]()
+- [Repositório github](https://github.com/MirandaKathleen/projeto---tcc.git)
 - [x] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
 - [x] Criar um cronograma **[Gráfico Gant](https://wellifabio.github.io/gantt/)**
-- [ ] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
-    - [ ] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
+- [x] Criar um repositório no **github** e adicionar os integrantes do grupo como colaboradores.
+    - [x] Enviar o link do repositório neste **[FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdQFCwZJLTHT7JLSeKzwsJa9NJqV4QQ1FKrmGqT6vaZVynukw/viewform?usp=dialog)**
 - [ ] **Protótipo** funcional inicial (Com Figma - Mobile e Web))
     - [x] Web
     - [ ] Mobile
