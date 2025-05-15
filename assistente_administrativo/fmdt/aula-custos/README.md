@@ -20,3 +20,5 @@ Sr. Suji Nakamura, descendente de japoneses, abriu uma barraca de pasteis e prec
 |Pizza|10||R$ 10,00||
 ||||Total||
 
+## Entrega
+Ao concluir o desafio chame o professor e mostre os resultados.
