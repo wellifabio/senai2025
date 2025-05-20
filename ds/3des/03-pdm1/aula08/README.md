@@ -26,7 +26,7 @@ void main() {
 ## Exemplo de um app de Login Básico
 - Estrutura do projeto
 
-|![Pastas](./arvore.png)|![Login01](./login01.png)|![Login02](./login02.png)|
+|![Pastas](./prints/arvore.png)|![Login01](./prints/login01.png)|![Login02](./prints/login02.png)|
 |-|-|-|
 |Estrutura|Tela de login|Tela Home|
 
@@ -259,6 +259,10 @@ class HomeScreen extends StatelessWidget {
 ## Exercícios/Desafios
 Crie a mesma calculadora de IMC que foi criada em App Inventor na aula 02, mas utilizando o Flutter. Para isso, crie um novo projeto chamado **AvaliacaoIMC** e siga os passos desta aula.
 - O Aplicativo terá apenas uma tela, onde o usuário irá informar o peso e a altura, e ao clicar no botão "Calcular", o aplicativo irá calcular o IMC e exibir o resultado em um **AlertDialog**.
+
+|![IMC](./prints/imc0.png)|![IMC](./prints/imc1.png)|
+|:-:|:-:|
+|Tela Inicial|Resultado|
 
 ### Desafios
 |Wireframes|Desafios|
