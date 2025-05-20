@@ -116,7 +116,21 @@ class HomeScreen extends StatelessWidget {
 
 ## Conectando as telas
 - Para conectar as telas, precisamos importar a tela principal na tela de login e criar uma função para navegar entre as telas.
-- Nesta primeira versão faremos o login com os dados:
+### Conexão simples sem validar dados de email e senha
+Usando o Navigator.push() sem esquecer de importar a tela Home.
+```dart
+ElevatedButton(
+  onPressed: () {
+    //Navegar para a tela Home sem validar email e senha
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => const HomeScreen()),
+    );
+  },
+```
+- Agora vamos fazer a validação de email e senha.
+### Conexão com validação de dados
+- Para validar os dados, vamos criar uma função que verifica se o email e a senha estão corretos.
 ```
 email: aluno@email.com
 senha: senha123
