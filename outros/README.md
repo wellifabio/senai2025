@@ -1,5 +1,14 @@
 # Outras informações
 
+## Destravar o usuário desenvolvimento
+
+- 1 Digite **cmd** no Windows, clique com o botão direito e selecione **Executar como administrador**.
+- 2 Copie e cole o comando abaixo no terminal e pressione **Enter**.
+```cmd
+uwfmgr.exe volume unprotect c:
+```
+- 3 Reinicie o computador.
+
 ## Instrutores
 ### Reembolsos - Centros de Custos
 | Centro de Custo | Descrição |Tipo|
