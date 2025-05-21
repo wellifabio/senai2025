@@ -274,11 +274,16 @@ Crie a mesma calculadora de IMC que foi criada em App Inventor na aula 02, mas u
 Faça os exercícios utilizando o Flutter, na IDE **Android Studio** ou **VsCode** ou **IDX**
 
 ## Entregas
-- Cada projeto deve estar em um repositório público separado no GitHub.
+- Cada projeto deve estar em um **repositório público separado no GitHub**.
 - Nomes sugeridos para os repositórios:
   - AvaliacaoIMC
   - Financiamento
   - Investimento
   - Bitola
-- Os links dos repositórios devem ser enviados para o professor neste [Form](https://docs.google.com/forms/d/e/1FAIpQLSfecuPYLQUHw7nvPGgWiebO4NxHX8g2xLbk5-KY2oV7PmIXlg/viewform?usp=dialog).
-
+- Os links dos repositórios devem ser enviados para o professor neste **[Form](https://docs.google.com/forms/d/e/1FAIpQLSfecuPYLQUHw7nvPGgWiebO4NxHX8g2xLbk5-KY2oV7PmIXlg/viewform?usp=dialog)**.
+- Todos os repositórios devem ter no arquivo **README.md**
+  - Descrição do projeto
+  - Print das telas (salvos em uma pasta assets no projeto)
+  - Tecnologias
+  - Passo a passo de como executar
+- **Estas entregas junto com o Design Figma da aula anterior valem como a avaliação do primeiro bimestre.**
