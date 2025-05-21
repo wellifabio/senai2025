@@ -274,7 +274,7 @@ Crie a mesma calculadora de IMC que foi criada em App Inventor na aula 02, mas u
 Faça os exercícios utilizando o Flutter, na IDE **Android Studio** ou **VsCode** ou **IDX**
 
 ## Entregas
-- Cada projeto deve estar em um repositório separado no GitHub.
+- Cada projeto deve estar em um repositório público separado no GitHub.
 - Nomes sugeridos para os repositórios:
   - AvaliacaoIMC
   - Financiamento
