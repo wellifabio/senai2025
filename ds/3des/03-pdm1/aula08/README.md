@@ -271,4 +271,14 @@ Crie a mesma calculadora de IMC que foi criada em App Inventor na aula 02, mas u
 |![Invest 0](./prints/invest0.png)|![invest 1](./prints/invest1.png)|![Invest 2](./prints/invest2.png)|**Contextualização:** Uma alternativa ao financiamento é a paciência, quando a aquisição de um bem não é de necessidade básica ou essencial. Neste caso, é possível investir o dinheiro e esperar o tempo necessário para adquirir o bem à vista.<br>**Objetivo:** Desenvolver um aplicativo semelhante ao da imagem ao lado que recebe como entrada o valor mensal que podemos investir o número de meses e a taxa de juros mensal e exibe o montante acumulado sem juros e com juros compostos.|
 |||![Bitola](../aula02/bitola.png)|**Contextualização:** O professor de instalações elétricas ensina seus alunos como calcular a bitola adequada para cada uso de uma instalação. Solicitou que os alunos de Desenvolvimento de sistemas criem um aplicativo que faça este cálculo.<br>**Objetivo:** Desenvolver um aplicativo semelhante ao da imagem ao lado que recebe como entrada a corrente elétrica em ampères e a distância em metros e exibe a bitola do fio em milímetros quadrados, tanto para tensão de 110V quanto para 220V.<br>**Fórmula:**<br>bitola110 = (2 * corrente * distância) / 294.64<br>bitola220 = (2 * corrente * distância) / 510.4|
 
-Faça os exercícios utilizando o Mit App Inventor, aplique layouts horizontais e componentes de formulário. **Ao concluir apresente ao professor**.
+Faça os exercícios utilizando o Flutter, na IDE **Android Studio** ou **VsCode** ou **IDX**
+
+## Entregas
+- Cada projeto deve estar em um repositório separado no GitHub.
+- Nomes sugeridos para os repositórios:
+  - AvaliacaoIMC
+  - Financiamento
+  - Investimento
+  - Bitola
+- Os links dos repositórios devem ser enviados para o professor neste [Form](https://docs.google.com/forms/d/e/1FAIpQLSfecuPYLQUHw7nvPGgWiebO4NxHX8g2xLbk5-KY2oV7PmIXlg/viewform?usp=dialog).
+
