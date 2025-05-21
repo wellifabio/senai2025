@@ -16,3 +16,11 @@ void main() {
   print('X = $x');
 }
 ```
+
+## Resultado do Torneio (21/05)
+
+|Colocação|Aluno|Prêmio|
+|-|-|-|
+|1|Melyssa|Salgado|
+|2|Thamye,Steffany|1/2 Salgado|
+|3|Rodigo|Foto autografada|
