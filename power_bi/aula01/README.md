@@ -160,14 +160,22 @@ Um Data Warehouse (ou armazém de dados, em português) é um sistema de armazen
 
 # Plano de Curso
 ## Conhecimentos
-1.1. Tipos
-	1.1.1. Desktop (Esta é a principal ferramenta de autoria para criar relatórios e painéis do Power BI. É um aplicativo Windows que permite importar dados, construir modelos de dados, criar visualizações e projetar relatórios interativos.)
-	1.1.2. Mobile (O Power BI oferece aplicativos móveis para dispositivos iOS e Android, permitindo que os usuários acessem relatórios e painéis em seus dispositivos móveis, facilitando a conexão com insights de dados enquanto estão em trânsito.)
-	1.1.3. Web: Serviçe (Relatórios e painéis do Power BI criados no Power BI Desktop podem ser publicados no Power BI Service, que é uma plataforma baseada na nuvem. Isso possibilita a colaboração e o compartilhamento de relatórios com colegas e clientes.)
-1.2. Definição
-	1.2.1. Análise de dados
-	1.2.2. Self Service BI
-	1.2.3. ETL (Extract, Transform e Load)
-	1.2.4. Data Warehouse
-	1.2.5. Big Data
-	1.2.6. Dados x Informação
+- 1.1 Tipos
+	- 1.1.1 Desktop (Esta é a principal ferramenta de autoria para criar relatórios e painéis do Power BI. É um aplicativo Windows que permite importar dados, construir modelos de dados, criar visualizações e projetar relatórios interativos.)
+	- 1.1.2 Mobile (O Power BI oferece aplicativos móveis para dispositivos iOS e Android, permitindo que os usuários acessem relatórios e painéis em seus dispositivos móveis, facilitando a conexão com insights de dados enquanto estão em trânsito.)
+	- 1.1.3 Web: Serviçe (Relatórios e painéis do Power BI criados no Power BI Desktop podem ser publicados no Power BI Service, que é uma plataforma baseada na nuvem. Isso possibilita a colaboração e o compartilhamento de relatórios com colegas e clientes.)
+- 1.2. Definição
+	- 1.2.1 Análise de dados
+	- 1.2.2 Self Service BI
+	- 1.2.3 ETL (Extract, Transform e Load)
+	- 1.2.4 Data Warehouse
+	- 1.2.5 Big Data
+	- 1.2.6 Dados x Informação
+
+## Desafio
+A partir da base de dados em excel "Base Vendas.xlsx" faça download e abra com o Power BI, transformando os dados.
+- As datas estão no formato Inglês (Estados Unidos).
+- Crie uma coluna para calcular o **Subtotal**
+- Crie uma medida com a função SUM() para calcular o **Total**
+- Crie um visual semelhante ao da imagem abaixo:
+<br>![Visual](./vendas-mapa.png)
