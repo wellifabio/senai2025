@@ -19,9 +19,13 @@
 ## OBS
 Os códigos fonte, exemplos e materiais didáticos serão adicionados a este repositório ao longo do ano de 2025, consulte também os repositórios senai2024, senai2023 e senai2022 pois estão repletos de materiais dos anos passados.
 
-## Biblioteca SENAI
-- [Conecta SENAI](https://www.conectasenai.com.br/login/)
-- [Passo a passo para acessar o conecta SENAI](./assets/conecta-passo-a-passo.pdf)
+## Plataformas SENAI para acesso a conteúdos digitais
+Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **Blogs & Wikis, GED - SENAI (Na página vá até o link **Recursos Didáticos**) Rolar a página até o fim.
+- Biblioteca SP - [Conecta SENAI](https://www.conectasenai.com.br/login/),  [Passo a passo para acessar](./assets/conecta-passo-a-passo.pdf)
+- Biblioteca DN - [Estante de livros](https://estantedelivros.senai.br/)
+- [Recursos Didáticos](https://recursosdidaticos.senai.br/)
+- [SENAI Play](https://play.senai.br/)
+- [ABNT Coleção](https://abntcolecao.com.br/)
 
 ## Calendário
 ![1 Semestre](./assets/calendario01.png)
