@@ -25,7 +25,7 @@ Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **B
 - Biblioteca DN - [Estante de livros](https://estantedelivros.senai.br/)
 - [Recursos Didáticos](https://recursosdidaticos.senai.br/)
 - [SENAI Play](https://play.senai.br/)
-- [ABNT Coleção](https://abntcolecao.com.br/)
+- [ABNT Coleção](https://abntcolecao.com.br/): (Empresa: SENAIDN, Usuário: ALUNOSENAISP, Senha: ALUNOSENAISP)
 
 ## Calendário
 ![1 Semestre](./assets/calendario01.png)
