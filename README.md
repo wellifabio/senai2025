@@ -26,6 +26,7 @@ Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **B
 - [Recursos Didáticos](https://recursosdidaticos.senai.br/), passo a passo [para acessar](https://www.youtube.com/watch?v=sjmQ3Y9a7-A&list=PLPli_KFbLinFjpj4T8VBoZVUwWnPi4jyd).
 - [SENAI Play](https://play.senai.br/), passo a passo [para acessar](https://www.youtube.com/watch?v=iZrkpTHq2xQ).
 - [ABNT Coleção](https://abntcolecao.com.br/): (Empresa: SENAIDN, Usuário: ALUNOSENAISP, Senha: ALUNOSENAISP).
+- Proeducador [REMOTE](https://proeducador.sp.senai.br/site/)
 
 ## Calendário
 ![1 Semestre](./assets/calendario01.png)
