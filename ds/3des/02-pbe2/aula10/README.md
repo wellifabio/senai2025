@@ -1,6 +1,6 @@
 # Aula10 - JWT - JSON Web Token
 
-## Atividade
+## Atividade01
 Em grupos de enalise este projeto [back-end](https://github.com/wellifabio/3des-login-auth-2025.git), faça **fork**, clone o seu repositório no seu computador, analise o código e acrescente no **README.md** do seu repositório as seguintes informações:
 
 - Estude e documente a estrutura do projeto.
