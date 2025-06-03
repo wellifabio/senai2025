@@ -33,29 +33,56 @@ Caso só tenha como publicar um site estático, como no [GitHub Pages](https://p
 ## Em último caso
 Podemos utilizar um hash SHA-256 para criptografar a senha do usuário, mas isso não é recomendado para produção, pois não oferece a mesma segurança que o JWT. O SHA-256 é um algoritmo de hash criptográfico que gera um valor fixo de 256 bits a partir de uma entrada de dados. Ele é amplamente utilizado para verificar a integridade dos dados, mas não é adequado para autenticação de usuários.
 - Exemplo de uso do SHA-256, implementado pela aluna **Steffany**:
-```js
-async function gerarHash(senha) {
-    const encoder = new TextEncoder();
-    const data = encoder.encode(senha);
-    const hashBuffer = await window.crypto.subtle.digest('SHA-256', data);
-    const hashArray = Array.from(new Uint8Array(hashBuffer));
-    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-    return hashHex;
-}
+```html
+<body>
+    <header>
+        <h1>Tela de Login</h1>
+    </header>
+    
+    <div class="container">
+        <div class="login-form">
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" placeholder="Digite seu email">
+            </div>
+            <div class="form-group">
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" placeholder="Digite sua senha">
+            </div>
+            <button class="btn" onclick="validarLogin()">Entrar</button>
+        </div>
+    </div>
+    
+    <footer>
+        <p>By Instrutor</p>
+    </footer>
 
-async function validarLogin() {
-    const emailCorreto = "tinkbell1910@gmail.com";
-    const senhaCorretaHash ="f99e17147eaae1c8963af45dbbd70410729488ef3c1f0adba93fa7954e881335";
+    <script>
+        async function gerarHash(senha) {
+            const encoder = new TextEncoder();
+            const data = encoder.encode(senha);
+            const hashBuffer = await window.crypto.subtle.digest('SHA-256', data);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+            return hashHex;
+        }
 
-    const email = document.getElementById('email').value;
-    const senha = document.getElementById('senha').value;
-    const senhaHash = await gerarHash(senha);
+        async function validarLogin() {
+            const emailCorreto = "tinkbell1910@gmail.com";
+            const senhaCorretaHash ="f99e17147eaae1c8963af45dbbd70410729488ef3c1f0adba93fa7954e881335";
 
-    if (email === emailCorreto && senhaHash === senhaCorretaHash) {
-        localStorage.setItem('logado', 'true'); 
-        window.location.href = "home.html";
-    } else {
-        alert("E-mail ou senha incorretos!");
-    }
-}
+            const email = document.getElementById('email').value;
+            const senha = document.getElementById('senha').value;
+            const senhaHash = await gerarHash(senha);
+
+            if (email === emailCorreto && senhaHash === senhaCorretaHash) {
+                localStorage.setItem('logado', 'true'); 
+                window.location.href = "home.html";
+            } else {
+                alert("E-mail ou senha incorretos!");
+            }
+        }
+    </script>
+</body>
+</html>
 ```
