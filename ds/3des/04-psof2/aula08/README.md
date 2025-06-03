@@ -4,7 +4,7 @@
 A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta para esta análise é através da matriz SWOT
 
 - Forças (Strengths)
-- Fraquesas (Weaknesses)
+- Fraquezas (Weaknesses)
 - Oportunidades (Opportunities)
 - Ameaças (Threats)
 
