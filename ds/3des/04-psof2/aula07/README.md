@@ -6,11 +6,14 @@
     - Steffany
 
 ## Próxima Sprint 3º
-- [ ] [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) Back-End
+- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
 - [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
 - [ ] Iniciar a codificação/desenvolvimento **Front-end**
 - [ ] Iniciar a codificação/desenvolvimento **Mobile**
+- [ ] UML DA (Diagrama de Atividades) **Front-End**
+- [ ] Análise de Viabilidade com Matriz SWOT
+- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
 ## Apresentações
 ### Checklist do progresso da Segunda Sprint
 Apresetações das entregas parciais do projeto final, com o objetivo de apresentar o progresso do projeto e o que foi desenvolvido até o momento.

@@ -23,4 +23,3 @@ npx nodemon
 
 ## Entrega
 - Ao concluir o desenvolvimento, faça **commit** do README.md no seu repositório público, feito fork, para que o professor possa avaliar.
-

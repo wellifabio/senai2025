@@ -17,11 +17,13 @@
 - [ ] Modelar o banco de dados MER x DER Modelo conceitual
 - [ ] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 #### Próxima Sprint
-- [ ] [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) Back-End
+- [ ] [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
 - [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
 - [ ] Iniciar a codificação/desenvolvimento **Front-end**
 - [ ] Iniciar a codificação/desenvolvimento **Mobile**
+- [ ] UML DA (Diagrama de Atividades) **Front-End**
+- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
 
 ## Backlog desta Sprint
 - [ ] Modelar o negócio no **[Canvas](https://wellifabio.github.io/canvas/)**
