@@ -82,3 +82,43 @@ Podemos utilizar um hash SHA-256 para criptografar a senha do usuário, mas isso
 </body>
 </html>
 ```
+Na implementação acima, a senha é convertida em um hash SHA-256 antes de ser comparada com o hash armazenado. Isso adiciona uma camada de segurança, mas ainda não é tão robusto quanto o JWT.
+- Também na página `home.html` é necessário verificar se o usuário está logado, caso contrário, redirecionar para a página de login:
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela Principal</title>
+</head>
+<body>
+    <script>
+        if (localStorage.getItem('logado') !== 'true') {
+            window.location.href = 'index.html';
+        }
+    </script>
+    <header>
+        <h1>Tela Principal</h1>
+    </header>
+    
+    <div class="container">
+        <div class="welcome-message">
+            <p>Bem vindo!</p>
+        </div>
+        <button class="btn" onclick="sair()">Sair</button>
+    </div>
+    
+    <footer>
+        <p>By Instrutor</p>
+    </footer>
+
+    <script>
+        function sair() {
+            localStorage.removeItem('logado'); 
+            window.location.href = "index.html";
+        }
+    </script>
+</body>
+</html>
+```
