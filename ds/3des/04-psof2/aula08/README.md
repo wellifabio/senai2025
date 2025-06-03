@@ -12,7 +12,7 @@ A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta pa
 |:-:|
 |Em analogia com "O Pequeno Príncipe" onde ele tinha como sua maior motivação a **rosa**, seus **espinhos** como ameaça, os **brotos** como oportunidades e os **baobás** como ameaças já que é uma árvore muito grande que podia devorar o planeta inteiro, faça a análise do seu projeto|
 
-## Triângulo do Projeto
+## Triângulo de Ferro
 
 |![Matriz](./triangulo.png)|
 |:-:|
