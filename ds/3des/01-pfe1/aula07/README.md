@@ -17,10 +17,10 @@ Crie um repositório no GitHub com o nome `aula07-login` e suba o código fonte 
 ### Criptografia e JWT
 Somente com front-end não é possível garantir a segurança dos dados do usuário, por isso é necessário utilizar criptografia para proteger as informações sensíveis, como senhas. O JWT (JSON Web Token) é uma forma de autenticação que permite que o servidor gere um token assinado digitalmente, que pode ser enviado ao cliente e utilizado para autenticar requisições subsequentes.
 
-## Meio alternativo
+### Meio alternativo
 Caso só tenha como publicar um site estático, como no [GitHub Pages](https://pages.github.com/) e precise de um meio de login, pode utilizar o [Firebase Authentication](https://firebase.google.com/docs/auth) para autenticação de usuários. O Firebase oferece uma solução completa de autenticação, incluindo suporte a e-mail/senha, redes sociais e autenticação anônima. É uma alternativa prática para projetos que não exigem um back-end completo.
 
-## Em último caso
+### Em último caso
 Podemos utilizar um hash SHA-256 para criptografar a senha do usuário, mas isso não é recomendado para produção, pois não oferece a mesma segurança que o JWT. O SHA-256 é um algoritmo de hash criptográfico que gera um valor fixo de 256 bits a partir de uma entrada de dados. Ele é amplamente utilizado para verificar a integridade dos dados, mas não é adequado para autenticação de usuários.
 - Exemplo de uso do SHA-256, implementado pela aluna **Steffany**:
 ```html
