@@ -34,6 +34,12 @@ Caso só tenha como publicar um site estático, como no [GitHub Pages](https://p
 Podemos utilizar um hash SHA-256 para criptografar a senha do usuário, mas isso não é recomendado para produção, pois não oferece a mesma segurança que o JWT. O SHA-256 é um algoritmo de hash criptográfico que gera um valor fixo de 256 bits a partir de uma entrada de dados. Ele é amplamente utilizado para verificar a integridade dos dados, mas não é adequado para autenticação de usuários.
 - Exemplo de uso do SHA-256, implementado pela aluna **Steffany**:
 ```html
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Login</title>
+</head>
 <body>
     <header>
         <h1>Tela de Login</h1>
