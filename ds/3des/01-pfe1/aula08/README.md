@@ -51,7 +51,7 @@ Esta avaliação serve para você se testar, pois trata-se de um projeto Web com
 
 - ### Fala pessoal, Profº Robson invadindo a prova de vocês, Boa Sorte a todos e eu acredito no potencial de cada um!!
 
-## Agora uma duvida cade a camiseta?
+## Agora uma dúvida
 
 <div align = center>
 <img src = "https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImJhdHRsZXJveWFsZSIsInRleHQiOiJlJTIwYSUyMGNhbWlzZXRhJTNGIiwiaWF0IjoxNzQ5NTY0NjE5fQ.Apfv_4zK_jZbmSKQy5-s0gWd7IFFmuzONE3j0skBgCw">
