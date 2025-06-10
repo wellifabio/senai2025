@@ -1,6 +1,6 @@
-# Aula08 - Situação de Aprendizagem - Web - FullStack
-
-## Projeto completo (Documentação e Implementação)
+# Aula08 - VPS02 (Verificação Prática Somativa 02)
+- Situação de Aprendizagem Web FullStack
+## Projeto (Documentação e Implementação) Válido para Front-end e Back-end
 Esta avaliação serve para você se testar, pois trata-se de um projeto Web completo de ponta a ponta. O mínimo que um técnico em Desenvolvimento de sistema deve ser capaz de fazer em um dia de trabalho.
 
 ## Instruções
