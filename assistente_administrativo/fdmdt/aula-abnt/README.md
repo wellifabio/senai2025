@@ -60,6 +60,6 @@
 # Atividade em grupo:
 Em grupos de até 3 integrantes, defina uma hipótese e faça uma pesquisa aplicada através de um questionário eletrônico na tentativa de comprovar a hipotese.
 
-## [Exemplo de enquete fechada com Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScpk2h9lX4xsQzHUWVp3Tqj_Y1s0D742fD_M9uKrWoeLswNPQ/viewform?usp=sharing&ouid=104995203975143795707)
+## [Exemplo de trabalho ABNT corroborando uma hipótese](./Exemplo.pdf)
 
 ## [Formulário de Entrega](https://docs.google.com/forms/d/e/1FAIpQLSfMjTmGZT0zcIE7WaxmKVSu6XNb3bEwcvnMpcG_n4IPKDyEYw/viewform?usp=dialog)
