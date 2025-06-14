@@ -13,10 +13,29 @@
 	- Reduz redundância
 	- Reduz inconcistência
 	- Melhora o desempenho
+## Três principais formas normais
+### Primeira forma normal
+|Nº|Problema|Solução|
+|-|-|-|
+|1|Identificar campos compostos|Dividí-los em colunas|
+|2|Identificar atributos multivalorados|Colocá-lo em outra tabela relacionada|
+
+### Segunda forma normal
+|Nº|Problema|Solução|
+|-|-|-|
+|1|Estar na primeira forma normal|Estar na primeira forma normal|
+|2|Identificar campos dependentes|Identificar chaves e colocar em outra tabela|
+
+### Terceira forma normal
+|Nº|Problema|Solução|
+|-|-|-|
+|1|Estar na segunda forma normal|Estar na segunda forma normal|
+|2|Identificar campos derivados|Eliminar estes campos pois serão calculados futuramente|
+
+
 
 |Anotações|
 |:-:|
-|<img src="lousa01.jpg">|
 |<img src="lousa02.jpg">|
 |<img src="lousa03.jpg">|
 
