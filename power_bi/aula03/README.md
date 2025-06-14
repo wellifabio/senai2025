@@ -32,8 +32,6 @@
 |1|Estar na segunda forma normal|Estar na segunda forma normal|
 |2|Identificar campos derivados|Eliminar estes campos pois serão calculados futuramente|
 
-
-
 |Anotações|
 |:-:|
 |<img src="lousa02.jpg">|
