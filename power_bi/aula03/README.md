@@ -1,4 +1,4 @@
-# Aula03 [meet](meet.google.com/hue-wpxb-sne)
+# Aula03 [meet](https://meet.google.com/hue-wpxb-sne)
 
 ## Fontes de dados variadas
 ### Temas
