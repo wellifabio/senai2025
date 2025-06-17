@@ -20,7 +20,7 @@ Esta avaliação serve para você se testar, pois trata-se de um projeto Web com
 |Diego Maradona Preti Costa Figueiredo|[Projeto 02](https://github.com/wellifabio/to-do-tarefas-02-2025.git)|
 |Erick Aguiar de Souza Pinto|[Projeto 03](https://github.com/wellifabio/to-do-tarefas-03-2025.git)|
 |Evelyn Fernandes|[Projeto 01](https://github.com/wellifabio/to-do-tarefas-01-2025.git)|
-|Femando Joaquim Mota|[Projeto 02](https://github.com/wellifabio/to-do-tarefas-02-2025.git)|
+|Fernando Joaquim Mota|[Projeto 02](https://github.com/wellifabio/to-do-tarefas-02-2025.git)|
 |Hélio Alves de Oliveira|[Projeto 03](https://github.com/wellifabio/to-do-tarefas-03-2025.git)|
 |Jessé Oliveira da Silva|[Projeto 01](https://github.com/wellifabio/to-do-tarefas-01-2025.git)|
 |João Pedro Nepomuceno dos Santos|[Projeto 02](https://github.com/wellifabio/to-do-tarefas-02-2025.git)|
