@@ -50,9 +50,3 @@ Esta avaliação serve para você se testar, pois trata-se de um projeto Web com
 - Ao concluir o desenvolvimento, faça **commit** do README.md no seu repositório público, feito fork, para que o professor possa avaliar. esta avaliação terá validade para Front-end e Back-end.
 
 - ### Fala pessoal, Profº Robson invadindo a prova de vocês, Boa Sorte a todos e eu acredito no potencial de cada um!!
-
-## Agora uma dúvida
-
-<div align = center>
-<img src = "https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImJhdHRsZXJveWFsZSIsInRleHQiOiJlJTIwYSUyMGNhbWlzZXRhJTNGIiwiaWF0IjoxNzQ5NTY0NjE5fQ.Apfv_4zK_jZbmSKQy5-s0gWd7IFFmuzONE3j0skBgCw">
-</div>
