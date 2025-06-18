@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cores>
+  <Cor>
+    <IDCor>1</IDCor>
+    <NomeCor>Vermelho</NomeCor>
+    <Preço>1000</Preço>
+  </Cor>
+  <Cor>
+    <IDCor>2</IDCor>
+    <NomeCor>Preto</NomeCor>
+    <Preço>1200</Preço>
+  </Cor>
+  <Cor>
+    <IDCor>3</IDCor>
+    <NomeCor>Branco</NomeCor>
+    <Preço>900</Preço>
+  </Cor>
+  <Cor>
+    <IDCor>4</IDCor>
+    <NomeCor>Azul</NomeCor>
+    <Preço>1100</Preço>
+  </Cor>
+  <Cor>
+    <IDCor>5</IDCor>
+    <NomeCor>Prata</NomeCor>
+    <Preço>1050</Preço>
+  </Cor>
+</Cores>

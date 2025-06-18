@@ -1,0 +1,27 @@
+[
+  {
+    "IDAcessorio": 1,
+    "NomeAcessorio": "Rodas de Liga Leve",
+    "Preço": 2000
+  },
+  {
+    "IDAcessorio": 2,
+    "NomeAcessorio": "Teto Solar",
+    "Preço": 5000
+  },
+  {
+    "IDAcessorio": 3,
+    "NomeAcessorio": "Bancos de Couro",
+    "Preço": 8000
+  },
+  {
+    "IDAcessorio": 4,
+    "NomeAcessorio": "Sensor de Estacionamento",
+    "Preço": 1500
+  },
+  {
+    "IDAcessorio": 5,
+    "NomeAcessorio": "Câmera de Ré",
+    "Preço": 1200
+  }
+]
