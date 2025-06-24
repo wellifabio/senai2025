@@ -31,5 +31,5 @@ A análise de viabilidade mensura os riscos de um projeto, uma boa ferramenta pa
 - [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
 - [ ] Protótipo (Wireframe) do Front-end e Mobile
 
-#### Obs: Todas as entregas devem estar no repositório do grupo que foi criado na sprint 01 e ser apresentado aos professores na data 24/06
+#### Obs: Todas as entregas devem estar no repositório do grupo que foi criado na sprint 01 e ser apresentado aos professores na data 25/06
 Todas as pendências da sprint 02 devem ser entregues até o dia 24/06, não serão aceitas pendências após esta data.
