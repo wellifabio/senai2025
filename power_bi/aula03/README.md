@@ -45,8 +45,6 @@
 ## Demonstração com dados obtidos da Web
 - Cantina: https://wellifabio.github.io/cantina/
 
-<iframe title="cantina" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGExMTNkZWEtOWQxNS00YzgwLWJlMzEtZTdkZmFlZDRjMGFkIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 |Link do Power BI|
 |:-:|
 |https://app.powerbi.com/view?r=eyJrIjoiZGExMTNkZWEtOWQxNS00YzgwLWJlMzEtZTdkZmFlZDRjMGFkIiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9|
