@@ -85,40 +85,40 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - Tema inicial: All Wear - Provador Online (Combinações de peças com seu prórpio guarda roupas)
 - Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
 - [Repositório github](https://github.com/MirandaKathleen/projeto---tcc.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
-- [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [x] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Mobile**
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [ ] Protótipo (Wireframe) do Front-end e Mobile (Colocar link correto do protótipo no README.md do repositório)
 
 ### Grupo05
 - Metodologia: KANBAN
 - Tema inicial: PetShop 4 patas - Sistema de Gestão de PetShop
 - Alunos: Erick|Back-end|, Thiago|Front-end|, Justo|Testes|
 - [Repositório github](https://github.com/ErickAguiar06/Petshop-Projeto-TCC.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
-- [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
-- [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Back-end**
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [x] Iniciar a codificação/desenvolvimento **Front-end**
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Mobile**
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [ ] Protótipo (Wireframe) do Front-end e Mobile (So fez tela de cad. e login)
 
 ### Grupo06
 - Metodologia: SCRUM
 - Tema inicial: Pizzaria do seu Zé - Pedidos Online
 - Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Back-End|, Maria|Front-end, PO|
 - [Repositório github](https://github.com/WillianPiedade08/pizzaria.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
 - [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [x] Iniciar a codificação/desenvolvimento **Front-end**
+- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
 - [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
@@ -145,15 +145,15 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - Tema inicial: Hangetsu Uzumaki (Espiral da meia lua) - Artes Marciais
 - Alunos: Hélio|Back/Teste|, João Santos|Front|, Luiza|Back/Banco|, Rhayssa|Front|
 - [Repositório github](https://github.com/helio000/projeto-2025.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
-- [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desen. apenas Site, marcação)
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Mobile**
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [x] Protótipo (Wireframe) do Front-end e Mobile
 
 ## Critérios de avaliação
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
