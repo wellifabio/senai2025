@@ -48,7 +48,7 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
 - [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [x] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Protótipo (Wireframe) do Front-end e Mobile (Colocar link correto do protótipo no README.md do repositório)
 
 ### Grupo02
 - Metodologia: KANBAN - Trello
@@ -63,7 +63,7 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
 - [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [x] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Protótipo (Wireframe) do Front-end e Mobile (Colocar link correto do protótipo no README.md do repositório)
 
 ### Grupo03
 - Metodologia: KANBAN - Trello
@@ -73,12 +73,12 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
 - [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [x] Iniciar a codificação/desenvolvimento **Front-end**
+- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
 - [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
 - [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [x] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Protótipo (Wireframe) do Front-end e Mobile (Colocar link correto do protótipo no README.md do repositório)
 
 ### Grupo04
 - Metodologia: SCRUM
@@ -88,7 +88,7 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
 - [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [x] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
+- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
 - [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
@@ -108,7 +108,7 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
 - [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile (So fez tela de cad. e login)
+- [ ] Protótipo (Wireframe) do Front-end e Mobile (So fez tela de cad. e login)(Colocar link correto do protótipo no README.md do repositório)
 
 ### Grupo06
 - Metodologia: SCRUM
@@ -123,22 +123,22 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
 - [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [x] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Protótipo (Wireframe) do Front-end e Mobile (Colocar link correto do protótipo no README.md do repositório)
 
 ### Grupo07
 - Metodologia: KANBAN
 - Tema inicial: Catálogo de Filmes
 - Alunos: Jessé|Dev - Front, Testes|, Diego|Dev, Back-End, Docs|, Vitor|Dev - Front, Testes|, Arthur|Dev - Front, Testes|
-- [Repositório github]()
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [Repositório github](https://github.com/ArthurS0/projeto-growing-firtness.git)
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
-- [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Mobile**
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [x] Protótipo (Wireframe) do Front-end e Mobile
 
 ### Grupo08
 - Metodologia: Kanban
@@ -148,12 +148,12 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 - [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
 - [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desen. apenas Site, marcação)
+- [ ] Iniciar a codificação/desenvolvimento **Front-end** (Desenv. apenas Site, marcação)
 - [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
 - [x] Iniciar a codificação/desenvolvimento **Mobile**
 - [x] Análise de Viabilidade com Matriz SWOT
 - [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [x] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Protótipo (Wireframe) do Front-end e Mobile (Colocar link correto do protótipo no README.md do repositório)
 
 ## Critérios de avaliação
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
