@@ -18,7 +18,7 @@
 ### Checklist do progresso da Segunda Sprint
 Apresetações das entregas parciais do projeto final, com o objetivo de apresentar o progresso do projeto e o que foi desenvolvido até o momento.
 
-## Entregas
+## Checklist sas entregas
 ### Grupo01
 - Metodologia: SCRUM
 - Tema inicial: Diagnostico Rápido (Saúde relação entre paciente e médico)
