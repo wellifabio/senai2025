@@ -38,47 +38,47 @@ Todas as pendências da sprint 02 devem ser entregues até o dia 25/06, não ser
 ### Grupo01
 - Metodologia: SCRUM
 - Tema inicial: Diagnostico Rápido (Saúde relação entre paciente e médico)
-- Alunos: Melissa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
+- Alunos: Mellyssa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
 - [Repositório github](https://github.com/PedroDNRusso/TCC-DS.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
-- [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Back-end**
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [x] Iniciar a codificação/desenvolvimento **Front-end**
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
 - [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [x] Protótipo (Wireframe) do Front-end e Mobile
 
 ### Grupo02
 - Metodologia: KANBAN - Trello
 - Tema inicial: PetShop - Adoção
 - Alunos: Rebeca|Front-End|, Evelyn|Banco de dados|, Larissa|Testes|, Larissa V.|Back-End|, Crislaine|Documentação|
 - [Repositório github](https://github.com/rebecalazarini/tcc.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
-- [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
-- [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Back-end**
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [x] Iniciar a codificação/desenvolvimento **Front-end**
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Mobile**
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [x] Protótipo (Wireframe) do Front-end e Mobile
 
 ### Grupo03
 - Metodologia: KANBAN - Trello
 - Tema inicial: Paladar Nobre - Gestão de Padaria
-- Alunos: Pedro|Front-End|, João|Back-End|, Steffany|Teste|, Thamye|Front-end Teste|, Rebega Ap.|PO|
+- Alunos: Pedro|Front-End|, João|Back-End|, Steffany|Teste|, Thamye|Front-end Teste|, Rebeca Ap.|PO|
 - [Repositório github](https://github.com/steffanygiovanna/Projeto-padaria-2025.git)
-- [ ] Iniciar a codificação/desenvolvimento **Banco de dados**
+- [x] Iniciar a codificação/desenvolvimento **Banco de dados**
 - [ ] Iniciar a codificação/desenvolvimento **Back-end**
-- [ ] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
-- [ ] Iniciar a codificação/desenvolvimento **Front-end**
-- [ ] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
-- [ ] Iniciar a codificação/desenvolvimento **Mobile**
-- [ ] Análise de Viabilidade com Matriz SWOT
-- [ ] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
-- [ ] Protótipo (Wireframe) do Front-end e Mobile
+- [x] UML [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) **Back-End**
+- [x] Iniciar a codificação/desenvolvimento **Front-end**
+- [x] UML [DA (Diagrama de Atividades)](../../02-pbe2/aula10/README.md) **Front-End**
+- [x] Iniciar a codificação/desenvolvimento **Mobile**
+- [x] Análise de Viabilidade com Matriz SWOT
+- [x] Triângulo da qualidade do Projeto (Escopo, Prazo e Custo)
+- [x] Protótipo (Wireframe) do Front-end e Mobile
 
 ### Grupo04
 - Metodologia: SCRUM
