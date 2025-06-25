@@ -50,3 +50,19 @@ Esta avaliação serve para você se testar, pois trata-se de um projeto Web com
 - Ao concluir o desenvolvimento, faça **commit** do README.md no seu repositório público, feito fork, para que o professor possa avaliar. esta avaliação terá validade para Front-end e Back-end.
 
 - ### Fala pessoal, Profº Robson invadindo a prova de vocês, Boa Sorte a todos e eu acredito no potencial de cada um!!
+
+## Critérios
+|Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
+|-|:-:|-|
+|![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|1 Utilizar semântica de linguagem de marcação conforme normas|Separou os ítens como cabeçalho, conteúdo, menú, rodapé.|
+|![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|2 Elaborar formulários de página web|Criou formulários para cadastro em forma de modais ou como elemento dentro da página conforme solicitado|
+|![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|3 Utilizar ferramentas gráficas para interface web e mobile|Implementou funcionaidades HTML de responsividade apresentando o conteúdo tanto no tamanho web como mobile|
+|![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|4 Adequar a interface web para diferentes dispositivos de acesso|Implementou funcionaidades CSS de responsividade apresentando o conteúdo tanto no tamanho web como mobile|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|5 Desenvolver interfaces web interativas com linguagem de programação|Aplicou recursos de manipulação de janelas modais, carregou dados JSON, localStorage para persistência de dados|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|6 Aplicar técnicas de estilização de páginas web|Implementou técnicas de UI x UX com CSS|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|8 Desenvolver interfaces web consumindo API|Implementou consumo de api com fetch ou axios|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|9 Diferenciar os aspectos de aplicabilidade entre as experiências do usuário (UX) e a interface do usuário (UI)|Implementou responsividade, os cards mudam de coluna ao alterar o status no projeto "Tarefas"|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|1 Demonstrar autogestão|Utilizou IA apenas como apoio tentando entender a solução, contou com ajuda de colegas ou ajudou com objetivo de melhorar o aprendizado|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|2 Demonstrar pensamento analítico|Compreende como o Front-end se relaciona com dados locais e externos, tirou dúvidas com instrutores se surgiram|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|3 Demonstrar inteligência emocional|Se dedicou ao aprendizado para compreender o mínimo do componente|
+|![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|4 Demonstrar autonomia|Questionou os intrutores ou colegas sobre dúvidas ou problemas ocorridos durante o desenvolvimento. Se propôs a resolver os problemas|

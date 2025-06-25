@@ -29,6 +29,13 @@ Não necessáriamente as aulas seguirão esta ordem, mas a proposta é que sejam
 ||Intervalo|||
 |15:00|PSOF2|3|17:15|
 
+## Formulários de autoavaliação
+Para que possamos acompanhar o seu progresso, é necessário que você preencha os seguintes formulários de autoavaliação. Eles devem ser preenchidos ao final do semestre, mas você pode ir preenchendo aos poucos conforme for avançando nas atividades.
+- [PSOF2](https://docs.google.com/forms/d/e/1FAIpQLSfDdVa3QimeWtlHi2VN3MOIFD5weMHGyPjONBmKvAO-P7cJZQ/viewform?usp=dialog)
+- [PDM1](https://docs.google.com/forms/d/e/1FAIpQLSdc-zy8VjuX6XRsi4pICces-9BKy13H62ugbM8WtOYwVa5FfA/viewform?usp=dialog)
+- [PBE2](https://docs.google.com/forms/d/e/1FAIpQLSfDOtXoJPuHPz9Kype5Ar3E28KA7k-BFfLjlm5Nh0lUn9M08A/viewform?usp=dialog)
+- [PFE1](https://docs.google.com/forms/d/e/1FAIpQLSfwo_ryflJB7-lQYj4Y3Hpd_hliDMHjrD3fWhBbDrrjn40IiQ/viewform?usp=dialog)
+
 ### Emails educacionais SENAISP
 |Nome|Email|
 |-|-|
