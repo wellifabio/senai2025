@@ -28,9 +28,11 @@ Relacionamento de dados e arquivos JSON: em outra pasta salve os dados de um res
 <br>![restaurante](./relacionamentos.png)
 <br> Os relacionamentos acima representam uma análise de dados em **Estrela**, onde os dados são divididos em **Fato** e **Dimensões**
 - 5 Ao concluir os relacionamentos, faça um dashboard/relatório analisando os dados para mostrar as seguintes informações.
-  - A) Faturamento total do restaurante
-  - B) Entregas por entregador
-  - C) Pedidos no local (sem entrega)
-  - D) Tempo médio na cozinha
-  - E) Tempo médio de entrega
-
+  - A) Entregas por entregador
+  - B) Fotos dos entregadores
+  - C) Custo das entregas
+  - D) Faturamento total do restaurante
+  - E) Pedidos no local (sem entrega)
+- ![Exemplo](dashboard-restaurante.png)
+- Obs: Você vai precisar importar o visual Image Grig para mostrar a foto do entregador:
+- ![Inportar visual](importar-visual.png)
