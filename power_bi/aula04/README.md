@@ -21,12 +21,12 @@ Em seu computador crie uma pasta chamada **"sudeste"** e baixe para dentro dela 
 
 ### Atividade 02
 Relacionamento de dados e arquivos JSON: em outra pasta salve os dados de um restaurante, que estão no repositório **/restaurante**.
-- 1) Faça download dos arquivos .json da pasta restaurante e salve na pasta que você criou localmante no computador.<br>![Arquivos](./arquivos.png)
-- 2) Abra o Power BI, crie um novo "Relatório em branco" e importe os dados dos arquivos<br>![Print01](./print01.png)<br>![Print02](./print02.png)<br>![Print03](./print03.png)
-- 3) Após importar e se necessário transformar os dados. Crie os **relacionamentos** conforme imagem a seguir:
+- 1 Faça download dos arquivos .json da pasta restaurante e salve na pasta que você criou localmante no computador.<br>![Arquivos](./arquivos.png)
+- 2 Abra o Power BI, crie um novo "Relatório em branco" e importe os dados dos arquivos<br>![Print01](./print01.png)<br>![Print02](./print02.png)<br>![Print03](./print03.png)
+- 3 Após importar e se necessário transformar os dados. Crie os **relacionamentos** conforme imagem a seguir:
 <br>![restaurante](./relacionamentos.png)
 <br> Os relacionamentos acima representam uma análise de dados em **Estrela**, onde os dados são divididos em **Fato** e **Dimensões**
-- 4) Ao concluir os relacionamentos, faça um dashboard/relatório analisando os dados para mostrar as seguintes informações.
+- 4 Ao concluir os relacionamentos, faça um dashboard/relatório analisando os dados para mostrar as seguintes informações.
   - A) Faturamento total do restaurante
   - B) Entregas por entregador
   - C) Pedidos no local (sem entrega)
