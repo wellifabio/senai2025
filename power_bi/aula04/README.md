@@ -33,6 +33,6 @@ Relacionamento de dados e arquivos JSON: em outra pasta salve os dados de um res
   - C) Custo das entregas
   - D) Faturamento total do restaurante
   - E) Pedidos no local (sem entrega)
-- ![Exemplo](dashboard-restaurante.png)
+- ![Exemplo](./prints/dashboard-restaurante.png)
 - Obs: Você vai precisar importar o visual Image Grig para mostrar a foto do entregador:
-- ![Inportar visual](importar-visual.png)
+- ![Inportar visual](./prints/importar-visual.png)
