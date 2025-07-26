@@ -5,7 +5,7 @@
 - Restaurante Delivery: JSON local
 - Endereços a partir da API Via CEP: JSON https://viacep.com.br/ws/SP/Jaguari%C3%BAna/Bueno/json
 
-### Atividade 01
+# Atividade 01
 Em seu computador crie uma pasta chamada **"sudeste"** e baixe para dentro dela os arquivos **.csv** contidos neste repositório, na subpasta **/varegistasudeste**.
 - 1 Abra o **Power BI** e crie um novo projeto, importe os arquivos **csv** e **combine** os dados.
 - 2 Crie dois relatórios com os dados dos arquivos conforme imagens a seguir:
@@ -19,7 +19,7 @@ Em seu computador crie uma pasta chamada **"sudeste"** e baixe para dentro dela 
   - 3.3 Um gráfico de valor de venda por vendedor
 ![varegista02](./prints/varegista2.png)
 
-### Atividade 02
+# Atividade 02
 Relacionamento de dados e arquivos JSON: em outra pasta salve os dados de um restaurante, que estão no repositório **/restaurante**.
 - 1 Faça download dos arquivos .json da pasta restaurante e salve na pasta que você criou localmante no computador.<br>![Arquivos](./prints/arquivos.png)
 - 2 Abra o Power BI, crie um novo "Relatório em branco" e importe os dados dos arquivos<br>![Print01](./prints/print01.png)<br>![Print02](./prints/print02.png)<br>![Print03](./prints/print03.png)
