@@ -1,0 +1,291 @@
+type: collection.insomnia.rest/5.0
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1743787577856
+  modified: 1743787577856
+collection:
+  - name: Restaurante
+    meta:
+      id: fld_4ba31d136942413a91ff46cdb688eb57
+      created: 1740747710762
+      modified: 1753731902259
+      sortKey: -1741399295045.75
+  - name: Escola
+    meta:
+      id: fld_830f1ea740644a4c98777b5fb867c73c
+      created: 1741616489807
+      modified: 1741616489807
+      sortKey: -1741616489807
+  - name: Pizzaria
+    meta:
+      id: fld_6de4b852ae274dac9bd0ddf5d2cddcaf
+      created: 1742823883717
+      modified: 1742823883717
+      sortKey: -1742823883717
+  - name: Pizzaria
+    meta:
+      id: fld_95aa27eda1444dbc81e67f21d87146f2
+      created: 1742823883717
+      modified: 1743167543769
+      sortKey: -1742823883717
+  - name: Gof
+    meta:
+      id: fld_3a127cc78db64c1d9b41feebbb094e98
+      created: 1744630709013
+      modified: 1744630709013
+      sortKey: -1744630709013
+  - name: Login JWT
+    meta:
+      id: fld_63b5790845c1406a9bfa54ecd64bad0b
+      created: 1747681901794
+      modified: 1747681901794
+      sortKey: -1747681901794
+  - name: Login
+    meta:
+      id: fld_3d5a6a9dedb34db38e50744cad5b5ba7
+      created: 1749215447450
+      modified: 1749215447450
+      sortKey: -1749215447451
+  - name: dummyjson.com
+    meta:
+      id: fld_64996c65eabb47029944b9e02398f0ae
+      created: 1753097349572
+      modified: 1753720344910
+      sortKey: -1753097349572
+  - name: placeholder
+    meta:
+      id: fld_43cd34ef1553429b8f59c1bce701d0f3
+      created: 1753103174841
+      modified: 1753103174841
+      sortKey: -1751457178882
+  - name: SafeEdu
+    meta:
+      id: fld_3cae3d9f61bb4da291c4c005cf944e4a
+      created: 1753731947719
+      modified: 1753731947719
+      sortKey: -1753731947719
+    children:
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/jwt/generate_token
+        name: "Endpoint #01"
+        meta:
+          id: req_f71f0974f60b4610b306a4eb941f1eb0
+          created: 1753731952733
+          modified: 1753732035191
+          isPrivate: false
+          sortKey: -1753731952733
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"email": "fred@fred.com",
+            	"password": "123"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/jwt/validate_token
+        name: "Endpoint #02"
+        meta:
+          id: req_7767a97aa67243bba236648d8e322a7c
+          created: 1753732095525
+          modified: 1753732221686
+          isPrivate: false
+          sortKey: -1753414654025
+        method: POST
+        body:
+          mimeType: application/json
+          text: >-
+            {
+            	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwiZW1haWwiOiJmcmVkQGZyZWQuY29tIiwiaWF0IjoxNzUzNzMyMDE2LCJleHAiOjE3NTM3MzU2MTYsIm5hbWUiOiJGcmVkIn0.pJhK0kUo1s_LxuYNKJf5mJ930709JgINRtXxEU-j0bY"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/A2/motd
+        name: "Endpoint #03"
+        meta:
+          id: req_0c5e1af7b9194b938b74889a20bc6dd8
+          created: 1753732232838
+          modified: 1753732272612
+          isPrivate: false
+          sortKey: -1753256004671
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: "https://workspace.dinizeotecnologia.com.br/worldskills/A2/school_list "
+        name: "Endpoint #04"
+        meta:
+          id: req_62f16d0ef8cf4db2a7846b04c9c71dd4
+          created: 1753732310570
+          modified: 1753732317176
+          isPrivate: false
+          sortKey: -1753176679994
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/A2/comments
+        name: "Endpoint #05"
+        meta:
+          id: req_cee1a8d512124b0e8b3e7d69df0f352d
+          created: 1753732352662
+          modified: 1753732381104
+          isPrivate: false
+          sortKey: -1753137017655.5
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/A2/comments
+        name: "Endpoint #05"
+        meta:
+          id: req_f0df87d844344dea844c5e18c7969abf
+          created: 1753732416332
+          modified: 1753732437123
+          isPrivate: false
+          sortKey: -1753117186486.25
+        method: POST
+        body:
+          mimeType: application/json
+          text: '{"id_escola": "1","comentario": "Muito boa"}'
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/A2/prints
+        name: "Endpoint #06"
+        meta:
+          id: req_dfb9aa39a4704b71b10776820feb4595
+          created: 1753732489593
+          modified: 1753732576575
+          isPrivate: false
+          sortKey: -1753117186386.25
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: https://workspace.dinizeotecnologia.com.br/worldskills/A2/prints
+        name: "Endpoint #06"
+        meta:
+          id: req_26d08e2f514248d495907b904b12a447
+          created: 1753732599185
+          modified: 1753732659266
+          isPrivate: false
+          sortKey: -1753107270851.625
+        method: POST
+        body:
+          mimeType: multipart/form-data
+          params:
+            - id: pair_0217a2713b9449219dacb319b22c1132
+              name: id_user
+              value: "3"
+              disabled: false
+            - id: pair_8245ffb60d8c4fc0a63ab8c537e0000a
+              name: imagem
+              disabled: false
+              type: file
+        headers:
+          - name: Content-Type
+            value: multipart/form-data
+          - name: User-Agent
+            value: insomnia/11.1.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1743787599988
+    modified: 1753720385883
+  cookies:
+    - key: accessToken
+      domain: dummyjson.com
+      path: /
+      hostOnly: true
+      creation: 2025-07-28T16:32:51.929Z
+      lastAccessed: 2025-07-28T16:33:05.883Z
+      id: 8f956bf7-59f4-4f3d-9a35-670d96b99c98
+    - key: refreshToken
+      domain: dummyjson.com
+      path: /
+      hostOnly: true
+      creation: 2025-07-28T16:32:51.931Z
+      lastAccessed: 2025-07-28T16:33:05.883Z
+      id: f0375979-8a92-4a9d-b8f4-64c7fc80d25d
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1743787599979
+    modified: 1743787599979
+    isPrivate: false
