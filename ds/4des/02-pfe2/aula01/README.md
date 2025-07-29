@@ -15,7 +15,7 @@
 
 ## Instruções para entrega
 - Como foi feito Fork do repositório, você deve entregar através de commits, assim é possível acompanhar o seu progresso.
-- Após completar a atividade, tire prints das telas e acrescente no README.md do seu repositório.
+- Após completar a atividade, tire prints das telas e acrescente no **README.md** do seu repositório.
 
 ## [10 APIs Grátis e Legais para Desenvolvedores](https://medium.com/reactbrasil/10-apis-gr%C3%A1tis-e-legais-para-voc%C3%AA-consumir-69141988ea0b)
 Caso queira utilizar sua criatividade no lugar da API placeholder, sinta-se à vontade para criar sua própria API ou utilizar uma API pública de sua escolha.
