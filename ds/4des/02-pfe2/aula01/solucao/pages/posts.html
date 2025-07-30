@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/main.css">
+    <title>Login Posts</title>
+</head>
+
+<body>
+    <header>
+        <h1>Posts</h1>
+        <button onclick="sair()">Sair</button>
+    </header>
+    <main></main>
+    <footer>
+        <input type="text" placeholder="Buscar posts" onkeyup="buscarPosts(this.value)">
+    </footer>
+    <section id="modal" class="modal oculto">
+        <div class="janela">
+            <h2>Detalhes do Post</h2>
+            <div id="post-details"></div>
+            <button onclick="modal.classList.add('oculto')">Fechar</button>
+        </div>
+    </section>
+</body>
+<script src="../scripts/posts.js"></script>
+
+</html>
