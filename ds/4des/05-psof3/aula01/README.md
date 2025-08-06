@@ -588,9 +588,6 @@ Edite o arquivo `swagger.json` para incluir os endpoints restantes produtos e pe
 - [Documentação do Prisma](https://www.prisma.io/docs/)
 - [Projeto de exemplo no GitHub](https://github.com/wellifabio/edu-api-jserver-swagger/tree/master)
 
-## Entrega
-Demonstre ao professor a API criada, incluindo a documentação do Swagger. Certifique-se de que todos os endpoints estão funcionando corretamente e que a documentação está completa.
-
 ## Desafio
 Desenvolva a API do sistema de gestão de estacionamento a seguir, aplicando os mesmos recursos vistos nesta aula, conforme os requisitos funcionais e não funcionais a seguir. Conclua documentando a API com **Swagger**
 ![UML DC Estacionamento](./docs/api-estacionamento.png)
@@ -613,3 +610,5 @@ Desenvolva a API do sistema de gestão de estacionamento a seguir, aplicando os 
 
 ## Entregas
 Crie um diretório no github com o nome de **estacionamentoapi** envie seu projeto e crie um README.md semelhante ao do sistema **pedidosapi** visto nesta aula, contendo o print da tela do swagger. Mostre ao seu instrutor para receber o **Visto**.
+#### Praso
+- Próxima aula de projetos na semana que vem.
