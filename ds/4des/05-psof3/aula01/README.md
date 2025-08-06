@@ -139,7 +139,7 @@ module.exports = routes;
 npx nodemon
 ```
 - 10 Crie e edite os arquivos de controle para gerenciar os usuários, produtos e pedidos.
-- /sr/controllers/usuario.js
+- /src/controllers/usuario.js
 ```js
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
@@ -196,7 +196,7 @@ module.exports = {
     del
 };
 ```
-- /sr/controllers/produto.js
+- /src/controllers/produto.js
 ```js
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
@@ -253,7 +253,7 @@ module.exports = {
     del
 };
 ```
-- /sr/controllers/pedido.js
+- /src/controllers/pedido.js
 ```js
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
