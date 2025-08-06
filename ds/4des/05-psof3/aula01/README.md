@@ -569,13 +569,8 @@ app.listen(3001, (req,res) =>{
 ![Print Documentação Swagger](./print02.png)
 
 ## Atividades
-Edite o arquivo `swagger.json` para incluir os endpoints restantes usuarios, produtos e pedidos, seguindo o modelo dos usuários.
+Edite o arquivo `swagger.json` para incluir os endpoints restantes produtos e pedidos, seguindo o modelo dos usuários.
 
-- `/api/usuarios`: Endpoint para gerenciamento de acessos.
-  - **GET**: Listar todos os acessos. (Criado)
-  - **POST**: Criar um novo acesso. (Criado)
-  - **PATCH**: Atualizar um acesso existente. (Criar)
-  - **DELETE**: Excluir um acesso.(Criar)
 - `/api/produtos`: Endpoint para gerenciamento de produtos.
   - **GET**: Listar todos os produtos.(Criar)
   - **POST**: Criar um novo produto.(Criar)
@@ -595,3 +590,26 @@ Edite o arquivo `swagger.json` para incluir os endpoints restantes usuarios, pro
 
 ## Entrega
 Demonstre ao professor a API criada, incluindo a documentação do Swagger. Certifique-se de que todos os endpoints estão funcionando corretamente e que a documentação está completa.
+
+## Desafio
+Desenvolva a API do sistema de gestão de estacionamento a seguir, aplicando os mesmos recursos vistos nesta aula, conforme os requisitos funcionais e não funcionais a seguir. Conclua documentando a API com **Swagger**
+![UML DC Estacionamento](./docs/api-estacionamento.png)
+#### Requisitos funcionais
+- [RF001] O sistema deve permitir o CRUD de veículos.
+- [RF001.1] Os campos cor e ano não são obrigatórios, podem ser nulos.
+- [RF001.2] A rota readOne do veículo deve mostrar os dados de um veículo - específico e seus estacionamentos.
+- [RF002] O sistema deve permitir o CRUD de estadias.
+- [RF002.1] O sistema deve associar a estadia a um veículo.
+- [RF002.2] Ao cadastrar uma nova estadia, a data e hora da entrada deve ser gerada pelo Banco de Dados @dedault(now()).
+- [RF002.3] Ao cadastrar uma nova estadia a saida, pode ser nula "?" pois será preenchida na rota update quando o veículo saír do estacionamento.
+- [RF002.4] Ao cadastrar uma nova estadia o valorTotal, deve ser nulo "?" pois será calculado na rota update quando o veículo saír do estacionamento.
+
+#### Requisitos não funcionais
+- [RN001] Linguagem de programação **JavaScript**;
+- [RN002] Framework **Node.js**;
+- [RN003] SGBD **MySQL(MariaDB)**;
+- [RN004] ORM **Prisma**;
+- [RN005] Documentação e testes unitários e de integração com **Swagger**;
+
+## Entregas
+Crie um diretório no github com o nome de **estacionamentoapi** envie seu projeto e crie um README.md semelhante ao do sistema **pedidosapi** visto nesta aula, contendo o print da tela do swagger. Mostre ao seu instrutor para receber o **Visto**.
