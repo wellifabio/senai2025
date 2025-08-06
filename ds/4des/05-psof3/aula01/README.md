@@ -51,7 +51,7 @@ Para demonstrar a criação de uma API com Swagger, vamos criar um exemplo simpl
 
   - Iniciaremos um projeto com Node.js, Prisma, MySQL e Swagger.
 ### Passo a passo:
-- 1 Crie uma pasta chamada pedidos-api e abra com o Visual Studio Code.
+- 1 Crie uma pasta chamada pedidosapi e abra com o Visual Studio Code.
 - 2 Abra o terminal `cmd` ou `bash` do Visual Studio Code e execute o comando `npm init -y` para criar um arquivo package.json.
 - 3 Instale as dependências basicas do projeto, instale o prisma com suporte ao MySQL.
 ```bash
