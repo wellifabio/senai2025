@@ -61,7 +61,7 @@ npx prisma init --datasource-provider mysql
 ```
 - 4 Configure o arquivo `.env` com as credenciais do banco de dados MySQL.
 ```js
-DATABASE_URL="mysql://root@localhost:3306/pedidos-api?schema=public&timezone=UTC"
+DATABASE_URL="mysql://root@localhost:3306/pedidosapi?schema=public&timezone=UTC"
 ```
 - 5 Edite o Shema do Prisma no arquivo `prisma/schema.prisma` para definir as tabelas `Usuario`, `Produto` e `Pedido`.
 ```js
