@@ -1,0 +1,616 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "API de Produtos (Node + Prisma + MySQL[MariaDB])",
+        "version": "1.0.0",
+        "description": "Documentação da API Pedidos, API de Pedidos com Node.js, Prisma e MySQL (MariaDB).<br>Criada para aulas de Desenvolvimento de Software do SESI/SENAI 2025.",
+        "contact": {
+            "name": "Instrutor SESI/SENAI",
+            "email": "wellifabio@gmail.com",
+            "url": "https://github.com/wellifabio"
+        }
+    },
+    "servers": [
+        {
+            "url": "http://localhost:3001",
+            "description": "Servidor local"
+        }
+    ],
+    "securityDefinitions": {
+        "bearerAuth": {
+            "type": "apiKey",
+            "name": "Authorization",
+            "in": "header",
+            "description": "Bearer token para autenticação",
+            "scheme": "bearer",
+            "bearer format": "JWT",
+            "bearer token": "JWT <token>",
+            "bearer token description": "Bearer token para autenticação"
+        }
+    },
+    "components": {
+        "securitySchemes": {
+            "bearerAuth": {
+                "type": "http",
+                "scheme": "bearer",
+                "bearer format": "JWT"
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "Teste",
+            "description": "Endpoint de teste da API"
+        },
+        {
+            "name": "Rotas de Login",
+            "description": "Endpoints de usuarios"
+        },
+        {
+            "name": "CRUD de Usuarios",
+            "description": "Endpoints de usuarios"
+        },
+        {
+            "name": "CRUD de Produtos",
+            "description": "Endpoints de produtos"
+        },
+        {
+            "name": "CRUD de Pedidos",
+            "description": "Endpoints de pedidos"
+        }
+    ],
+    "paths": {
+        "/": {
+            "get": {
+                "tags": [
+                    "Teste"
+                ],
+                "summary": "Endpoint de teste geral da API",
+                "responses": {
+                    "200": {
+                        "description": "Retorna uma mensagem de teste"
+                    },
+                    "500": {
+                        "description": "Erro ao processar a requisição"
+                    }
+                }
+            }
+        },
+        "/api/login": {
+            "get": {
+                "tags": [
+                    "Rotas de Login"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para validar o login",
+                "responses": {
+                    "200": {
+                        "description": "Login realizado com sucesso"
+                    },
+                    "401": {
+                        "description": "Token inválido ou expirado"
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "Rotas de Login"
+                ],
+                "summary": "Endpoint para fazer o login",
+                "requestBody": {
+                    "description": "Dados de login",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "default": "ana.silva@email.com"
+                                    },
+                                    "senha": {
+                                        "type": "string",
+                                        "default": "senha123"
+                                    },
+                                    "validade": {
+                                        "type": "integer",
+                                        "default": 30
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Login realizado com sucesso"
+                    },
+                    "400": {
+                        "description": "Erro ao fazer login, verifique e-mail e senha"
+                    }
+                }
+            }
+        },
+        "/api/usuarios": {
+            "get": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para obter todos os usuários",
+                "responses": {
+                    "200": {
+                        "description": "Lista de usuários cadastrados"
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "summary": "Endpoint para cadastrar novo usuário",
+                "requestBody": {
+                    "description": "Dados de login",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "nome": {
+                                        "type": "string",
+                                        "default": "Ana Silva"
+                                    },
+                                    "email": {
+                                        "type": "string",
+                                        "default": "ana.silva@email.com"
+                                    },
+                                    "senha": {
+                                        "type": "string",
+                                        "default": "senha123"
+                                    },
+                                    "tipo": {
+                                        "type": "string",
+                                        "default": "CLIENTE"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Novo usuário"
+                    },
+                    "400": {
+                        "description": "Erro ao cadastrar usuário, envie nome, email, senha e tipo [ADMIN, CLIENTE]"
+                    }
+                }
+            },
+            "patch": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "summary": "Endpoint para quando usuário esquecer a senha e deseja Resetar",
+                "requestBody": {
+                    "description": "Dados do usuário",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "default": "ana.silva@email.com"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "202": {
+                        "description": "Email enviado ao usuário com nova senha provisória"
+                    },
+                    "400": {
+                        "description": "Erro ao resetar a senha do usuário usuário, verifique o email e envie novamente"
+                    }
+                }
+            }
+        },
+        "/api/usuarios/{id}": {
+            "patch": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para alterar um usuário",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID do usuário que deve ser alterado",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "description": "Dados de login",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "nome": {
+                                        "type": "string",
+                                        "default": "Ana Silva"
+                                    },
+                                    "email": {
+                                        "type": "string",
+                                        "default": "ana.silva@email.com"
+                                    },
+                                    "senha": {
+                                        "type": "string",
+                                        "default": "senha321"
+                                    },
+                                    "tipo": {
+                                        "type": "string",
+                                        "default": "ADMIN"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "202": {
+                        "description": "Usuário alterado"
+                    },
+                    "400": {
+                        "description": "Erro ao alterar usuário, envie nome ou email ou senha ou tipo [ADMIN, CLIENTE]"
+                    }
+                }
+            },
+            "delete": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para excluir um usuário",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID do usuário que deve ser excluído",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "Usuário excluído"
+                    },
+                    "400": {
+                        "description": "Erro ao excluir usuário."
+                    }
+                }
+            }
+        },
+        "/api/produtos": {
+            "get": {
+                "tags": [
+                    "CRUD de Produtos"
+                ],
+                "summary": "Endpoint para obter todos os produtos",
+                "responses": {
+                    "200": {
+                        "description": "Lista de produtos cadastrados"
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "CRUD de Produtos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para cadastrar novo produto",
+                "requestBody": {
+                    "description": "Dados do produto",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "nome": {
+                                        "type": "string",
+                                        "default": "Camisa Polo"
+                                    },
+                                    "descricao": {
+                                        "type": "string",
+                                        "default": "Camisa polo de algodão"
+                                    },
+                                    "imagem": {
+                                        "type": "string",
+                                        "default": "camisa-polo.jpg"
+                                    },
+                                    "preco": {
+                                        "type": "float",
+                                        "default": "79.90"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Novo produto cadastrado"
+                    },
+                    "400": {
+                        "description": "Erro ao cadastrar produto, envie nome, descricao, imagem e preco"
+                    }
+                }
+            }
+        },
+        "/api/produtos/{id}": {
+            "patch": {
+                "tags": [
+                    "CRUD de Produtos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para alterar um produto",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID do produto que deve ser alterado",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "description": "Dados do produto",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "nome": {
+                                        "type": "string",
+                                        "default": "Camisa Polo"
+                                    },
+                                    "descricao": {
+                                        "type": "string",
+                                        "default": "Camisa polo de algodão"
+                                    },
+                                    "imagem": {
+                                        "type": "string",
+                                        "default": "camisa-polo.jpg"
+                                    },
+                                    "preco": {
+                                        "type": "float",
+                                        "default": "89.90"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "202": {
+                        "description": "Produto alterado"
+                    },
+                    "400": {
+                        "description": "Erro ao alterar produto, envie nome ou descricao ou imagem ou preco"
+                    }
+                }
+            },
+            "delete": {
+                "tags": [
+                    "CRUD de Produtos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para excluir um produto",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID do produto que deve ser excluído",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "Produto excluído"
+                    },
+                    "400": {
+                        "description": "Erro ao excluir produto."
+                    }
+                }
+            }
+        },
+        "/api/pedidos": {
+            "get": {
+                "tags": [
+                    "CRUD de Pedidos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para obter todos os pedidos",
+                "responses": {
+                    "200": {
+                        "description": "Lista de pedidos cadastrados"
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "CRUD de Pedidos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para cadastrar novo pedido",
+                "requestBody": {
+                    "description": "Dados do pedido",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "usuarioId": {
+                                        "type": "integer",
+                                        "default": 1
+                                    },
+                                    "produtoId": {
+                                        "type": "integer",
+                                        "default": 1
+                                    },
+                                    "quantidade": {
+                                        "type": "integer",
+                                        "default": 1
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Novo pedido cadastrado"
+                    },
+                    "400": {
+                        "description": "Erro ao cadastrar pedido, envie usuarioId, produtoId e quantidade"
+                    }
+                }
+            }
+        },
+        "/api/pedidos/{id}": {
+            "patch": {
+                "tags": [
+                    "CRUD de Pedidos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para alterar um pedido",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID do pedido que deve ser alterado",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "description": "Dados do pedido",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "usuarioId": {
+                                        "type": "integer",
+                                        "default": 1
+                                    },
+                                    "produtoId": {
+                                        "type": "integer",
+                                        "default": 1
+                                    },
+                                    "quantidade": {
+                                        "type": "integer",
+                                        "default": 2
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "202": {
+                        "description": "Pedido alterado"
+                    },
+                    "400": {
+                        "description": "Erro ao alterar pedido, envie usuarioId, produtoId e quantidade"
+                    }
+                }
+            },
+            "delete": {
+                "tags": [
+                    "CRUD de Pedidos"
+                ],
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ],
+                "summary": "Endpoint para excluir um pedido",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "ID do pedido que deve ser excluído",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "Pedido excluído"
+                    },
+                    "400": {
+                        "description": "Erro ao excluir pedido."
+                    }
+                }
+            }
+        }
+    }
+}
