@@ -582,7 +582,6 @@ Edite o arquivo `swagger.json` para incluir os endpoints restantes produtos e pe
   - **PATCH**: Atualizar um pedido existente.(Criar)
   - **DELETE**: Excluir um pedido.(Criar)
 
-
 ## Referências
 - [Documentação do Swagger](https://swagger.io/docs/)
 - [Documentação do Prisma](https://www.prisma.io/docs/)
