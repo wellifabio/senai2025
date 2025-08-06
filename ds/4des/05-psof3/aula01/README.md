@@ -374,9 +374,14 @@ app.listen(3001, (req,res) =>{
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "API de Produtos (Node + Prisma + MySQL[MariaDB])",
+        "title": "API de Pedidos",
         "version": "1.0.0",
-        "description": "Documentação da API Pedidos"
+        "description": "Documentação da API Pedidos<br>Criada para aulas de criação de API<br>Tecnologias: (Node + Prisma + MySQL[MariaDB])",
+        "contact": {
+            "name": "Professor Wellington",
+            "email": "wellifabio@gmail.com",
+            "url": "https://github.com/wellifabio"
+        }
     },
     "servers": [
         {
@@ -386,7 +391,7 @@ app.listen(3001, (req,res) =>{
     ],
     "tags": [
         {
-            "name": "Teste",
+            "name": "Teste geral da API",
             "description": "Endpoint de teste da API"
         },
         {
@@ -406,15 +411,15 @@ app.listen(3001, (req,res) =>{
         "/": {
             "get": {
                 "tags": [
-                    "Teste"
+                    "Teste geral da API"
                 ],
                 "summary": "Endpoint de teste geral da API",
                 "responses": {
                     "200": {
-                        "description": "Retorna uma mensagem de teste"
+                        "description": "Retorna o título da API"
                     },
                     "500": {
-                        "description": "Erro ao processar a requisição"
+                        "description": "Erro de resposta do SERVIDOR"
                     }
                 }
             }
@@ -428,6 +433,9 @@ app.listen(3001, (req,res) =>{
                 "responses": {
                     "200": {
                         "description": "Lista de usuários cadastrados"
+                    },
+                    "500": {
+                        "description": "Servidor não está respondendo"
                     }
                 }
             },
@@ -437,7 +445,7 @@ app.listen(3001, (req,res) =>{
                 ],
                 "summary": "Endpoint para cadastrar novo usuário",
                 "requestBody": {
-                    "description": "Dados de login",
+                    "description": "Dados de acesso",
                     "content": {
                         "application/json": {
                             "schema": {
@@ -470,6 +478,86 @@ app.listen(3001, (req,res) =>{
                     },
                     "400": {
                         "description": "Erro ao cadastrar usuário, envie nome, email, senha e tipo [ADMIN, CLIENTE]"
+                    }
+                }
+            }
+        },
+        "/api/usuarios/{id}": {
+            "patch": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "Id do usuário a ser alterado",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "summary": "Endpoint para alterar dados do usuário",
+                "requestBody": {
+                    "description": "Dados de exemplo",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "nome": {
+                                        "type": "string",
+                                        "default": "Ana Silva"
+                                    },
+                                    "email": {
+                                        "type": "string",
+                                        "default": "ana.silva@email.com"
+                                    },
+                                    "senha": {
+                                        "type": "string",
+                                        "default": "senha123"
+                                    },
+                                    "tipo": {
+                                        "type": "string",
+                                        "default": "CLIENTE"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "202": {
+                        "description": "Usuário alterado com sucesso"
+                    },
+                    "400": {
+                        "description": "Erro ao cadastrar usuário, envie nome, email, senha e tipo [ADMIN, CLIENTE]"
+                    }
+                }
+            },
+            "delete": {
+                "tags": [
+                    "CRUD de Usuarios"
+                ],
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "description": "Id do usuário a ser excluído",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "summary": "Endpoint para excluir um usuário",
+                "responses": {
+                    "204": {
+                        "description": "Usuário excluído com sucesso"
+                    },
+                    "500": {
+                        "description": "Não foi possível excluir usuário"
                     }
                 }
             }
