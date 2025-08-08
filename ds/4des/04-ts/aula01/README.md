@@ -49,7 +49,7 @@
 - Relatório de testes é um documento que descreve os resultados dos testes realizados em um sistema
 
 ## 7. Atividade Prática (Testando a API de Pedidos)
-Neste repositório, você encontrará uma API de pedidos que desenvolvemos nas aulas de projetos anteriores. Sua tarefa é testar essa API utilizando os conceitos aprendidos nesta aula. Será um teste do tipo caixa branca, pois já conhecemos a implementação interna do sistema. Execute o projeto em seu computador e siga o roteiro de testes sugerido:
+**[Neste repositório](https://github.com/wellifabio/pedidosapi-2025.git)**, você encontrará uma API de pedidos que desenvolvemos nas aulas de projetos anteriores. Sua tarefa é testar essa API utilizando os conceitos aprendidos nesta aula. Será um teste do tipo caixa branca, pois já conhecemos a implementação interna do sistema. Execute o projeto em seu computador e siga o roteiro de testes sugerido:
 
 ### Roteiro de Testes - Caixa Branca
 - 1 **Teste de Unidade**: A partir da página de documentação da API swagger, verifique todas as rotas estão funcionando corretamente.
