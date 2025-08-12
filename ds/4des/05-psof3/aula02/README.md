@@ -70,6 +70,10 @@ Funcionalidades principais implementadas, como:
 - Alunos: Hélio|Back/Teste|, João Santos|Front|, Luiza|Back/Banco|, Rhayssa|Front|
 - [Repositório github](https://github.com/helio000/projeto-2025.git)
 
+<div align = "center">
+<img src = "https://github.com/robsonbsouzaa/2025/blob/main/result.gif">
+</div>
+
 ## Critérios de avaliação
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
 |-|:-:|-|
