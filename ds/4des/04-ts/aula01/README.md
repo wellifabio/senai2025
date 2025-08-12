@@ -12,6 +12,10 @@
 - Falha: é a manifestação do erro durante a execução do programa.
 - Defeito: é o erro no código fonte que causa a falha.
 
+## Eficiênvia e Eficácia
+- Eficiência / Precisão: O qual próximo da perfeição, detalhe um requisito é bem sucedido
+- Eficácia / Acurácia: O quão próximo do alvo / Objetivo
+
 ### Falha x Defeito segundo o ISTQB
 - Falha: é a **incapacidade** de um sistema ou componente de executar suas funções requeridas dentro de requisitos especificados.
     - Ex: normalmente quando há uma falha o sistema **não funciona**.
@@ -51,23 +55,51 @@
 ## 7. Atividade Prática (Testando a API de Pedidos)
 **[Neste repositório](https://github.com/wellifabio/pedidosapi-2025.git)**, você encontrará uma API de pedidos que desenvolvemos nas aulas de projetos anteriores. Sua tarefa é testar essa API utilizando os conceitos aprendidos nesta aula. Será um teste do tipo caixa branca, pois já conhecemos a implementação interna do sistema. Execute o projeto em seu computador e siga o roteiro de testes sugerido:
 
+## Tipos de teste de software
+- Funcional
+- Recuperação de falhas
+- Segurança
+- Performance
+- Carga
+
 ---
 ### Roteiro de Testes - Caixa Branca
+Como já conhecemos o sitema, e ainda não está completo, possui somente a API realizaremos o teste manual de caixa branca
+#### Requisitos Funcionais
+- Gestão de usuários
+    - Usuário tipo CLIENTE pode se cadastrar
+    - Usuário tipo ADMIN é cadastrado por outro ADMIN
+    - Somente usuários **Logados** podem listar ou alterar outros usuários
+- Gestão de Produtos
+    - O endpoint de listar produtos não precisa estar **logado** para funcionar
+    - Nos outros endpoints, o usuário precisa estar **logado** para funcionar
+- Gestão de Pedidos
+    - Todos os endpoints, o usuário precisa estar **logado** para funcionar
+#### Requisitos não funcionais
+- Frameworks
+    - Jode.JS
+    - Prisma
+    - JWT
+    - Swagger
+- Linguagens de programação
+    - JavaScript
+- Ambiente Dev e QA implantado localmente em 127.0.0.1:3001 / localhost:3001
+
 #### Check-list
-- 1 **Teste de Unidade**: A partir da página de documentação da API swagger, verifique todas as rotas estão funcionando corretamente.
+- 1 **Teste de Unidade**: A partir da página de documentação da API swagger, verifique todas as rotas estão funcionando corretamente, através do checklist, classifique cada teste como (Funcional, Segurança ou Recuperação de Falhas) conforme exemplo dos primeiros testes nos endpoints de usuários:
     - **Usuários**:
     - [ ] Rota de Login de usuário
-        - [ ] Credenciais corretas retornaram um token JWT
-        - [ ] Credenciais incorretas retornaram erro 400
+        - [ ] Credenciais corretas retornaram um token JWT (Segurança)
+        - [ ] Credenciais incorretas retornaram erro 400 (Recuperação de falhas)
     - [ ] Rota de criação de usuário
-        - [ ] Usuário criado com sucesso (Código 201)
-        - [ ] Usuário co e-mail já existente retornou erro 400
-        - [ ] A rota está protegida por autenticação JWT
-        - [ ] A rota deveria estar protegida por autenticação JWT
+        - [ ] Usuário criado com sucesso (Código 201) (Funcional)
+        - [ ] Usuário co e-mail já existente retornou erro 400 (Recuperação de falhas)
+        - [ ] A rota está protegida por autenticação JWT (Segurança)
+        - [ ] A rota deveria estar protegida por autenticação JWT (Funcional, Segurança)
     - [ ] Rota de listagem de usuários
-        - [ ] Listagem de usuários retornou sucesso
-        - [ ] A rota está protegida por autenticação JWT
-        - [ ] Listagem de usuários vazia retornou sucesso
+        - [ ] Listagem de usuários retornou sucesso (Funcional)
+        - [ ] A rota está protegida por autenticação JWT (Segurança)
+        - [ ] Listagem de usuários vazia retornou sucesso (Funcional)
     - [ ] Rota de atualização de usuário
         - [ ] Usuário atualizado com sucesso (Código 202)
         - [ ] Usuário não encontrado retornou erro 404
