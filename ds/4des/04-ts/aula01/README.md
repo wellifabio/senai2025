@@ -1,28 +1,31 @@
 # Aula01 - Testes de Software
 ## 1. Introdução
+![Lousa](./lousa.png)
 ### 1.1. O que é um teste de software?
 - Teste de software é um processo de execução de um programa com o objetivo de encontrar erros.
 - O teste é uma atividade de execução de um sistema com o objetivo de encontrar falhas.
 
-## Erro x Falha
+---
+### Conceitos
+#### Erro x Falha
 - Erro: é a diferença entre o valor calculado e o valor correto.
 - Falha: é a manifestação do erro durante a execução do programa.
 
-## Falha e Defeito
+#### Falha e Defeito
 - Falha: é a manifestação do erro durante a execução do programa.
 - Defeito: é o erro no código fonte que causa a falha.
 
-## Eficiênvia e Eficácia
+#### Eficiênvia e Eficácia
 - Eficiência / Precisão: O qual próximo da perfeição, detalhe um requisito é bem sucedido
 - Eficácia / Acurácia: O quão próximo do alvo / Objetivo
 
-### Falha x Defeito segundo o ISTQB
+#### Falha x Defeito segundo o ISTQB
 - Falha: é a **incapacidade** de um sistema ou componente de executar suas funções requeridas dentro de requisitos especificados.
     - Ex: normalmente quando há uma falha o sistema **não funciona**.
 - Defeito: é um desvio do comportamento especificado de um sistema ou componente.
     - Ex: o sistema funciona, mas **não funciona como deveria**.
-
-## 2. Tipos de Testes
+---  
+## 2. Tipos de Testes quanto as fases
 ### 2.1. Teste de Unidade
 - Teste de unidade é o teste de menor nível, é o teste de um único componente ou unidade do sistema.
 - O teste de unidade é realizado pelo desenvolvedor, que testa cada unidade de código assim que é desenvolvida.
@@ -39,26 +42,32 @@
 
 ### 2.4. Teste de Aceitação
 - Teste de aceitação é o teste realizado pelo usuário final, que testa o sistema assim que é desenvolvido.
+---
+## 3. Tipos quanto ao conhecimento do código
 
-## 3. Teste de Caixa Preta
-- Teste de caixa preta é o teste realizado sem conhecer a implementação interna do sistema.
-
-## 4. Teste de Caixa Branca
+## 1. Teste de Caixa Branca
 - Teste de caixa branca é o teste realizado conhecendo a implementação interna do sistema.
+- Normalmente realizado por **Testers** ou usuários **Alfa** na fase de Integração ou Sistema
 
-## Tipos de teste de software
+## 2. Teste de Caixa Preta
+- Teste de caixa preta é o teste realizado sem conhecer a implementação interna do sistema.
+- Normalmente realizado por **Testers** ou usuários **Beta** na fase de aceite
+---
+
+## Alguns tipos de teste de software, quanto ao que é testado
 - **Funcional**
 - **Recuperação de falhas**
 - **Segurança**
 - **Performance**
 - **Carga**
+---
 
 ## 5. Roteiro de Testes
 - Roteiro de testes é um documento que descreve os testes a serem realizados em um sistema. Normalmente no formato de tabela ou checklist.
 
 ## 6. Relatório de Testes
 - Relatório de testes é um documento que descreve os resultados dos testes realizados em um sistema
-
+---
 ## 7. Atividade Prática (Testando a API de Pedidos)
 **[Neste repositório](https://github.com/wellifabio/pedidosapi-2025.git)**, você encontrará uma API de pedidos que desenvolvemos nas aulas de projetos anteriores. Sua tarefa é testar essa API utilizando os conceitos aprendidos nesta aula. Será um teste do tipo caixa branca, pois já conhecemos a implementação interna do sistema. Execute o projeto em seu computador e siga o roteiro de testes sugerido:
 
