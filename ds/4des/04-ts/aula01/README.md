@@ -46,6 +46,13 @@
 ## 4. Teste de Caixa Branca
 - Teste de caixa branca é o teste realizado conhecendo a implementação interna do sistema.
 
+## Tipos de teste de software
+- **Funcional**
+- **Recuperação de falhas**
+- **Segurança**
+- **Performance**
+- **Carga**
+
 ## 5. Roteiro de Testes
 - Roteiro de testes é um documento que descreve os testes a serem realizados em um sistema. Normalmente no formato de tabela ou checklist.
 
@@ -54,13 +61,6 @@
 
 ## 7. Atividade Prática (Testando a API de Pedidos)
 **[Neste repositório](https://github.com/wellifabio/pedidosapi-2025.git)**, você encontrará uma API de pedidos que desenvolvemos nas aulas de projetos anteriores. Sua tarefa é testar essa API utilizando os conceitos aprendidos nesta aula. Será um teste do tipo caixa branca, pois já conhecemos a implementação interna do sistema. Execute o projeto em seu computador e siga o roteiro de testes sugerido:
-
-## Tipos de teste de software
-- Funcional
-- Recuperação de falhas
-- Segurança
-- Performance
-- Carga
 
 ---
 ### Roteiro de Testes - Caixa Branca
