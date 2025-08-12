@@ -93,7 +93,7 @@ Como já conhecemos o sitema, e ainda não está completo, possui somente a API 
         - [ ] Credenciais incorretas retornaram erro 400 (Recuperação de falhas)
     - [ ] Rota de criação de usuário
         - [ ] Usuário criado com sucesso (Código 201) (Funcional)
-        - [ ] Usuário co e-mail já existente retornou erro 400 (Recuperação de falhas)
+        - [ ] Usuário com e-mail já existente retornou erro 400 (Recuperação de falhas)
         - [ ] A rota está protegida por autenticação JWT (Segurança)
         - [ ] A rota deveria estar protegida por autenticação JWT (Funcional, Segurança)
     - [ ] Rota de listagem de usuários
