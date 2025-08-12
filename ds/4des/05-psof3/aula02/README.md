@@ -1,4 +1,8 @@
-# AUla03 - Sprint 04
+<div align = "center">
+<img src = "https://github.com/robsonbsouzaa/2025/blob/main/result.gif">
+</div>
+
+# Aula 03 - Sprint 04
 
 ## Ultima Sprint 16/06
 - [x] UML DC (Diagrama de Classes) Back-end
@@ -69,10 +73,6 @@ Funcionalidades principais implementadas, como:
 - Tema inicial: Hangetsu Uzumaki (Espiral da meia lua) - Artes Marciais
 - Alunos: Hélio|Back/Teste|, João Santos|Front|, Luiza|Back/Banco|, Rhayssa|Front|
 - [Repositório github](https://github.com/helio000/projeto-2025.git)
-
-<div align = "center">
-<img src = "https://github.com/robsonbsouzaa/2025/blob/main/result.gif">
-</div>
 
 ## Critérios de avaliação
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
