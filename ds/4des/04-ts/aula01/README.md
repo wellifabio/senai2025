@@ -51,7 +51,9 @@
 ## 7. Atividade Prática (Testando a API de Pedidos)
 **[Neste repositório](https://github.com/wellifabio/pedidosapi-2025.git)**, você encontrará uma API de pedidos que desenvolvemos nas aulas de projetos anteriores. Sua tarefa é testar essa API utilizando os conceitos aprendidos nesta aula. Será um teste do tipo caixa branca, pois já conhecemos a implementação interna do sistema. Execute o projeto em seu computador e siga o roteiro de testes sugerido:
 
+---
 ### Roteiro de Testes - Caixa Branca
+#### Check-list
 - 1 **Teste de Unidade**: A partir da página de documentação da API swagger, verifique todas as rotas estão funcionando corretamente.
     - **Usuários**:
     - [ ] Rota de Login de usuário
@@ -111,6 +113,7 @@
     - **Exclusão de Usuarios e Produtos**:
         - [ ] Exclusão de usuário com pedidos cadastrados retorna erro 400
         - [ ] Exclusão de produto com pedidos cadastrados retorna erro 400
+---
 
 ## Relatório de Testes
 - Após realizar os testes, elabore um relatório de testes contendo os resultados dos testes realizados (Basta preencher o checklist acima com os resultados dos testes). O relatório deve conter:
@@ -121,4 +124,4 @@
     - Observações adicionais
 
 ## Entrega
-- O relatório de testes deve ser enviado para [Formulário de Entrega](https://docs.google.com/forms/d/e/1FAIpQLSfCboaFln7MUcw3EaXlHyEdgVhbmlirqxoE6RlztuXljlxigg/viewform?usp=dialog) em formato PDF com evidências de cada rota testada (prints de tela, abaixo de cada rota testada) até a próxima aula.
+- O relatório de testes deve ser enviado para [Formulário de Entrega](https://docs.google.com/forms/d/e/1FAIpQLSeI-2m-v70ULhXEE3mpTyv8H9-B4xiovM6rN5up-CkR8iGuIg/viewform?usp=dialog) em formato **PDF** com evidências de cada rota testada (prints de tela, abaixo de cada check-list do endpoint testado) até a próxima aula.
