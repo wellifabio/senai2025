@@ -30,7 +30,7 @@ Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **B
 - [SENAI Play](https://play.senai.br/), passo a passo [para acessar](https://www.youtube.com/watch?v=iZrkpTHq2xQ).
 - [ABNT Coleção](https://abntcolecao.com.br/): (Empresa: SENAIDN, Usuário: ALUNOSENAISP, Senha: ALUNOSENAISP).
 - Proeducador [REMOTE](https://proeducador.sp.senai.br/site/)
-
+## [Resultados parciais](https://wellifabio.github.io/resultados/)
 ## Calendário
 ![1 Semestre](./assets/calendario01.png)
 ![2 Semestre](./assets/calendario02.png)
@@ -69,5 +69,3 @@ Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **B
 - Faculdade de Tecnologia SENAI Anchieta
 - Faculdade de Tecnologia SENAI Roberto Mange
 - [Faculdade SENAI - Campus Escola SENAI Paulo Antonio Skaf](https://sp.senai.br/cursos/graduacao/0?unidade=134)
-
-## [Resultados dos alunos](https://wellifabio.github.io/resultados/)
