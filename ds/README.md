@@ -23,6 +23,7 @@ Esse itinerário específico é voltado para a Formação Técnica e Profissiona
     - Programação Para Dispositivos Móveis (60/80)
     - Testes de Software (45/60)
     - Projetos de Software 03 (45/60)
+## [Resultados parciais](https://wellifabio.github.io/resultados/)
 ## Destaque do Plano de Curso
 - ![ds00](./assets/ds00.png)
 - ![ds01](./assets/ds01.png)
