@@ -186,3 +186,87 @@ export default function Index() {
   );
 }
 ```
+O resultado será semelhante a este:
+- ![Screenshot](./screeshot.png)
+
+## Atividade
+- 1 **Lanches** Crie um aplicativo semelhante ao que estudamos na aula mas que exiba uma de lista de lanches **FlatList** utilizando o **Expo-router**. O aplicativo deve ter uma tela inicial **`index.tsx`** que exibe uma lista de lanches e, ao clicar em um lanche, deve navegar para uma tela de detalhes **`detalhes.tsx`** que exibe informações sobre o lanche selecionado e uma **FlatList** de ingredientes.
+    - Dados dos lanches, **acrescente imagens** de suculentos lanches nesta lista e exiba em detalhes:
+    - Os ingredientes devem ser exibidos com **Flatlist**
+```ts
+export const lanches =[
+    {
+        "id": 1,
+        "nome":"Hamburguer",
+        "ingredientes": [
+            "Pão",
+            "Carne"
+        ],
+        "preco": 15.00
+    },
+    {
+        "id": 2,
+        "nome":"X-Burguer",
+        "ingredientes":[
+            "Pão",
+            "Carne",
+            "Queijo"
+        ]
+    },
+    {
+        "id": 3,
+        "nome":"X-Salada",
+        "ingredientes":[
+            "Pão",
+            "Carne",
+            "Queijo",
+            "Alface",
+            "Tomate",
+            "Cebola"
+        ],
+        "preco": 20.00
+    },
+    {
+        "id": 4,
+        "nome":"X-Bacon",
+        "ingredientes":[
+            "Pão",
+            "Carne",
+            "Queijo",
+            "Bacon",
+            "Alface",
+            "Tomate"
+        ],
+        "preco": 25.00
+    },
+    {
+        "id": 5,
+        "nome":"X-Egg",
+        "ingredientes":[
+            "Pão",
+            "Carne",
+            "Queijo",
+            "Alface",
+            "Tomate",
+            "Ovo"
+        ],
+        "preco": 30.00
+    },
+    {
+        "id": 6,
+        "nome":"X-Tudo",
+        "ingredientes":[
+            "Pão",
+            "Carne",
+            "Queijo",
+            "Bacon",
+            "Alface",
+            "Tomate",
+            "Ovo",
+            "Cebola"
+        ],
+        "preco": 35.00
+    }
+]
+```
+- 2 **Quiz** Crie um aplicativo de perguntas e respostas com pelo menos 5 questões e que some o resultado das respostas certas ao final semelhante ao wireframe a seguir:
