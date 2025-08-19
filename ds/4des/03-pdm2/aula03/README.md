@@ -4,7 +4,7 @@
 - Importância de navegação entre telas
 - Passagem de parâmetros
 - Listas (FlatList)
-- ![Wireframe](./whireframe00.png)
+- ![Wireframe](./wireframe00.png)
 ## Conteúdo
 - Introdução à navegação em aplicativos móveis
     - Tipos de navegação
@@ -270,3 +270,53 @@ export const lanches =[
 ]
 ```
 - 2 **Quiz** Crie um aplicativo de perguntas e respostas com pelo menos 5 questões e que some o resultado das respostas certas ao final semelhante ao wireframe a seguir:
+- ![Wireframe01](./wireframe01.png)
+- Abase de dados para as perguntas deve estar em um arquivo `assets/mockups/questoes.ts` semelhante ao arquivo a seguir:
+```ts
+export const questoes =[
+    {
+        "id": 1,
+        "pergunta":"O resultado da equação 2 + 2 é",
+        "respostas": [
+            "1",
+            "4",
+            "8",
+            "12"
+        ],
+        "certa":2
+    },
+    {
+        "id": 2,
+        "pergunta":"Qual o resultado da equação 10 + 10 / 2",
+        "respostas": [
+            "= 0",
+            "= 10",
+            "= 15",
+            "= 5"
+        ],
+        "certa":3
+    },
+    {
+        "id": 3,
+        "pergunta":"Qual é o valor de 5!",
+        "respostas": [
+            "5",
+            "25",
+            "125",
+            "120"
+        ],
+        "certa":4
+    },
+    {
+        "id": 4,
+        "pergunta":"O resultado da equação 25 + 3 * 5 é",
+        "respostas": [
+            "40",
+            "140",
+            "33",
+            "120"
+        ],
+        "certa":1
+    }
+]
+```
