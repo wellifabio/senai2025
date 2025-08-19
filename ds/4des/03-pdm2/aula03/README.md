@@ -4,7 +4,7 @@
 - Importância de navegação entre telas
 - Passagem de parâmetros
 - Listas (FlatList)
-
+- ![Wireframe](./whireframe00.png)
 ## Conteúdo
 - Introdução à navegação em aplicativos móveis
     - Tipos de navegação
