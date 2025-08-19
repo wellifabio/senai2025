@@ -269,7 +269,7 @@ export const lanches =[
     }
 ]
 ```
-- 2 **Quiz** Crie um aplicativo de perguntas e respostas com pelo menos 5 questões e que some o resultado das respostas certas ao final semelhante ao wireframe a seguir:
+- 2 **Quiz** Crie um aplicativo de perguntas e respostas com **pelo menos 5 questões** e que some o resultado das respostas certas ao final semelhante ao wireframe a seguir:
 - ![Wireframe01](./wireframe01.png)
 - Abase de dados para as perguntas deve estar em um arquivo `assets/mockups/questoes.ts` semelhante ao arquivo a seguir:
 ```ts
