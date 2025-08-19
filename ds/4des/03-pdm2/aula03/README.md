@@ -320,3 +320,9 @@ export const questoes =[
     }
 ]
 ```
+
+## Entregas
+Crie um repositório no **github** para **cada** atividade (Nomes sugeridos: **lanchesexpo**, **quizexpo**) e envie seus aplicativos com screenshots das telas no README.md, semelhante ao [README.md](./posts/README.md) de exemplo visto em aula:
+- ![Screenshot Readme.md](./screeshot-readme.png)
+#### Mostre os repositórios aos instrutores para receber o **Visto**
+As atividades podem ser feitas em duplas.
