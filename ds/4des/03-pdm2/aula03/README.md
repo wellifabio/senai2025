@@ -321,6 +321,8 @@ export const questoes =[
 ]
 ```
 
+### [Exemplo de Quiz](https://github.com/wellifabio/quiz-expo-2025.git)
+
 ## Entregas
 Crie um repositório no **github** para **cada** atividade (Nomes sugeridos: **lanchesexpo**, **quizexpo**) e envie seus aplicativos com screenshots das telas no README.md, semelhante ao [README.md](./posts/README.md) de exemplo visto em aula:
 - ![Screenshot Readme.md](./screeshot-readme.png)
