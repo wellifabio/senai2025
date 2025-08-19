@@ -21,8 +21,8 @@ npm install -g expo-cli
 ```
 Em seguida, crie um novo projeto React Native com o Expo, já na versão mais recente do Expo que possui o Expo-router integrado:
 ```bash
-npx create-expo-app@latest listdets
-cd listdets
+npx create-expo-app@latest posts
+cd posts
 npm run reset-project
 ```
 ### Configuração do Expo-router
