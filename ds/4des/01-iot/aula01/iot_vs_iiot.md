@@ -49,3 +49,15 @@
 | Escalabilidade        | Limitada                     | Alta                         |
 | Protocolos comuns     | Wi-Fi, Bluetooth              | MQTT, OPC UA, Modbus         |
 | Objetivo principal    | Conforto e automação         | Eficiência e produtividade   |
+
+## Fonte: M365 Copilot - Consultado em 20/08/2025
+### Outras Fontes
+- Voitto – Explica detalhadamente as diferenças entre IoT e IIoT, com foco na Indústria 4.0 e aplicações práticas em diversos setores industriais 1.
+
+- Dynamox – Traz uma abordagem técnica e aplicada sobre IIoT, com exemplos reais de uso em manutenção preditiva, sensores industriais e integração com plataformas em nuvem 2.
+
+- Artigo Acadêmico – IMMES
+“Internet das Coisas (IoT): Aplicações, Tecnologias e Desafios para a Sociedade Conectada” – Analisa as aplicações da IoT em setores como saúde, indústria, agronegócio e cidades inteligentes, além dos desafios técnicos e éticos 3.
+
+- Universidade Federal de Minas Gerais (UFMG)
+“Internet das Coisas: da Teoria à Prática” – Capítulo acadêmico que discute a evolução da IoT, seus fundamentos técnicos, desafios e aplicações em ambientes urbanos e industriais4.
