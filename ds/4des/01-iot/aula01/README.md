@@ -87,6 +87,5 @@ O exemplo de resultado está demonstrado com um microcontrolador ARDUINO porém 
 A imagem abaixo é apenas uma ilustração das ligações com um **ARDUINO UNO**, porém replique a experiência em grupo com a o microcontrolador **ASP32** presente no **Kit** disponibilizado.
 ![desafio](./desafio.png)
 
-## Driver
+## [Baixar o Driver ESP32](https://www.pololu.com/file/0J14/pololu-cp2102-windows-220616.zip)
 
-https://s3-sa-east-1.amazonaws.com/robocore-tutoriais/163/CH341SER_WINDOWS.zip
