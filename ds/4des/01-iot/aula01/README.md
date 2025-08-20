@@ -7,7 +7,7 @@
 ### [Introdução](./introducao.pdf)
 
 ### Capacidades Técnicas
-- 1 Identificar as diferenças entre as aplicações do IoT e IIoT 
+- 1 Identificar as diferenças entre as aplicações do **[IoT e IIoT](./iot_vs_iiot.md)** 
 - 2 Identificar os tipos de hardwares e soluções disponíveis 
 - 3 Configurar ambientes de desenvolvimento
 
