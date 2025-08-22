@@ -97,7 +97,7 @@ O mesmo programa, vamos estruturar para um arquivo JavaScript separado **importa
 
 ### Passo 01 - Vamos criar o arquivo `script.js` com o conteúdo a seguir:
 ```js
-import axios from 'axios';
+import axios from "https://cdn.skypack.dev/axios";
 
 const fetchPosts = async () => {
     try {
@@ -121,18 +121,24 @@ fetchPosts();
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Exemplo Axios</title>
 </head>
+
 <body>
-    <h1>Exemplo de Requisição com Axios</h1>
-    <div id="app"></div>
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <header>
+        <h1>Exemplo de Requisição com Axios</h1>
+    </header>
+    <main>
+        <div id="app"></div>
+    </main>
     <script type="module" src="script.js"></script>
 </body>
+
 </html>
 ```
 ### Passo 03 - Resultado
