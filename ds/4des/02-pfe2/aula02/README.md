@@ -143,6 +143,9 @@ fetchPosts();
 ```
 ### Passo 03 - Resultado
 O resultado será o mesmo, porém a organização do código será melhorada.
+- ![Screenshot](./screenshot01.png)
+
 
 ## Exemplo 3
 [Exemplo de projeto com Axios e JWT](https://github.com/wellifabio/pbe2-jwt-login-axios-2025.git)
+
