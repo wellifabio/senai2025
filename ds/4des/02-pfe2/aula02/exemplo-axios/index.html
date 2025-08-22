@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Exemplo Axios</title>
+</head>
+
+<body>
+    <header>
+        <h1>Exemplo de Requisição com Axios</h1>
+        <button onclick="document.getElementById('modalNovo').classList.remove('oculto')">Novo Post</button>
+    </header>
+    <main>
+        <div id="app"></div>
+    </main>
+    <section id="modalNovo" class="modal oculto">
+        <div class="janela">
+            <h2>Novo Post</h2>
+            <form id="formNovoPost">
+                <div>
+                    <label for="titulo">Título:</label>
+                    <input type="text" id="titulo" name="titulo" required>
+                </div>
+                <div>
+                    <label for="conteudo">Conteúdo:</label>
+                    <textarea id="conteudo" name="conteudo" required></textarea>
+                </div>
+                <button type="submit">Criar Post</button>
+                <button type="button" onclick="document.getElementById('modalNovo').classList.add('oculto')">Fechar</button>
+            </form>
+        </div>
+    </section>
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

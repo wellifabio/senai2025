@@ -1,7 +1,7 @@
 # Aula02 - AXIOS
 Nesta aula, vamos aprender a utilizar o **AXIOS**, uma biblioteca **JavaScript** para fazer requisições HTTP.
 
-## Demonstração
+## Exemplo 01
 No exemplo a seguir vamos criar uma página HTML que vai consumir em um arquivo JavaScript a API PlaceHolder.
 
 ### Instalação por CDN
@@ -92,7 +92,8 @@ Execute o arquivo `index.html` em um navegador ou com o Live Server.
 - O resultado será semelhante ao screeshot abaixo:
 - ![Screenshot](./screenshot00.png)
 
-## Exemplo 2
+## Exemplo 02
+### Instalação por importação
 O mesmo programa, vamos estruturar para um arquivo JavaScript separado **importando** o **AXIOS**
 
 ### Passo 01 - Vamos criar o arquivo `script.js` com o conteúdo a seguir:
@@ -145,7 +146,9 @@ fetchPosts();
 O resultado será o mesmo, porém a organização do código será melhorada.
 - ![Screenshot](./screenshot01.png)
 
-
-## Exemplo 3
-[Exemplo de projeto com Axios e JWT](https://github.com/wellifabio/pbe2-jwt-login-axios-2025.git)
+## Exemplo 03
+Neste repositório você encontrará um exemplo de como utilizar o Axios para fazer requisições HTTP em um projeto JavaScript.
+- Na pasta `./exemplo-axios`
+## Exemplo 04
+Repositório com um [exemplo de projeto com Axios e JWT](https://github.com/wellifabio/pbe2-jwt-login-axios-2025.git)
 
