@@ -217,7 +217,7 @@ module.exports = {
     del
 };
 ```
-- `src/controllers/estatia.js`
+- `src/controllers/estadia.js`
 ```js
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
@@ -387,3 +387,17 @@ vercel --prod
 ```
 
 ## Pronto API Back-end implantado com sucesso
+
+# Atividades
+Em grupos, de preferência os mesmos do TCC, elegam um **DevOps** (Profissional responsável por implantações) e execute o tutorial acima implantanto a API de estacionamento na **Vercel**.
+- Outro integrante do grupo **Prog. Front-End** deve ficar responsável por desenvolver uma **UI** (Interface do Usuário) para interagir com a API.
+- A UI deve ser implantada no **GitHub Pages**.
+### wireframes
+Segue os wireframes da UI para ter como base para o desenvolvimento:
+![Wireframe 01](./wireframe01.png)
+![Wireframe 02](./wireframe02.png)
+
+## [Formulário de Entregas](https://docs.google.com/forms/d/e/1FAIpQLSdV24fB9faivuHKaluB1J8EgxOYZCR63u1IIQQ72q7mWm0rGg/viewform?usp=dialog)
+O formulário deve conter:
+- Links da API implantada na Vercel
+- Links da UI implantada no GitHub Pages
