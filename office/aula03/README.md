@@ -1,6 +1,7 @@
 # Aula03 - Word
 
 ## Tabulação
+Para colocar ou retirar marcas de tabulação precizamos **Exibir** a **Régua**
 ![Marcas](./tabulacao00.png)
 Ao iniciar uma **lista** ou qualquer texto que seja organizado em colunas ou tabelas, podemos utilizar as **marcas de tabulação**.
 
