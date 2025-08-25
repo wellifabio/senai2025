@@ -19,3 +19,14 @@ Refaça o primeiro orçamento porém agora colocando **pontilhado** entre os pro
 - ![Pontilhado](./pontilhado02.png)
 
 ## Currículo
+Vamos fazer um currículo simples, utilizando formatação, tabulação e listas.
+- A seguir temos três exemplos de currículos de pessoas com ides e experiências diferentes:
+- Exemplo 01
+![Curriculo 01](./curriculo01.png)
+- Exemplo 02
+![Curriculo 02](./curriculo02.png)
+- Exemplo 03
+![Curriculo 03](./curriculo03.png)
+
+## Atividade
+Com base nos exemplos acima, construa o seu currículo utilizando o Word Online.
