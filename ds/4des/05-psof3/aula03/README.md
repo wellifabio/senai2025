@@ -309,7 +309,14 @@ npm run dev
 ```bash
 npx prisma studio
 ```
-- G. por fim voltar para o SGBD PostgreSQL, criar um repositório no github e enviar o projeto, não esqueça do arquivo `.gitignore` contendo:
+- G. por fim voltar para o SGBD PostgreSQL, alterando o arquivo `prisma/schema.prisma` para o Banco de dados PostgreSQL, 
+```js
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+```
+- H. Criar um repositório no github e enviar o projeto, não esqueça do arquivo `.gitignore` contendo:
 ```
 node_modules
 .env
@@ -369,7 +376,7 @@ vercel env pull .env
   }
 }
 ```
-- Acrescente o arquivo `vercel.json` apontando para o `api/server.js`
+- Acrescente o arquivo `vercel.json` na raiz do projeto, apontando para o `api/server.js`
 ```js
 {
     "version": 2,
@@ -381,7 +388,8 @@ vercel env pull .env
     ]
 }
 ```
-- Para fazer deploy, com o ambiente configurado corretamente, basta fazer commit das alterações e executar o comando:
+![Pastas02](./screenshots/pastas2.png)
+- Para **fazer deploy**, com o ambiente configurado corretamente, basta **fazer commit das alterações** e executar o comando:
 ```bash
 vercel --prod
 ```
