@@ -1,7 +1,7 @@
 # Aula 03 - Firebase com Firestore
 
 ## FireStore
-O FireStore é um banco de dados NoSQL em tempo real que permite armazenar e sincronizar dados entre os clientes e o servidor. Ele é parte do Firebase, uma plataforma de desenvolvimento de aplicativos móveis e web.
+O FireStore é um **banco de dados NoSQL** em tempo real que permite armazenar e sincronizar dados entre os clientes e o servidor. Ele é parte do Firebase, uma plataforma de desenvolvimento de aplicativos móveis e web.
 
 ## Experimento
 - Criar um Front-End simples consumindo dados do FireStore.
@@ -28,7 +28,7 @@ Se quiser esconder as chaves, seria necessário um backend intermediário. Caso 
 - ![Tela06](./print06.png)
 - 6 Crie um banco de dados Firestore
 - ![Tela07](./print07.png)
-- 7 Para testar localmente altere o if para true
+- 7 Para testar localmente altere o **if false** para **if true**
 ### Crie uma pasta e os arquivos Front-End para consumir os dados do Firestore
 ./app
 ./app/index.html
