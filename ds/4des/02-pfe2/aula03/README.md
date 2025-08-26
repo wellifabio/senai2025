@@ -14,6 +14,8 @@ No seu caso, usando apenas HTML/JS puro, o firebaseConfig sempre ficará visíve
 
 Se quiser esconder as chaves, seria necessário um backend intermediário. Caso queira usar variáveis de ambiente, recomendo migrar para um framework/bundler moderno (Vite, React, Angular, etc.).
 
+### https://console.firebase.google.com/
+
 ## Passo a passo para criar um projeto Firebase, Adicionar Firestore e configurar o ambiente
 - ![Tela01](./print01.png)
 - 1 Crie sua conta no Firebase
