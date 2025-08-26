@@ -20,6 +20,7 @@
     <section id="modal" class="modal oculto">
         <div class="janela">
             <h2>Comentários do Post</h2>
+            <hr>
             <div id="post-details"></div>
             <button onclick="modal.classList.add('oculto')">Fechar</button>
         </div>
@@ -29,10 +30,14 @@
 <script src="../scripts/placeholder.js" type="module"></script>
 <script>
     function searchPosts(searchTerm) {
-        const posts = document.querySelectorAll('main > article');
+        const posts = document.querySelectorAll('.post');
         posts.forEach(post => {
-            const title = post.querySelector('h2').textContent.toLowerCase();
-            post.style.display = title.includes(searchTerm) ? 'block' : 'none';
+            const title = post.querySelector('h2').innerText.toLowerCase();
+            if (title.includes(searchTerm.toLowerCase())) {
+                post.style.display = '';
+            } else {
+                post.style.display = 'none';
+            }
         });
     }
 </script>
