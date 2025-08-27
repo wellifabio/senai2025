@@ -56,7 +56,12 @@ void loop() {
 }
 ```
 
-## Atividade
+## Atividade 01 (Chapolin)
+Simulação de um alarme, utilizando o sensor PIR.
+Ao detectar a preseça do inimigo as **anteninhas de vinil** do Chapolin colorado acionam um **buzer** e acendem um **led**.
+![Screenshot01](./PIR.png)
+A ilustração acima utiliza um ARDUINO UNO, realize o mesmo experimento com a **ESP32**.
+## Atividade 02 (Estacionamento)
 **Contextualização:** Todos já encontraram em estacionamento de shopping, mercados, atacados, entre outros. Uma luz em cima do estacionamento de carros, quando a luz verde está acesa indica que a vaga está livre, quando vermelha quer dizer que está ocupada.
 
 Isso facilita a mobilidade dos estacionamento e a indicação de vagas.
@@ -66,3 +71,4 @@ Realize um projeto utilizando a base do exemplo de aula para fazer a atividade.
 Componentes a serem utilizados (OBRIGATÓRIO): Módulo Sensor de Distância Ultrassônico HC-SR04, Leds vermelho e verde.
 
 Quando sensor identificar algum obstaculo ele deve acender VERMELHO, quando não tiver nada o led verde deve ficar aceso.
+
