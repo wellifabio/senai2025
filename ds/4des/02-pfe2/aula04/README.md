@@ -1,5 +1,5 @@
-# Aula04 -  React com Vite
-O Vite é uma ferramenta de construção rápida e leve para projetos front-end modernos. Ele é especialmente útil para projetos React devido à sua configuração simples e desempenho otimizado.
+# Aula04 -  Vite / React
+O **Vite** é uma ferramenta de construção rápida e leve para projetos **front-end**. Ele é especialmente útil para projetos React devido à sua configuração simples e desempenho otimizado.
 - Nesta aula, vamos configurar um projeto React usando Vite e criar uma aplicação simples de livro de receitas que permite aos usuários ver em forma de cards as receitas disponíveis no arquivo `receitas.json` com os dados a seguir:
 
 ```json
@@ -33,4 +33,10 @@ O Vite é uma ferramenta de construção rápida e leve para projetos front-end 
     }
   ]
 }
+```
+
+## Iniciando um projeto com Vite
+
+```bash
+npm create vite@latest meu-livro-receitas -- --template react
 ```

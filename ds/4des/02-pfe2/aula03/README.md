@@ -17,26 +17,30 @@ Se quiser esconder as chaves, seria necessário um backend intermediário. Caso 
 ### https://console.firebase.google.com/
 
 ## Passo a passo para criar um projeto Firebase, Adicionar Firestore e configurar o ambiente
-- ![Tela01](./print01.png)
+- ![Tela01](./prints/print01.png)
 - 1 Crie sua conta no Firebase
-- ![Tela02](./print02.png)
+- ![Tela02](./prints/print02.png)
 - 2 Crie um ambiente tipo "Data connect"
-- ![Tela03](./print03.png)
+- ![Tela03](./prints/print03.png)
 - 3 Crie um novo Projeto
-- ![Tela04](./print04.png)
+- ![Tela04](./prints/print04.png)
 - 4 Adicione um App ao seu projeto
-- ![Tela05](./print05.png)
+- ![Tela05](./prints/print05.png)
 - 5 Configure o Firestore no seu App
-- ![Tela06](./print06.png)
+- ![Tela06](./prints/print06.png)
 - 6 Crie um banco de dados Firestore
-- ![Tela07](./print07.png)
+- ![Tela07](./prints/print07.png)
 - 7 Para testar localmente altere o **if false** para **if true**
-### Crie uma pasta e os arquivos Front-End para consumir os dados do Firestore
-./app
-./app/index.html
-./app/style.css
-./app/script.js
-![Front](./print-front.png)
+
+### Criando a UI Web para consumir os dados do Firestore
+- Crie a estrutura de pastas e arquivos a seguir, para criar o Front-end que consumirá os dados do Firestore
+```cmd
+app
+|- index.html
+|- style.css
+|- script.js
+```
+O arquivo `index.html` deve conter a estrutura básica do seu aplicativo, incluindo referências ao CSS e ao JavaScript. Aqui está um exemplo de como ele pode ser estruturado:
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -91,7 +95,7 @@ Se quiser esconder as chaves, seria necessário um backend intermediário. Caso 
 
 </html>
 ```
-- script.js
+- O Arquivo `script.js`
 ```js
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 import { getFirestore, collection, addDoc, getDocs, deleteDoc, doc } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
@@ -173,7 +177,7 @@ function excluirTarefa(id) {
 
 listarTarefas();
 ```
-style.css
+- E o arquivo `style.css`
 ```css
 * {
     margin: 0;
@@ -290,3 +294,5 @@ textarea {
     display: none;
 }
 ```
+- Print do resultado
+<br>![Front](./prints/print-front.png)
