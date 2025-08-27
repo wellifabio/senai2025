@@ -57,8 +57,7 @@ void loop() {
 ```
 
 ## Atividade
-Contextualização:
-Todos já encontraram em estacionamento de shopping, mercados, atacados, entre outros. Uma luz em cima do estacionamento de carros, quando a luz verde está acesa indica que a vaga está livre, quando vermelha quer dizer que está ocupada.
+**Contextualização:** Todos já encontraram em estacionamento de shopping, mercados, atacados, entre outros. Uma luz em cima do estacionamento de carros, quando a luz verde está acesa indica que a vaga está livre, quando vermelha quer dizer que está ocupada.
 
 Isso facilita a mobilidade dos estacionamento e a indicação de vagas.
 

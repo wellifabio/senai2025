@@ -36,9 +36,9 @@ Se quiser esconder as chaves, seria necessário um backend intermediário. Caso 
 - Crie a estrutura de pastas e arquivos a seguir, para criar o Front-end que consumirá os dados do Firestore
 ```cmd
 app
-|- index.html
-|- style.css
-|- script.js
+├──index.html
+├──style.css
+└──script.js
 ```
 O arquivo `index.html` deve conter a estrutura básica do seu aplicativo, incluindo referências ao CSS e ao JavaScript. Aqui está um exemplo de como ele pode ser estruturado:
 ```html

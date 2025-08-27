@@ -35,8 +35,76 @@ O **Vite** é uma ferramenta de construção rápida e leve para projetos **fron
 }
 ```
 
-## Iniciando um projeto com Vite
-
+## Iniciando o novo projeto WEB receitas com Vite
+Crie uma pasta raiz, abra com **VS Code** e execute o seguinte comando no terminal **CMD** ou **bash**:
 ```bash
-npm create vite@latest meu-livro-receitas -- --template react
+npm create vite@latest receitas -- --template react
+cd receitas
+npm install
+npm run dev
+```
+Pode aparecer alguma confirmação, pressione `y` para confirmar:
+### Estrutura de Pastas
+Será criada uma estrutura de pastas semelhante a esta:
+```bash
+meu-livro-receitas
+├── public
+│   └── vite.svg
+├── src
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── assets
+│       └── receitas.json
+├── index.html
+├── package.json
+└── vite.config.js
+```
+- Para executar o projeto modelo base que foi criado basta segurar o CTRL e clicar no link que aparece no terminal.
+```bash
+ ➜  Local:   http://localhost:5173/
+```
+![Print](./prints/screenshot01.png)
+### Codificando a Home Page
+Vamos codificar a home pagem para listar em forma de cards cada receita do arquivo `receitas.json`, antes crie uma pasta chamada **mockups** dentro da pasta **public** do seu projeto e adicione o arquivo `public/mockups/receitas.json` com o conteúdo exibido no **início** desta aula:
+- Agora vamos criar o componente principal da aplicação, a página `src/App.jsx` com o conteúdo a seguir:
+```jsx
+import { useEffect, useState } from 'react';
+import receitasData from './assets/receitas.json';
+
+function App() {
+    const [receitas, setReceitas] = useState([]);
+
+    useEffect(() => {
+        // Simulando uma chamada à API
+        const fetchData = async () => {
+            const response = await fetch('/assets/receitas.json');
+            const data = await response.json();
+            setReceitas(data.receitas);
+        };
+        fetchData();
+    }, []);
+
+    return (
+        <div>
+            <h1>Receitas</h1>
+            <div className="card-container">
+                {receitas.map((receita) => (
+                    <div className="card" key={receita.id}>
+                        <h2>{receita.titulo}</h2>
+                        <h3>Ingredientes:</h3>
+                        <ul>
+                            {receita.ingredientes.map((ingrediente, index) => (
+                                <li key={index}>{ingrediente}</li>
+                            ))}
+                        </ul>
+                        <h3>Modo de Preparo:</h3>
+                        <p>{receita.modoPreparo}</p>
+                    </div>
+                ))}
+            </div>
+        </div>
+    );
+}
+
+export default App;
 ```
