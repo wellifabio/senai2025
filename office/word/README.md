@@ -1,6 +1,6 @@
 
 # MO-100 (Microsoft Office Word)
-## 20 horas
+### 20 horas
 
 ## Capacidades Técnicas
 1. Gerenciar documentos
@@ -17,7 +17,7 @@
 4. Demonstrar autonomia
 
 ## Conhecimentos
-1. Navegar em documentos 
+1. **Navegar em documentos** 
 1.1. Pesquisar texto 
 1.1.1.Link para locais em documentos 
 1.1.2.Mover para locais e objetos específicos em documentos 
@@ -36,7 +36,7 @@
 1.4.1.Localizar e remover propriedades ocultas e informações pessoais 
 1.4.2.Localizar e corrigir problemas de acessibilidade 
 1.4.3.Localizar e corrigir problemas de compatibilidade compatibilidade 
-2. Inserir e formatar texto, parágrafos e seções 
+2. **Inserir e formatar texto, parágrafos e seções** 
 2.1. Inserir texto e parágrafos 
 2.1.1.Localizar e substituir texto 
 2.1.2.Inserir símbolos e caracteres especiais
@@ -50,7 +50,7 @@
 2.3.1.Formatar texto em várias colunas 
 2.3.2.Inserir quebras de página, seção e coluna 
 2.3.3.Alterar as opções de configuração de página de uma seção 
-3. Gerenciar tabelas e listas 
+3. **Gerenciar tabelas e listas**
 3.1. Criar tabelas 
 3.1.1.Converter texto em tabelas 
 3.1.2.Converter tabelas em texto 
@@ -69,7 +69,7 @@
 3.3.4.Aumentar e diminuir os níveis da lista
 3.3.5.Reiniciar e continuar a numeração da lista 
 3.3.6.Definir valores de número inicial 
-4. Criar e gerenciar referências 
+4. **Criar e gerenciar referências** 
 4.1. Criar e gerenciar elementos de referência 
 4.1.1.Inserir notas de rodapé e notas de fim 
 4.1.2.Modificar propriedades de nota de rodapé e nota de fim 
@@ -79,7 +79,7 @@
 4.2.1.Inserir sumário 
 4.2.2.Personalizar sumários 
 4.2.3.Inserir bibliografias 
-5. Inserir e formatar elementos gráficos 
+5. **Inserir e formatar elementos gráficos** 
 5.1. Inserir ilustrações e caixas de texto 
 5.1.1.Inserir formas 
 5.1.2.Inserir imagens 
@@ -102,7 +102,7 @@
 5.5.1.Objetos de posição 
 5.5.2.Quebrar texto ao redor de objetos 
 5.5.3.Adicionar texto alternativo a objetos para acessibilidade 
-6. Gerenciar a colaboração de documentos
+6. **Gerenciar a colaboração de documentos**
 6.1. Adicionar e gerenciar comentários 
 6.1.1.Adicionar comentários 
 6.1.2.Revisar e responder aos comentários 

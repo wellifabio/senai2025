@@ -1,130 +1,110 @@
 
-# MO-100 (Microsoft Office Word)
-## 20 horas
+# MO-200 (Microsoft Office Excel)
+### 20 horas
 
 ## Capacidades Técnicas
-1. Gerenciar documentos
-2. Inserir e formatar texto, parágrafos e seções 
-3. Gerenciar tabelas e listas 
-4. Criar e gerenciar referências 
-5. Inserir e formatar elementos gráficos 
-6. Gerenciar a colaboração de documentos
+1. Gerenciar planilhas e pastas de trabalho 
+2. Gerenciar células e intervalos de dados 
+3. Gerenciar tabelas e dados de tabelas 
+4. Executar operações usando fórmulas e funções
+5. Gerenciar gráficos
 
 ## Capacidades Socioemocionais
-1. Demonstrar autogestão
-2. Demonstrar pensamento analítico
-3. Demonstrar inteligência emocional
-4. Demonstrar autonomia
+1. Demonstrar capacidade de organização
+2. Demonstrar atenção a detalhes
+3. Demonstrar raciocínio lógico
 
 ## Conhecimentos
-1. **Navegar em documentos** 
-1.1. Pesquisar texto 
-1.1.1.Link para locais em documentos 
-1.1.2.Mover para locais e objetos específicos em documentos 
-1.1.3.Mostrar e ocultar símbolos de formatação e texto oculto 
-1.2. Formatar documentos 
-1.2.1.Configurar páginas de documento 
-1.2.2.Aplicar conjuntos de estilos 
-1.2.3.Inserir e modificar cabeçalhos e rodapés 
-1.2.4.Configurar elementos de plano de fundo da página 
-1.3. Salvar e compartilhar documentos 
-1.3.1.Salvar documentos em formatos de arquivo alternativos 
-1.3.2.Modificar propriedades básicas do documento 
-1.3.3.Modificar configurações de impressão 
-1.3.4.Compartilhar documentos eletronicamente 
-1.4. Inspecionar documentos em busca de problemas 
-1.4.1.Localizar e remover propriedades ocultas e informações pessoais 
-1.4.2.Localizar e corrigir problemas de acessibilidade 
-1.4.3.Localizar e corrigir problemas de compatibilidade compatibilidade 
-2. **Inserir e formatar texto, parágrafos e seções** 
-2.1. Inserir texto e parágrafos 
-2.1.1.Localizar e substituir texto 
-2.1.2.Inserir símbolos e caracteres especiais
-2.2. Formatar texto e parágrafos 
-2.2.1.Aplicar efeitos de texto 
-2.2.2.Aplicar formatação usando o Pincel de Formatação 
-2.2.3.Definir espaçamento e recuo entre linhas e parágrafos 
-2.2.4.Aplicar estilos internos ao texto 
-2.2.5.Limpar formatação 
-2.3. Criar e configurar seções de documento 
-2.3.1.Formatar texto em várias colunas 
-2.3.2.Inserir quebras de página, seção e coluna 
-2.3.3.Alterar as opções de configuração de página de uma seção 
-3. **Gerenciar tabelas e listas**
-3.1. Criar tabelas 
-3.1.1.Converter texto em tabelas 
-3.1.2.Converter tabelas em texto 
-3.1.3.Criar tabelas especificando linhas e colunas 
-3.2. Modificar tabelas 
-3.2.1.Classificar dados da tabela 
-3.2.2.Configurar margens e espaçamento entre células 
-3.2.3.Mesclar e dividir células 
-3.2.4.Redimensionar tabelas, linhas e colunas 
-3.2.5.Dividir tabelas 
-3.2.6.Configurar um cabeçalho de linha de repetição 
-3.3. Criar e modificar listas 
-3.3.1.Formatar parágrafos como listas numeradas e com marcadores 
-3.3.2.Alterar caracteres de marcador e formatos de número 
-3.3.3.Definir caracteres de marcador personalizados e formatos de número 
-3.3.4.Aumentar e diminuir os níveis da lista
-3.3.5.Reiniciar e continuar a numeração da lista 
-3.3.6.Definir valores de número inicial 
-4. **Criar e gerenciar referências** 
-4.1. Criar e gerenciar elementos de referência 
-4.1.1.Inserir notas de rodapé e notas de fim 
-4.1.2.Modificar propriedades de nota de rodapé e nota de fim 
-4.1.3.Criar e modificar fontes de citação bibliográfica 
-4.1.4.Inserir citações para bibliografias 
-4.2. Criar e gerenciar tabelas de referência 
-4.2.1.Inserir sumário 
-4.2.2.Personalizar sumários 
-4.2.3.Inserir bibliografias 
-5. **Inserir e formatar elementos gráficos** 
-5.1. Inserir ilustrações e caixas de texto 
-5.1.1.Inserir formas 
-5.1.2.Inserir imagens 
-5.1.3.Inserir modelos 3D 
-5.1.4.Inserir elementos gráficos SmartArt 
-5.1.5.Inserir capturas de tela e recortes de tela 
-5.1.6.Inserir caixas de texto 
-5.2. Formatar ilustrações e caixas de texto 
-5.3. Aplicar efeitos artísticos 
-5.3.1.Aplicar efeitos de imagem e estilos de imagem 
-5.3.2.Remover planos de fundo de imagem 
-5.3.3.Formatar elementos gráficos 
-5.3.4.Formatar elementos gráficos SmartArt 
-5.3.5.Formatar modelos 3D 
-5.4. Adicionar texto a elementos gráficos 
-5.4.1.Adicionar e modificar texto em caixas de texto 
-5.4.2.Adicionar e modificar texto em formas
-5.4.3.Adicionar e modificar conteúdo gráfico SmartArt 
-5.5. Modificar elementos gráficos 
-5.5.1.Objetos de posição 
-5.5.2.Quebrar texto ao redor de objetos 
-5.5.3.Adicionar texto alternativo a objetos para acessibilidade 
-6. **Gerenciar a colaboração de documentos**
-6.1. Adicionar e gerenciar comentários 
-6.1.1.Adicionar comentários 
-6.1.2.Revisar e responder aos comentários 
-6.1.3.Resolver comentários 
-6.1.4.Excluir comentários 
-6.2. Gerenciar o controle de alterações 
-6.3. Controlar alterações 
-6.4. Revisar alterações controladas 
-6.5. Aceitar e rejeitar alterações controladas 
-6.6. Bloquear e desbloquear o controle de alterações
-
+1. **Gerenciar planilhas e pastas de trabalho** 
+1.1. Importar dados para pastas de trabalho 
+1.1.1.Importar dados de arquivos .txt 
+1.1.2.Importar dados de arquivos .csv 
+1.2. Navegar em pastas de trabalho 
+1.2.1.Pesquisar dados em uma pasta de trabalho 
+1.2.2.Navegue até células nomeadas, intervalos ou elementos da pasta de trabalho 
+1.2.3.Inserir e remover hiperlinks 
+1.3. Formatar planilhas e pastas de trabalho 
+1.3.1.Modificar a configuração da página 
+1.3.2.Ajustar a altura da linha e a largura da coluna 
+1.3.3.Personalizar cabeçalhos e rodapés 
+1.4. Personalizar opções e modos de exibição 
+1.4.1.Personalizar a barra de ferramentas Acesso Rápido 
+1.4.2.Exibir e modificar o conteúdo da pasta de trabalho em diferentes modos de exibição 
+1.4.3.Congelar linhas e colunas da planilha 
+1.4.4.Alterar modos de exibição de janela 
+1.4.5.Modificar propriedades básicas da pasta de trabalho 
+1.4.6.Exibir fórmulas 
+1.5. Configurar conteúdo para colaboração 
+1.5.1.Definir uma área de impressão 
+1.5.2.Salvar pastas de trabalho em formatos de arquivo alternativos 
+1.5.3.Definir configurações de impressão 
+1.5.4.Inspecionar pastas de trabalho em busca de problemas
+2. **Gerenciar células e intervalos de dados**
+2.1. Manipular dados em planilhas 
+2.1.1.Colar dados usando opções especiais de colagem 
+2.1.2.Preencher células usando o Preenchimento Automático 
+2.1.3.Inserir e excluir várias colunas ou linhas 
+2.1.4.Inserir e excluir células 
+2.2. Formatar células e intervalos 
+2.2.1.Mesclar e desmesclar células 
+2.2.2.Modificar o alinhamento, a orientação e o recuo da célula 
+2.2.3.Formatar células usando o Pincel de Formatação 
+2.2.4.Quebrar texto dentro das células 
+2.2.5.Aplicar formatos de número 
+2.2.6.Aplicar formatos de célula a partir da caixa de diálogo Formatar Células 
+2.2.7.Aplicar estilos de célula
+2.2.8.Limpar formatação de célula 
+2.3. Definir e referenciar intervalos nomeados 
+2.3.1.Definir um intervalo nomeado 
+2.3.2.Nomear uma tabela 
+2.4. Resumir dados visualmente 
+2.4.1.Inserir minigráficos 
+2.4.2.Aplicar formatação condicional interna 
+2.4.3.Remover formatação condicional 
+3. **Gerenciar tabelas e dados de tabelas**
+3.1. Criar e formatar tabelas 
+3.1.1.Criar tabelas do Excel a partir de intervalos de células 
+3.1.2.Aplicar estilos de tabela 
+3.1.3.Converter tabelas em intervalos de células 
+3.2. Modificar tabelas
+3.2.1.Adicionar ou remover linhas e colunas da tabela 
+3.2.2.Configurar opções de estilo de tabela
+3.2.3.Inserir e configurar linhas totais 
+3.3. Filtrar e classificar dados da tabela 
+3.3.1.Filtrar registros 
+3.3.2.Classificar dados por várias colunas 
+4. **Executar operações usando fórmulas e funções**
+4.1. Inserir referências 
+4.1.1.Inserir referências relativas, absolutas e mistas 
+4.1.2.Fazer referência a intervalos nomeados e tabelas nomeadas em fórmulas 
+4.2. Calcular e transformar dados
+4.2.1.Executar cálculos usando as funções AVERAGE(), MAX(), MIN() e SUM()
+4.2.2.Contar células usando as funções COUNT(), COUNTA() e COUNTBLANK()
+4.2.3.Executar operações condicionais usando a função IF()
+4.3. Formatar e modificar texto
+4.3.1.Formatar texto usando as funções RIGHT(), LEFT() e MID()
+4.3.2.Formatar texto usando as funções UPPER(), LOWER() e LEN()
+4.3.3.Formatar texto usando as funções CONCAT() e TEXTJOIN()
+5. **Gerenciar gráficos**
+5.1. Criar gráficos 
+5.1.1.Criar gráficos 
+5.1.2.Criar planilhas de gráfico 
+5.2. Modificar gráficos 
+5.2.1.Adicionar séries de dados a gráficos
+5.2.2.Alternar entre linhas e colunas nos dados de origem 
+5.2.3.Adicionar e modificar elementos do gráfico 
+5.3. Formatar gráficos 
+5.3.1.Aplicar layouts de gráfico 
+5.3.2.Aplicar estilos de gráfico 
+5.3.3.Adicionar texto alternativo a gráficos para acessibilidade
 
 ## Recomendações Metodológicas:
-
-- https://learn.microsoft.com/pt-br/certifications/exams/mo-100/
-• Gerenciar documentos (20-25%)
-• Inserir e formatar texto, parágrafos e seções (20-25%) 
-• Gerenciar tabelas e listas (15-20%) 
-• Criar e gerenciar referências (5-10%) 
-• Inserir e formatar elementos gráficos (15-20%)
-• Gerenciar a colaboração de documentos (5-10%)
+MO-200(Microsoft Excel Office:)
+https://learn.microsoft.com/pt-br/certifications/exams/mo-200/
+• Gerenciar planilhas e pastas de trabalho (10-15%)
+• Gerenciar células e intervalos de dados (20-25%)
+• Gerenciar tabelas e dados de tabelas (15-20%)
+• Executar operações usando fórmulas e funções (20-25%)
+• Gerenciar gráficos (20-25%)
 ## Referências Bibliográficas:
-• SILVA, Mário Gomes da. Microsoft Office Word 2016 – recursos avançados, São Paulo: SENAI-SP Editora, 2016.
-• Rangel, Alexandre L. Como formatar seu TCC, São Paulo: Novatec, 2019.
-• Reis, Wellington José dos. Word 2016 – Alto Padrão na Criação e Edição de Textos, São Paulo: Viena, 2016.
+• SENAI. Microsoft Office Excel 2016 Básico. São Paulo: Editora SENAI, 2016.
