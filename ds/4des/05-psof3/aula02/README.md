@@ -43,8 +43,15 @@ Funcionalidades principais implementadas, como:
 ### Grupo02
 - Metodologia: KANBAN - Trello
 - Tema inicial: PetShop - Adoção
-- Alunos: Rebeca|Front-End|, Evelyn|Banco de dados|, Larissa|Testes|, Larissa V.|Back-End|, Crislaine|Documentação|
+- Alunos: Rebeca|Back-End|, Evelyn|Banco de dados, Front-end|, Larissa|Testes|, Larissa V.|Front-End|, Crislaine|Front-End, Documentação|
 - [Repositório github](https://github.com/rebecalazarini/tcc.git)
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [~] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [~] Login com autenticação real (segurança JWT).
+- [~] Integração do front com o back-end e banco de dados. 
+- [~] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [x] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo03
 - Metodologia: KANBAN - Trello
