@@ -55,6 +55,13 @@ Funcionalidades principais implementadas, como:
 - Tema inicial: PetShop 4 patas - Sistema de Gestão de PetShop
 - Alunos: Erick|Back-end|, Thiago|Front-end|, Justo|Testes|
 - [Repositório github](https://github.com/ErickAguiar06/Petshop-Projeto-TCC.git)
+- [ ] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [ ] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [ ] Login com autenticação real (segurança JWT).
+- [ ] Integração do front com o back-end e banco de dados. 
+- [ ] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [ ] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [ ] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo06
 - Metodologia: SCRUM
