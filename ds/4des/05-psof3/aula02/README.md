@@ -2,7 +2,7 @@
 <img src = "https://github.com/robsonbsouzaa/2025/blob/main/result.gif">
 </div>
 
-# Aula 03 - Sprint 04
+# Aula 02 - Sprint 04
 
 ## Ultima Sprint 16/06
 - [x] UML DC (Diagrama de Classes) Back-end
@@ -41,8 +41,15 @@ Funcionalidades principais implementadas, como:
 ### Grupo03
 - Metodologia: KANBAN - Trello
 - Tema inicial: Paladar Nobre - Gestão de Padaria
-- Alunos: Pedro|Front-End|, João|Back-End|, Steffany|Teste|, Thamye|Front-end Teste|, Rebeca Ap.|PO|
+- Alunos: Pedro|Front-End|, João|Front-End|, Steffany|Testes|, Thamye|Back-end Teste|, Rebeca Ap.|PO e Full-Stack|
 - [Repositório github](https://github.com/steffanygiovanna/Projeto-padaria-2025.git)
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [~] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [x] Login com autenticação real (segurança JWT).
+- [~] Integração do front com o back-end e banco de dados. 
+- [x] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [x] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo04
 - Metodologia: SCRUM
@@ -55,13 +62,13 @@ Funcionalidades principais implementadas, como:
 - Tema inicial: PetShop 4 patas - Sistema de Gestão de PetShop
 - Alunos: Erick|Back-end|, Thiago|Front-end|, Justo|Testes|
 - [Repositório github](https://github.com/ErickAguiar06/Petshop-Projeto-TCC.git)
-- [ ] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
-- [ ] Back-Front - CRUDs das principais **Telas** com Responsividade.
-- [ ] Login com autenticação real (segurança JWT).
-- [ ] Integração do front com o back-end e banco de dados. 
-- [ ] Fluxo de navegação funcionando (Web e/ou Mobile).
-- [ ] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
-- [ ] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [~] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [x] Login com autenticação real (segurança JWT).
+- [~] Integração do front com o back-end e banco de dados. 
+- [x] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [x] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo06
 - Metodologia: SCRUM
