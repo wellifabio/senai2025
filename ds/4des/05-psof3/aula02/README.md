@@ -31,6 +31,14 @@ Funcionalidades principais implementadas, como:
 - Tema inicial: Diagnostico Rápido (Saúde relação entre paciente e médico)
 - Alunos: Mellyssa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
 - [Repositório github](https://github.com/PedroDNRusso/TCC-DS.git)
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [x] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [x] Login com autenticação real (segurança JWT).
+- [~] Integração do front com o back-end e banco de dados. 
+- [x] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [~] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
+
 
 ### Grupo02
 - Metodologia: KANBAN - Trello
