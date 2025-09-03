@@ -71,6 +71,13 @@ Funcionalidades principais implementadas, como:
 - Tema inicial: All Wear - Provador Online (Combinações de peças com seu prórpio guarda roupas)
 - Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
 - [Repositório github](https://github.com/MirandaKathleen/projeto---tcc.git)
+- [ ] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [ ] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [ ] Login com autenticação real (segurança JWT).
+- [ ] Integração do front com o back-end e banco de dados. 
+- [ ] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [ ] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [ ] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo05
 - Metodologia: KANBAN
