@@ -101,7 +101,10 @@ void setup() {
   Serial.println("Wi-Fi conectado!");
   Serial.print("Endereço IP: ");
   Serial.println(WiFi.localIP());
+}
 
+void loop(){
+    
 }
 ```
 
