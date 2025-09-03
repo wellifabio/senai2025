@@ -85,8 +85,15 @@ Funcionalidades principais implementadas, como:
 ### Grupo08
 - Metodologia: Kanban
 - Tema inicial: Hangetsu Uzumaki (Espiral da meia lua) - Artes Marciais
-- Alunos: Hélio|Back/Teste|, João Santos|Front|, Luiza|Back/Banco|, Rhayssa|Front|
+- Alunos: Hélio|Back/Testes|, João Santos|Front|, Rhayssa|Front/Testes|
 - [Repositório github](https://github.com/helio000/projeto-2025.git)
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [~] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [~] Login com autenticação real (segurança JWT).
+- [~] Integração do front com o back-end e banco de dados. 
+- [~] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [~] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ## Critérios de avaliação
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
