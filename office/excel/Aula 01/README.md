@@ -18,3 +18,10 @@ Preencha os dados restantes na planilha, como o orçamento que você possui para
 
 Analise os dados preenchidos e faça os cálculos necessários para finalizar o orçamento do churrasco.
 ![Planilha de Orçamento do Churrasco](./Planilha%20Orçamento.jpg)
+
+## Atividade 02 (Situação-problema desafiadora)
+### Contextualização
+O Sr. Pablo possui uma loja de Roupas chamada **Brás em Jaguariúna**. Ele faz as compras de roupas no Brás, em São Paulo, e depois revende na sua loja. O Sr. Pablo quer verificar seu investimento e faturamento deste mês.
+### Desafio
+Crie uma nova planilha no Excel com os seguintes dados:
+![Planilha de Roupas](./empreendedorismo.png)
