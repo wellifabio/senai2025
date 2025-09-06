@@ -17,3 +17,4 @@ Preencha os dados restantes na planilha, como o orçamento que você possui para
 ## Passo 4: Analisando os dados
 
 Analise os dados preenchidos e faça os cálculos necessários para finalizar o orçamento do churrasco.
+![Planilha de Orçamento do Churrasco](./Planilha%20Orçamento.jpg)
