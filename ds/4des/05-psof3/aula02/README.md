@@ -97,19 +97,26 @@ Funcionalidades principais implementadas, como:
 - Tema inicial: Pizzaria do seu Zé - Pedidos Online
 - Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Front-End|, Maria|Back-end, PO|
 - [Repositório github](https://github.com/WillianPiedade08/pizzaria.git)
-- [ ] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
-- [ ] Back-Front - CRUDs das principais **Telas** com Responsividade.
-- [ ] Login com autenticação real (segurança JWT).
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [~] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [~] Login com autenticação real (segurança JWT).
 - [ ] Integração do front com o back-end e banco de dados. 
-- [ ] Fluxo de navegação funcionando (Web e/ou Mobile).
-- [ ] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
-- [ ] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
+- [x] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [~] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo07
 - Metodologia: KANBAN
-- Tema inicial: Catálogo de Filmes
+- Tema inicial: Projeto Hotel - Sistema de Gestão de Hotelaria
 - Alunos: Jessé|Dev - Front, Testes|, Diego|Dev, Back-End, Docs|, Vitor|Dev - Front, Testes|, Arthur|Dev - Front, Testes|
-- [Repositório github](https://github.com/ArthurS0/projeto-growing-firtness.git)
+- [Repositório github](https://github.com/ArthurS0/Projeto-Hotel.git)
+- [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
+- [~] Back-Front - CRUDs das principais **Telas** com Responsividade.
+- [x] Login com autenticação real (segurança JWT).
+- [x] Integração do front com o back-end e banco de dados. 
+- [x] Fluxo de navegação funcionando (Web e/ou Mobile).
+- [ ] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
+- [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
 ### Grupo08
 - Metodologia: Kanban
