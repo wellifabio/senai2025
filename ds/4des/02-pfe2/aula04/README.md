@@ -285,3 +285,20 @@ main {
 ### Print dos resultados
 ![Screenshot01](./receitas/src/assets/screenshot01.png)
 ![Screenshot02](./receitas/src/assets/screenshot02.png)
+
+# Desafio
+## Contextualização
+Como programador Front-End, você atua constantemente em atualizações de sites e aplicações web. A aplicação acima utiliza dados Mockados (simulados) para exibir as receitas. No entanto, em um cenário real, esses dados geralmente são obtidos de uma API externa.
+
+## Desafio
+A [API](https://receitasapi-b-2025.vercel.app/) possui dados de receitas semelhantes aos do arquivo `receitas.json`, com as 4 funcionalidades básicas CDUD. Sua tarefa é modificar a aplicação React para buscar os dados dessa API em vez de usar o arquivo local.
+- **C**reate (Criar): Adicionar novas receitas.
+- **R**ead (Ler): Exibir a lista de receitas (já implementado).
+- **U**pdate (Atualizar): Editar receitas existentes.
+- **D**elete (Deletar): Remover receitas.
+- Utilize a biblioteca `axios` para facilitar as requisições HTTP. Você pode instalar o `axios` executando o seguinte comando no terminal dentro da pasta do projeto:
+```bash
+npm install axios
+```
+- Atualize o código para incluir as funcionalidades de criação, atualização e exclusão de receitas, além de buscar os dados da API.
+
