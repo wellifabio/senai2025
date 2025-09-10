@@ -98,177 +98,139 @@ Vamos codificar a home pagem para listar em forma de **cards** cada receita do a
 - Agora vamos criar o componente principal da aplicação, a página `src/App.jsx` com o conteúdo a seguir:
 
 ```jsx
-import { useEffect, useState } from 'react';
-import './App.css';
-
-
-function Modal({ receita, onClose }) {
-  if (!receita) return null;
-  return (
-    <div className="modal-overlay" onClick={onClose}>
-      <div className="modal" onClick={e => e.stopPropagation()}>
-        <h2>{receita.titulo}</h2>
-        <h3>Ingredientes:</h3>
-        <ul>
-          {receita.ingredientes.map((ingrediente, idx) => (
-            <li key={idx}>{ingrediente}</li>
-          ))}
-        </ul>
-        <h3>Modo de Preparo:</h3>
-        <p>{receita.modoPreparo}</p>
-        <button onClick={onClose}>Fechar</button>
-      </div>
-    </div>
-  );
-}
+import './App.css'
+import {useState, useEffect} from 'react'
+import axios from 'axios'
 
 function App() {
-  const [receitas, setReceitas] = useState([]);
-  const [modalReceita, setModalReceita] = useState(null);
+
+  const url = './receitas.json'
+  const [receitas, setReceitas] = useState([])
+
+  function obterDados() {
+    axios.get(url).then((response) => {
+      setReceitas(response.data.receitas)
+    })
+  }
 
   useEffect(() => {
-    // Obtendo os dados de uma API simulada
-    const fetchData = async () => {
-      const response = await fetch('/mockups/receitas.json');
-      const data = await response.json();
-      setReceitas(data.receitas);
-    };
-    fetchData();
-  }, []);
+    obterDados()
+  }, [])
 
   return (
     <>
-      <header><h1>Receitas</h1></header>
-      <main className="card-container">
-        {receitas.map((receita) => (
-          <div className="card" key={receita.id}>
+      <header>
+        <h1>Livro de Receitas</h1>
+      </header>
+      <main>
+        {receitas.map((receita: any, index) => (
+          <div key={index} className="card">
             <h2>{receita.titulo}</h2>
-            <h3>Ilustração:</h3>
             <img src={receita.imagem} alt={receita.titulo} />
-            <button onClick={() => setModalReceita(receita)}>Ver Receita</button>
+            <h3>Ingredientes:</h3>
+            <ul>
+              {receita.ingredientes.map((ingrediente: string, idx: number) => (
+                <li key={idx}>{ingrediente}</li>
+              ))}
+            </ul>
+            <h3>Modo de Preparo:</h3>
+            <p>{receita.modoPreparo}</p>
           </div>
         ))}
       </main>
       <footer>
-        <p>Receitas do Fessor &copy; 2025</p>
+        <h2>By wellifabio</h2>
       </footer>
-      <Modal receita={modalReceita} onClose={() => setModalReceita(null)} />
     </>
-  );
+  )
 }
 
-export default App;
+export default App
 ```
 - Vamos codificar as duas páginas de estilo, a `index.css` e a `App.css`, para deixar nossa aplicação mais organizada. A primeira normalmente contém estilos globais, enquanto a segunda é específica para os componentes da aplicação.
-- `src/index.css`
-```css
-:root {
-  --c1: #f0f0f0;
-  --c2: #e0e0e0;
-  --c3: #d0d0d0;
-  --c4: #c0c0c0;
-  --t1: rgba(0, 0, 0, 0.1);
-  line-height: 1;
-  font-weight: 400;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Courier New', Courier, monospace;
-}
-
-button{
-  border: none;
-  border-radius: 4px;
-  padding: 0.5rem 1rem;
-  background-color: var(--c1);
-  font-weight: bold;
-  box-shadow: 0 2px 4px var(--t1);
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-
-button:hover {
-  background-color: darken(var(--c1), 5%);
-}
-
-.modal-overlay{
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.modal {
-  max-width: 800px;
-  background-color: var(--c1);
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px var(--t1);
-}
-```
 - `src/App.css`
 ```css
 #root {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-}
-
-header,
-footer {
-  width: 100%;
-  padding: 1rem;
-  background-color: var(--c2);
-  box-shadow: 0 2px 4px var(--t1);
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
-
-main {
-  width: 100%;
-  max-width: 800px;
-  height: fit-content;
+  max-width: 1280px;
+  margin: 0 auto;
   padding: 2rem;
-  background-color: var(--c1);
-  box-shadow: 0 2px 4px var(--t1);
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+main{
+  max-height: 75vh;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   justify-content: center;
-  gap: 1rem;
+  align-items: center;
+  gap: 20px;
   overflow-y: auto;
 }
 
 .card {
-  width: 100%;
-  max-width: 300px;
-  padding: 1rem;
-  background-color: var(--c3);
-  box-shadow: 0 2px 4px var(--t1);
-  border-radius: 8px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-  & img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 4px;
+  width: 400px;
+  max-width: 100%;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  & img{
+    margin: 10px;
+    max-width: 90%;
+  }
+  & ul, p{
+    padding: 0 25px 0 25px;
+    text-align: justify;
   }
 }
+
+.read-the-docs {
+  color: #888;
+}
+
+```
+- `index.html`
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/icone.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Livro de Receitas</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
 ```
 - Por fim antes de executar e conferir, vamos ajustar o arquivo `index.html` para escolher o ícone da aplicação e o título que aparecerá na aba do navegador, edite o arquivo `index.html` para ficar conforme o código a seguir:
 ```html
