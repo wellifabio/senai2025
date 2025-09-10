@@ -2,8 +2,9 @@
 
 O **Vite** é uma ferramenta de construção rápida e leve para projetos **front-end**. Ele é especialmente útil para projetos React devido à sua configuração simples e desempenho otimizado.
 
-## [Projeto: Catálogo de Plantas, Exemplo Full-Stack](https://github.com/wellifabio/catalogo-full-node-vite-2025.git)
+#### [Projeto exemplo: Catálogo de Plantas, Exemplo Full-Stack](https://github.com/wellifabio/catalogo-full-node-vite-2025.git)
 
+## Demonstração - Livro de Receitas com React e Vite
 - Nesta aula, vamos configurar um projeto React usando Vite e criar uma aplicação simples de livro de receitas que permite aos usuários ver em forma de cards as receitas disponíveis no arquivo `receitas.json` com os dados a seguir:
 
 ```json
