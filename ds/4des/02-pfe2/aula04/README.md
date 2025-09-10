@@ -80,7 +80,7 @@ npm create vite@latest
 ```bash
 cd receitas-web
 npm install
-npm run dev
+code .
 ```
 Pode aparecer alguma confirmação, pressione `y` para confirmar:
 
