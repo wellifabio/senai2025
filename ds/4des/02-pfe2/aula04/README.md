@@ -232,29 +232,8 @@ main{
   </body>
 </html>
 ```
-- Por fim antes de executar e conferir, vamos ajustar o arquivo `index.html` para escolher o ícone da aplicação e o título que aparecerá na aba do navegador, edite o arquivo `index.html` para ficar conforme o código a seguir:
-```html
-<!doctype html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/png" href="/icone.png" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Receitas do fessor</title>
-</head>
-
-<body id="root">
-
-</body>
-<script type="module" src="/src/main.jsx"></script>
-
-</html>
-```
-
 ### Print dos resultados
-![Screenshot01](./receitas/src/assets/screenshot01.png)
-![Screenshot02](./receitas/src/assets/screenshot02.png)
+![Screenshot01](./prints/screenshot02.png)
 
 # Desafio
 ## Contextualização
