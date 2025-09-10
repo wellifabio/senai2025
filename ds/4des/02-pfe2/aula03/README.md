@@ -8,7 +8,7 @@ O FireStore é um **banco de dados NoSQL** em tempo real que permite armazenar e
 - Anexando o Firebase ao projeto local
 
 ### Obs
-No ambiente de front-end puro (HTML/JS rodando no navegador), não é possível usar arquivos .env para esconder variáveis sensíveis, pois tudo que está no JS será exposto ao usuário final. O arquivo .env só é útil em projetos Node.js/backend ou em projetos front-end que usam ferramentas de build (como Vite, Webpack, etc.), onde as variáveis são injetadas no build e nunca expostas diretamente.
+No ambiente de front-end puro (HTML/JS rodando no navegador), não é possível usar arquivos .env para esconder variáveis sensíveis, pois tudo que está no JS será exposto ao usuário final. O arquivo .env só é útil eKvm projetos Node.js/backend ou em projetos front-end que usam ferramentas de build (como Vite, Webpack, etc.), onde as variáveis são injetadas no build e nunca expostas diretamente.
 
 No seu caso, usando apenas HTML/JS puro, o firebaseConfig sempre ficará visível no código-fonte do navegador. Isso é esperado e aceito pelo próprio Firebase, pois essas chaves não concedem acesso administrativo ao projeto, apenas permitem o uso dos serviços conforme as regras de segurança do Firestore.
 
@@ -294,5 +294,24 @@ textarea {
     display: none;
 }
 ```
+
+- No arquivo `index.html` você cola os dados de conexão do seu App no treixo de código abaixo.
+```html
+<script>
+    const firebaseConfig = {
+        //Cole os dados do Firebase
+    };
+</script>
+```
+- Estes dados vem do seu Aplicativo Firebase de conexão.
+![Print 08](./prints/print08.png)
+![Print 09](./prints/print09.png)
+![Print 10](./prints/print10.png)
+![Print 11](./prints/print11.png)
 - Print do resultado
 <br>![Front](./prints/print-front.png)
+
+### Obs:
+Esta interface Web por segurança só pode ser usada localmente, pois se enviada para o github em um repositório público vai expor sua chave de conexão.
+
+Para criar Aplicativos públicos seguros, devemos utilizar um Framework como React para proteger as chaves em um **.env**
