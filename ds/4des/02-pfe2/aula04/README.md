@@ -69,14 +69,21 @@ O **Vite** é uma ferramenta de construção rápida e leve para projetos **fron
 ```
 
 ## Iniciando o novo projeto WEB receitas com Vite
-Crie uma pasta raiz, abra com **VS Code** e execute o seguinte comando no terminal **CMD** ou **bash**:
+Em sua área de trabalho abra o git bash ou terminal e execute os seguinte comando:
 ```bash
-npm create vite@latest receitas -- --template react
-cd receitas
+npm create vite@latest 
+```
+- Será solicitado o nome do projeto, digite `receitas-web` e pressione `Enter`.
+- Em seguida, selecione a opção `React` usando as setas do teclado e pressione `Enter`.
+- Depois, selecione a opção `TypeScript` e pressione `Enter`.
+- A ferramenta Vite criará a estrutura inicial do projeto. Navegue até a pasta do projeto:
+```bash
+cd receitas-web
 npm install
 npm run dev
 ```
 Pode aparecer alguma confirmação, pressione `y` para confirmar:
+
 ### Estrutura de Pastas
 Será criada uma estrutura de pastas semelhante a esta:
 <br>![Print](./prints/pastas.png)
