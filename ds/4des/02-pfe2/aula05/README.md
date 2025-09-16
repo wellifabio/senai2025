@@ -1,9 +1,9 @@
 # Aula05 - Deploy React com Vite no GitHub Pages
-A concluir um projeto front end com o framework Vite React podemos implantar nossa aplicação de forma simples e rápida no GitHub Pages. Para isso, siga os passos abaixo:
+A concluir um projeto front end com o framework Vite React podemos implantar nossa aplicação de forma simples e rápida no GitHub Pages. Para isso, siga os passos abaixo para implantar a aplicação do **Desafio da Aula04** no **Git Pages**.
 
 ## 1 - Criar um repositório no GitHub
 
-Primeiro, crie um novo repositório no GitHub. Não se esqueça de inicializá-lo com um arquivo README.
+Primeiro, crie um novo repositório no GitHub com o nome de **receitas-web** e suba sua aplicação com os comandos a seguir
 
 ```bash
 git init
@@ -95,3 +95,6 @@ Podemos fazer o commit das configurações de deploy. e em seguida executar o de
 npm run deploy
 ```
 Pronto! Sua aplicação React está agora implantada no GitHub Pages.
+
+## Entrega
+Envie o link da sua aplicação web neste **[formulário](https://forms.gle/tkuA6wV4Jq2KdQFd6)**
