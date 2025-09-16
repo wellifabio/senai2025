@@ -21,6 +21,11 @@ Criar interfaces interativas com HTML, CSS e JavaScript
     - Foto estilo Instagran ❌ (Dê preferência para uma foto sóbria do rosto apenas ou um avatar)
 - 3 Insira links para os seus projetos implantados (deploy com git pages, vercel ou outro)
 - 4 Links para os repositórios do Git Hub que possuem algum projeto não implantado mes estudado.
+- 5 Responsividade é importante pois hoje o celular é mais utilizado que o computador
+- 6 Acessibilidade, crie uma UI (User interface) que seja acessível
+    - Ao utilizar imagens preencha os atributos alt e title com a descrição, para leitores de imagem para **cegos**
+    - Utilize a semantica correta HTML com (header, main, footer e uma barra nav para links ancorados)
+    - Verifique o contraste entre texto e fundo para facilitar para deficiêntes visuais.
 
 ## Atividade
 Monte uma UI (User interface) **web page** simples contendo links para todos os seus projetos desenvolvidos no curso.
