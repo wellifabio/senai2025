@@ -2,7 +2,7 @@
 
 Daremos início a nossa 5ª SPRINT, primeiro elimine o backlog da Sprint 04, confira se concluiu todas as tarefas. Divida o backlog da sprint 05 entre os integrantes do grupo e mãos a obra.
 
-## Ultima Sprint (Sprint 04 - 29/08)
+## Ultima Sprint (Sprint 04 - 29/08) Backlog
 Funcionalidades principais implementadas, como:
 - [x] Back-End - CRUDs (Cadastro, Listagem, alteração e exclusão) das principais **tabelas**.
 - [x] Back-Front - CRUDs das principais **Telas** com Responsividade.
@@ -12,7 +12,7 @@ Funcionalidades principais implementadas, como:
 - [x] Relatório de testes manuais **unitários**, **integração** e **ponto a ponto**.
 - [x] Entregas através do repositório do projeto no GitHub, com evidências dos testes em relatório no formato PDF.
 
-## Próxima Sprint (Sprint 05 - 06/10)
+## Próxima Sprint (Sprint 05 - 06/10) Backlog
 Nesta sprint, vamos focar na implantação do projeto, garantindo que tudo esteja funcionando corretamente em um ambiente de produção. Também faremos uma revisão final do código e documentação.
 - [ ] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
 - [ ] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
