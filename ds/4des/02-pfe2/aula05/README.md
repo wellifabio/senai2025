@@ -16,7 +16,7 @@ git push -u origin main
 
 ## 2 - Configurar o Vite para GitHub Pages
 
-No arquivo `vite.config.js`, adicione a seguinte configuração para definir a base da sua aplicação:
+No arquivo `vite.config.ts`, adicione a seguinte configuração para definir a base da sua aplicação:
 
 ```javascript
 import { defineConfig } from 'vite'
