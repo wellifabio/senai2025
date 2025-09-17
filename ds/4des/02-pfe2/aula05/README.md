@@ -96,5 +96,10 @@ npm run deploy
 ```
 Pronto! Sua aplicação React está agora implantada no GitHub Pages.
 
+## Confira no github
+- Clique em **Settings** >> **Pages** e veja se o link da aplicação aparece.
+- ![Print](./print.png)
+- Copie e cole em **About**
+
 ## Entrega
 Envie o link da sua aplicação web neste **[formulário](https://forms.gle/tkuA6wV4Jq2KdQFd6)**
