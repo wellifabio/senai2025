@@ -95,7 +95,7 @@ Será criada uma estrutura de pastas semelhante a esta:
 
 ### Codificando a Home Page
 Vamos codificar a home pagem para listar em forma de **cards** cada receita do arquivo `receitas.json`, antes crie uma pasta chamada **mockups** dentro da pasta **public** do seu projeto e adicione o arquivo `public/mockups/receitas.json` com o conteúdo exibido no **início** desta aula:
-- Agora vamos criar o componente principal da aplicação, a página `src/App.jsx` com o conteúdo a seguir:
+- Agora vamos criar o componente principal da aplicação, a página `src/App.tsx` com o conteúdo a seguir:
 
 ```jsx
 import './App.css'
