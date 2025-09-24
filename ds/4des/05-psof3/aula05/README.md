@@ -165,6 +165,3 @@ Ao final da sua atividade você precisa entregar ao instrutor em um repositório
 |Instruções de Entrega|
 |-|
 |Crie um **repositório público** no github chamado **techman2025** com a seguinte organização:<br>- api (Back-end)<br>- docs<br>- web (Front-End)<br>- README.md <br>Além do README.md principal com a descrição básica e print das telas do projeto, acrescente um README.md em cada stack (api e web) mencionando quais tecnologias utilizadas e um passo a passo para executar<br>Em **docs** (documentacao) acrescente o a imagem do DER e o diagrama de atividades no README.md<br>Envie o endereço do repositório neste **[FORMULÁRIO](https://forms.gle/qQ7XPQdcSunP73Le6)**|
-
-## [Solução de Exemplo](https://github.com/wellifabio/techman-2025.git)
-- Apenas o Back-end (API) e o Banco de Dados (MySQL) com os dados importados foram implementados.
