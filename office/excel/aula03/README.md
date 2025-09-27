@@ -1,4 +1,11 @@
-# Aula - Custos
+# Aula - Gráficos simples e funções de busca
+### Objetivo
+O objetivo desta aula é aprender a criar gráficos simples e utilizar funções de busca no Excel.
+### Atividades
+O gráfico a seguir mostra a composição do capital investido pelos três sócios na barraca de pastel.
+![Gráfico de capital](./grafico.png)
+O segundo gráfico mostra em porcentagem a participação de cada sócio no capital investido.
+![Gráfico de capital em porcentagem](./grafico02.png)
 
 ## Situação de aprendizagem desafiadora
 ### Contextualização
