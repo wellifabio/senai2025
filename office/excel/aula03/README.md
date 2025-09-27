@@ -2,7 +2,7 @@
 
 ## Situação de aprendizagem desafiadora
 ### Contextualização
-Sr. Suji Nakamura, descendente de japoneses, abriu uma barraca de pasteis e precisa calcular os custos para a produção de cada sabor de pastel. iicialmente está produzindo apenas pasteis de carne, queijo, frango e pizza, e os vende por um preço fixo de dez reais.
+Os três Japoneses, Sr. Suji Nakamura, Sra. Kanoco Maeda e o Sr. Fujimo Nakombi decidiram abrir uma barraca de pastel na feira e ao consultar um contador, descobriram que precisavam calcular os custos dos ingredientes para fazer os pasteis e qual o lucro que teriam se vendessem a R$ 10,00 cada pastel.
 
 ### Desafio
 ![Planilha de custos](./custos.png)
@@ -21,4 +21,4 @@ Sr. Suji Nakamura, descendente de japoneses, abriu uma barraca de pasteis e prec
 ||||Total||
 
 ## Entrega
-Ao concluir o desafio chame o professor e mostre os resultados.
+Ao concluir o desafio vamos copiar e colar as planilhas no estudo de caso que fizemos no Word.
