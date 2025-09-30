@@ -29,3 +29,10 @@ A UI que vamos testar é o [livro de receitas implantado no gitpages com a sua A
 - 18 Agora vamos executar a suite de testes.
 ![Screenshot09](./screenshot09.png).
 - 19 Veja que o Selenium IDE vai executar os testes automaticamente.
+- 20 Salve o projeto de testes para usar depois.
+- 21 Agora você pode explorar mais o Selenium IDE, como adicionar comandos, validar elementos, etc.
+- 22 Você também pode exportar os testes para outras linguagens, como Java, C#, Python, etc.
+
+## Conclusão
+- O Selenium IDE é uma ferramenta poderosa para automatizar testes de UI.
+- Com ele, você pode criar testes rapidamente e executá-los automaticamente.
