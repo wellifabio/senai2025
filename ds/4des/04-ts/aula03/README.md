@@ -85,15 +85,4 @@
 - Aprendemos sobre testes automatizados e testes manuais.
 - Aprendemos sobre testes de regressão, testes de integração contínua, testes de aceitação, testes de usabilidade, testes de performance, testes de segurança, testes de carga, testes de stress, testes de volume e testes de configuração.
 
-
-## Demonstração de Testes Automatizados com Selenium
-A UI que vamos testar é o [livro de receitas implantado no gitpages com a sua API implantada na vercel](https://wellifabio.github.io/receitas-web-2025/).
-- Para isso vamos acessar o site do [Selenium](https://www.selenium.dev/) e baixar o Selenium IDE para o navegador Firefox, pois o Crome não está mais suportado esta estensão.
-## Passos para instalar o Firefox com a extensão do Selenium IDE
-- 1. Acesse o site do [Selenium](https://www.selenium.dev/) e clique em **leia mais** no Selenium IDE.
-![Screenshot01](./screenshot01.png).
-- 2. Clique em **Firefox Download**.
-![Screenshot02](./screenshot02.png).
-- 3. Clique em **Download Firefox and get the extension**.
-![Screenshot03](./screenshot03.png).
-- 4 Após baixar e instalar o Firefox, clique em **Adicionar ao Firefox**.
+## [Demonstração de Testes Automatizados com Selenium](./selenium.md)
