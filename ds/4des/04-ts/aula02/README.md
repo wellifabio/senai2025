@@ -3,8 +3,6 @@
 <img src="https://github.com/user-attachments/assets/bc6e7eda-932a-4457-83ca-5acf233e5603">
 </div>
 
-## [Exemplo de Roteiro de Testes](./roteiro_exp.md)
-
 Um roteiro de testes é um documento que descreve os testes a serem realizados em um sistema, ajudando a garantir que ele atenda aos requisitos especificados. Aqui estão os principais elementos e objetivos de um roteiro de testes:
 
 ## Estrutura do Roteiro de Testes
@@ -30,89 +28,9 @@ Um roteiro de testes é um documento que descreve os testes a serem realizados e
 
 Um bom roteiro de testes é crucial para o sucesso de um projeto, pois minimiza riscos, melhora a confiabilidade do software e oferece uma experiência de usuário mais satisfatória. Além disso, ajuda as equipes a organizarem suas atividades de teste de forma eficiente.
 
+## [Exemplo de Roteiro de Testes](./roteiro_exp.md)
 
-# Roteiro de Testes para Agenda de Compromissos
-
-## 1. Teste de Adição de Compromisso
-
-**Objetivo:** Verificar se o sistema permite adicionar um compromisso corretamente.
-
-### Passos:
-- [ ] Acesse a aplicação.
-- [ ] Preencha o campo "Título do Compromisso" com um título válido.
-- [ ] Preencha o campo "Data/Hora" com uma data e hora válidas.
-- [ ] Clique no botão "Adicionar Compromisso".
-
-### Resultado Esperado:
-- [ ] O compromisso deve aparecer na lista abaixo do formulário com o título e a data/hora corretos.
-
----
-
-## 2. Teste de Edição de Compromisso
-
-**Objetivo:** Verificar se o sistema permite editar um compromisso existente.
-
-### Passos:
-- [ ] Na lista de compromissos, clique no botão "Editar" de um compromisso.
-- [ ] Modifique o título e/ou a data/hora no prompt exibido.
-- [ ] Confirme a edição.
-
-### Resultado Esperado:
-- [ ] O compromisso editado deve refletir as alterações na lista imediatamente.
-
----
-
-## 3. Teste de Remoção de Compromisso
-
-**Objetivo:** Verificar se o sistema permite remover um compromisso.
-
-### Passos:
-- [ ] Na lista de compromissos, clique no botão "Concluir" de um compromisso.
-- [ ] Confirme a remoção no prompt exibido.
-
-### Resultado Esperado:
-- [ ] O compromisso deve ser removido da lista.
-
----
-
-## 4. Teste de Validação de Entrada
-
-**Objetivo:** Garantir que o sistema valide as entradas corretamente.
-
-### Passos:
-- [ ] Acesse a aplicação.
-- [ ] Deixe o campo "Título do Compromisso" vazio.
-- [ ] Tente adicionar um compromisso.
-- [ ] Preencha o título e deixe a "Data/Hora" vazia.
-- [ ] Tente adicionar um compromisso.
-
-### Resultado Esperado:
-- [ ] O sistema deve impedir a adição e exibir mensagens de erro apropriadas.
-
----
-
-## 5. Teste de Responsividade
-
-**Objetivo:** Verificar se o layout é responsivo em diferentes tamanhos de tela.
-
-### Passos:
-- [ ] Abra a aplicação em um navegador.
-- [ ] Reduza a largura da janela para simular dispositivos móveis.
-- [ ] Verifique a disposição dos elementos.
-
-### Resultado Esperado:
-- [ ] O layout deve se ajustar corretamente e permanecer funcional em diferentes tamanhos de tela.
-
----
-
-## 6. Teste de Feedback do Usuário
-
-**Objetivo:** Verificar se o sistema fornece feedback apropriado ao usuário.
-
-### Passos:
-- [ ] Adicione um compromisso.
-- [ ] Edite um compromisso.
-- [ ] Remova um compromisso.
-
-### Resultado Esperado:
-- [ ] O sistema deve exibir mensagens de confirmação ou alerta em cada uma das ações mencionadas.
+## Atividade
+- 1 Baixe em seu computador a [genda de Compromissos](./agendaCompromisso/) e siga o roteiro de testes proposto no [exemplo de roteiro de testes](./roteiro_exp.md) para testar a aplicação. Registre suas observações e resultados conforme você avança nos testes.
+- 2 Após concluir os testes, faça um resumo das suas observações e resultados, destacando quaisquer problemas encontrados e sugestões de melhorias e prints dos testes realizados. Use um editor de texto ou processador de texto para criar o documento.
+- 3 Crie para o seu TCC roteiros de testes semelhantes.
