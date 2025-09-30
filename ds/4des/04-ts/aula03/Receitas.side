@@ -1,0 +1,432 @@
+{
+  "id": "bf3b5d5c-1c81-4650-b038-dfa867623ac6",
+  "version": "3.0",
+  "name": "Receitas",
+  "url": "http://www.google.com",
+  "urls": [
+    "http://www.google.com"
+  ],
+  "plugins": [],
+  "suites": [
+    {
+      "id": "d4aea425-a5e3-4df0-afbd-4a293156a818",
+      "name": "CRUD",
+      "parallel": false,
+      "persistSession": false,
+      "tests": [
+        "05389e2e-7c6d-4d48-94fa-126d9e9ca20e",
+        "c2728ed9-ebc9-4361-b419-d681b2c6915d"
+      ],
+      "timeout": 30000
+    }
+  ],
+  "tests": [
+    {
+      "id": "05389e2e-7c6d-4d48-94fa-126d9e9ca20e",
+      "name": "Cadastro",
+      "commands": [
+        {
+          "id": "2beda259-1a06-4b8c-80f3-535a7c6dc3d7",
+          "command": "open",
+          "target": "https://wellifabio.github.io/receitas-web-2025/",
+          "value": ""
+        },
+        {
+          "command": "click",
+          "target": "css=[data-slot=\"button\"]",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "e5d0ae93-a1d8-40bc-bc40-cf44b7e0a736",
+          "targets": [
+            [
+              "css=[data-slot=\"button\"]",
+              "css:data-attr"
+            ],
+            [
+              "css=.bg-green-600",
+              "css:finder"
+            ],
+            [
+              "xpath=(//body[@id='root']/div/header/button)[1]",
+              "xpath:idRelative"
+            ],
+            [
+              "xpath=//button[contains(.,'Adicionar Receita')]",
+              "xpath:innerText"
+            ]
+          ]
+        },
+        {
+          "command": "type",
+          "target": "css=[data-slot=\"input\"]",
+          "value": "Miojo",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "234ccd11-1796-496d-9ced-9b864d2159bb",
+          "targets": [
+            [
+              "css=[data-slot=\"input\"]",
+              "css:data-attr"
+            ],
+            [
+              "css=div:nth-child(1) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value='Miojo'])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "click",
+          "target": "css=div:nth-child(2) > .file\\3Atext-foreground",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "d207c953-3fbe-4350-a551-e7af5a18e527",
+          "targets": [
+            [
+              "css=div:nth-child(2) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value=''])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[2]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "type",
+          "target": "css=div:nth-child(2) > .file\\3Atext-foreground",
+          "value": "1 pacote de miojo",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "c55a71c7-6432-4c65-9e82-2ee4868bafa9",
+          "targets": [
+            [
+              "css=div:nth-child(2) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value='1 pacote de miojo'])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[2]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "click",
+          "target": "css=div:nth-child(3) > .file\\3Atext-foreground",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "3fbb75ac-b4e8-4ec8-964f-d7c244cfd768",
+          "targets": [
+            [
+              "css=div:nth-child(3) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value=''])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[3]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "mouseOver",
+          "target": "css=[data-state=\"closed\"]",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "62f5cc92-e8f2-45e6-9a8f-f5e7ed00cded",
+          "targets": [
+            [
+              "css=[data-state=\"closed\"]",
+              "css:data-attr"
+            ],
+            [
+              "css=.data-\\[placeholder\\]\\3Atext-muted-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[4]/button)[1]",
+              "xpath:idRelative"
+            ],
+            [
+              "xpath=//button[contains(.,'Selecione o tipo')]",
+              "xpath:innerText"
+            ]
+          ]
+        },
+        {
+          "command": "type",
+          "target": "css=div:nth-child(3) > .file\\3Atext-foreground",
+          "value": "Ferva a água e coloque o macarrão por 3 minutos",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "9f655d55-a8b1-4d6a-9b5d-d06b027a192c",
+          "targets": [
+            [
+              "css=div:nth-child(3) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value='Ferva a água e coloque o macarrão por 3 minutos'])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[3]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "click",
+          "target": "id=root",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "2b195321-308b-424d-a7e3-2e4ebf59fa26",
+          "targets": [
+            [
+              "id=root",
+              "id"
+            ],
+            [
+              "css=[data-scroll-locked=\"2\"]",
+              "css:data-attr"
+            ],
+            [
+              "css=#root",
+              "css:finder"
+            ],
+            [
+              "xpath=(//body[@id='root'])[1]",
+              "xpath:attributes"
+            ]
+          ]
+        },
+        {
+          "command": "select",
+          "target": "css=select",
+          "value": "label=Salgada",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "448920b1-0104-429a-a4ef-53d134637916",
+          "targets": [
+            [
+              "css=select",
+              "css:finder"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[4]/select)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "mouseUp",
+          "target": "id=root",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "74eaf1d1-11ce-4101-9f88-4dd3f82c95dc",
+          "targets": [
+            [
+              "id=root",
+              "id"
+            ],
+            [
+              "css=[data-scroll-locked=\"1\"]",
+              "css:data-attr"
+            ],
+            [
+              "css=#root",
+              "css:finder"
+            ],
+            [
+              "xpath=(//body[@id='root'])[1]",
+              "xpath:attributes"
+            ]
+          ]
+        },
+        {
+          "command": "type",
+          "target": "css=div:nth-child(5) > .file\\3Atext-foreground",
+          "value": "10",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "f36a7927-ae58-4da6-bd8d-d6a13a2dc24a",
+          "targets": [
+            [
+              "css=div:nth-child(5) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value='0'])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[5]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "click",
+          "target": "css=div:nth-child(6) > .file\\3Atext-foreground",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "86b837f6-bcb0-4973-bd87-08f076190403",
+          "targets": [
+            [
+              "css=div:nth-child(6) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value=''])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[6]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "type",
+          "target": "css=div:nth-child(6) > .file\\3Atext-foreground",
+          "value": "https://comidinhasdochef.com/wp-content/uploads/2020/04/Miojo-no-Microondas-Simples.jpg",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "9b452677-4fc8-472b-9d20-c036567ce820",
+          "targets": [
+            [
+              "css=div:nth-child(6) > .file\\3Atext-foreground",
+              "css:finder"
+            ],
+            [
+              "xpath=(//input[@value='https://comidinhasdochef.com/wp-content/uploads/2020/04/Miojo-no-Microondas-Simples.jpg'])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[6]/input)[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "click",
+          "target": "css=.justify-end > .bg-green-600",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "45be0030-ca5b-4236-bc42-ebc630046279",
+          "targets": [
+            [
+              "css=.justify-end > .bg-green-600",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='submit' and text()='Adicionar'])[1]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r6»']/form/div[7]/button[2])[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2728ed9-ebc9-4361-b419-d681b2c6915d",
+      "name": "Delete",
+      "commands": [
+        {
+          "id": "9ef9d94d-1673-4131-8754-d4b0263b91ba",
+          "command": "open",
+          "target": "https://wellifabio.github.io/receitas-web-2025/",
+          "value": ""
+        },
+        {
+          "command": "click",
+          "target": "css=.bg-card:nth-child(2) .inline-flex:nth-child(2)",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "403af4ad-9210-4697-ae21-557ea080ec48",
+          "targets": [
+            [
+              "css=.bg-card:nth-child(2) .inline-flex:nth-child(2)",
+              "css:finder"
+            ],
+            [
+              "xpath=(//body[@id='root']/div/div/div/div[2]/div/button[2])[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        },
+        {
+          "command": "click",
+          "target": "css=.flex > .bg-red-600",
+          "value": "",
+          "insertBeforeLastCommand": false,
+          "frameLocation": "root",
+          "winHandleId": "root",
+          "id": "2e280033-e739-4f10-8268-4003cf5e2b06",
+          "targets": [
+            [
+              "css=.flex > .bg-red-600",
+              "css:finder"
+            ],
+            [
+              "xpath=(//div[@id='radix-«r3»']/div[2]/button[2])[1]",
+              "xpath:idRelative"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "snapshot": {
+    "dependencies": {},
+    "tests": [],
+    "jest": {
+      "extraGlobals": []
+    }
+  }
+}
