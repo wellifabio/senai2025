@@ -29,4 +29,4 @@ Nesta sprint, vamos focar na implantação do projeto, garantindo que tudo estej
     - [ ] DER atualizado ou UML Diagrama de Classes.
     - [ ] Requisitos Funcionais e Não Funcionais.
         - [ ] UML DCU (Diagrama de Caso de Uso).
-- [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em **PDF**.
+- [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
