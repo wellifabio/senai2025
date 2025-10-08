@@ -15,7 +15,7 @@ Implementação da navegação em um aplicativo
     - Criação de telas
     - Implementação da navegação
 ## Pilha de Navegação
-Para começar, certifique-se de ter o Expo CLI instalado. Se ainda não o fez, você pode instalá-lo com o seguinte comando:
+Abra o git-bash em sua área de trabalho e dê os comandos a seguir para criar um novo projeto React Native com Expo: Certifique-se de ter o Expo CLI instalado. Se ainda não o fez, você pode instalá-lo com o seguinte comando:
 ```bash
 npm install -g expo-cli
 ```
@@ -24,7 +24,13 @@ Em seguida, crie um novo projeto React Native com o Expo, já na versão mais re
 npx create-expo-app@latest posts
 cd posts
 npm run reset-project
+code .
 ```
+Após abrir com o VS Code, execute o projeto com:
+```bash
+npm start
+```
+Isso abrirá o Expo Dev Tools em seu navegador. Você pode escanear o código QR com o aplicativo Expo Go em seu dispositivo móvel ou usar um emulador para visualizar o aplicativo ou executar na web pressionando a tecla `w`.
 ### Configuração do Expo-router
 Acesse a pasta ./app do seu projeto e verá dois arquivos: index.tsx e _layout.tsx. O arquivo _layout.tsx é responsável por definir a estrutura de navegação do aplicativo.
 
