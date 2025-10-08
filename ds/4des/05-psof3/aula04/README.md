@@ -30,3 +30,52 @@ Nesta sprint, vamos focar na implantação do projeto, garantindo que tudo estej
     - [ ] Requisitos Funcionais e Não Funcionais.
         - [ ] UML DCU (Diagrama de Caso de Uso).
 - [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
+
+## Grupos
+### Grupo01
+- Metodologia: SCRUM
+- Tema inicial: Diagnostico Rápido (Saúde relação entre paciente e médico)
+- Alunos: Mellyssa|PO|, Lizzie|Full Stack|, Pedro|Scrum Master|, Rodrigo|Back End - QA|
+- [Repositório principal github](https://github.com/PedroDNRusso/TCC-DS.git)
+
+### Grupo02
+- Metodologia: KANBAN - Trello
+- Tema inicial: PetShop - Adoção
+- Alunos: Rebeca|Back-End|, Evelyn|Banco de dados, Front-end|, Larissa|Testes|, Larissa V.|Front-End|, Crislaine|Front-End, Documentação|
+- [Repositório principal github](https://github.com/rebecalazarini/tcc.git)
+
+### Grupo03
+- Metodologia: KANBAN - Trello
+- Tema inicial: Paladar Nobre - Gestão de Padaria
+- Alunos: Pedro|Front-End|, João|Front-End|, Steffany|Testes|, Thamye|Back-end Teste|, Rebeca Ap.|PO e Full-Stack|
+- [Repositório principal github](https://github.com/steffanygiovanna/Projeto-padaria-2025.git)
+
+### Grupo04
+- Metodologia: SCRUM
+- Tema inicial: All Wear - Provador Online (Combinações de peças com seu prórpio guarda roupas)
+- Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
+- [Repositório principal github](https://github.com/MirandaKathleen/projeto---tcc.git)
+
+### Grupo05
+- Metodologia: KANBAN
+- Tema inicial: PetShop 4 patas - Sistema de Gestão de PetShop
+- Alunos: Erick|Back-end|, Thiago|Front-end|, Justo|Testes|
+- [Repositório principal github](https://github.com/ErickAguiar06/Petshop-Projeto-TCC.git)
+
+### Grupo06
+- Metodologia: SCRUM
+- Tema inicial: Pizzaria do seu Zé - Pedidos Online
+- Alunos: Fernando|QA|, Kamili|Scrum Master|, Willian|Front-End|, Maria|Back-end, PO|
+- [Repositório principal github](https://github.com/WillianPiedade08/pizzaria.git)
+
+### Grupo07
+- Metodologia: KANBAN
+- Tema inicial: Projeto Hotel - Sistema de Gestão de Hotelaria
+- Alunos: Jessé|Dev - Front, Testes|, Diego|Dev, Back-End, Docs|, Vitor|Dev - Front, Testes|, Arthur|Dev - Front, Testes|
+- [Repositório principal github](https://github.com/ArthurS0/Projeto-Hotel.git)
+
+### Grupo08
+- Metodologia: Kanban
+- Tema inicial: Hangetsu Uzumaki (Espiral da meia lua) - Artes Marciais
+- Alunos: Hélio|Back/Testes|, João Santos|Front|, Rhayssa|Front/Testes|
+- [Repositório principal github](https://github.com/helio000/projeto-2025.git)
