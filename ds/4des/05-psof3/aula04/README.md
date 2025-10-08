@@ -66,11 +66,11 @@ Obs:
 - Alunos: Rebeca|Back-End|, Evelyn|Banco de dados, Front-end|, Larissa|Testes|, Larissa V.|Front-End|, Crislaine|Front-End, Documentação|
 - [Repositório principal github](https://github.com/rebecalazarini/tcc.git)
 - [x] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
-- [ ] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
+- [x] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
 - [x] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
 - [x] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
     - [x] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
-    - [ ] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
+    - [x] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
     - [x] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
     - [ ] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
 - [ ] Adicionar um recurso de **IoT** (opcional, pois dependendo do tema pode não fazer sentido).
@@ -80,8 +80,8 @@ Obs:
     - [x] DER atualizado ou UML Diagrama de Classes.
     - [x] Requisitos Funcionais e Não Funcionais.
         - [x] UML DCU (Diagrama de Caso de Uso).
-- [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
-#### Resultado da Sprint 70%
+- [x] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
+#### Resultado da Sprint 90%
 Obs:
 - Fazer um cronograma realista para o tempo que falta.
 - Foco no Mobile, Testes automatizados e  documentação final.
@@ -94,69 +94,84 @@ Obs:
 - Tema inicial: Paladar Nobre - Gestão de Padaria
 - Alunos: Pedro|Front-End|, João|Front-End|, Steffany|Testes|, Thamye|Back-end Teste|, Rebeca Ap.|PO e Full-Stack|
 - [Repositório principal github](https://github.com/steffanygiovanna/Projeto-padaria-2025.git)
-- [ ] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
-- [ ] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
-- [ ] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
+- [x] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
+- [x] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
+- [x] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
 - [ ] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
-    - [ ] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
-    - [ ] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
-    - [ ] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
+    - [x] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
+    - [x] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
+    - [x] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
     - [ ] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
 - [ ] Adicionar um recurso de **IoT** (opcional, pois dependendo do tema pode não fazer sentido).
-- [ ] Revisão do cronograma do projeto.
-- [ ] Revisão da documentação.
-    - [ ] Matriz SWOT.
-    - [ ] DER atualizado ou UML Diagrama de Classes.
-    - [ ] Requisitos Funcionais e Não Funcionais.
-        - [ ] UML DCU (Diagrama de Caso de Uso).
-- [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
-#### Resultado da Sprint 
+- [x] Revisão do cronograma do projeto.
+- [x] Revisão da documentação.
+    - [x] Matriz SWOT.
+    - [x] DER atualizado ou UML Diagrama de Classes.
+    - [x] Requisitos Funcionais e Não Funcionais.
+        - [x] UML DCU (Diagrama de Caso de Uso).
+- [x] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
+#### Resultado da Sprint 90%
+Obs:
+- Concluir testes de caixa preta front
+- Concluir interface mobile
+- Foco no Mobile, Testes automatizados e  documentação final.
+- Apresentação final do projeto.
+- Concluir front-end do admin.
 
 ### Grupo04
 - Metodologia: SCRUM
 - Tema inicial: All Wear - Provador Online (Combinações de peças com seu prórpio guarda roupas)
 - Alunos: Laís|Dev - Design|, Catarina|QA - Design|, Kathleen|Dev - Design|, Beatriz|QA - Design, PO|
-- [Repositório principal github](https://github.com/MirandaKathleen/projeto---tcc.git)
-- [ ] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
-- [ ] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
+- [Repositório principal github](https://github.com/beatriz1094/allwear)
+- [x] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
+- [x] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
 - [ ] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
-- [ ] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
+- [x] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
     - [ ] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
     - [ ] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
     - [ ] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
     - [ ] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
 - [ ] Adicionar um recurso de **IoT** (opcional, pois dependendo do tema pode não fazer sentido).
-- [ ] Revisão do cronograma do projeto.
-- [ ] Revisão da documentação.
-    - [ ] Matriz SWOT.
-    - [ ] DER atualizado ou UML Diagrama de Classes.
-    - [ ] Requisitos Funcionais e Não Funcionais.
-        - [ ] UML DCU (Diagrama de Caso de Uso).
-- [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
-#### Resultado da Sprint
+- [x] Revisão do cronograma do projeto.
+- [x] Revisão da documentação.
+    - [x] Matriz SWOT.
+    - [x] DER atualizado ou UML Diagrama de Classes.
+    - [x] Requisitos Funcionais e Não Funcionais.
+        - [x] UML DCU (Diagrama de Caso de Uso).
+- [x] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
+#### Resultado da Sprint 50%
+- Entregar os relatórios de testes (prints e relatório em PDF).
+- Atualizar os prints do cronograma.
+- Foco no Mobile, Testes automatizados e documentação final.
+- Apresentação final do projeto.
 
 ### Grupo05
 - Metodologia: KANBAN
 - Tema inicial: PetShop 4 patas - Sistema de Gestão de PetShop
 - Alunos: Erick|Back-end|, Thiago|Front-end|, Justo|Testes|
 - [Repositório principal github](https://github.com/ErickAguiar06/Petshop-Projeto-TCC.git)
-- [ ] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
-- [ ] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
+- [x] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
+- [x] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
 - [ ] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
-- [ ] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
-    - [ ] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
-    - [ ] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
-    - [ ] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
-    - [ ] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
+- [x] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
+    - [x] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
+    - [x] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
+    - [x] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
+    - [x] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
 - [ ] Adicionar um recurso de **IoT** (opcional, pois dependendo do tema pode não fazer sentido).
 - [ ] Revisão do cronograma do projeto.
-- [ ] Revisão da documentação.
-    - [ ] Matriz SWOT.
-    - [ ] DER atualizado ou UML Diagrama de Classes.
-    - [ ] Requisitos Funcionais e Não Funcionais.
-        - [ ] UML DCU (Diagrama de Caso de Uso).
-- [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
-#### Resultado da Sprint
+- [x] Revisão da documentação.
+    - [x] Matriz SWOT.
+    - [x] DER atualizado ou UML Diagrama de Classes.
+    - [x] Requisitos Funcionais e Não Funcionais.
+        - [x] UML DCU (Diagrama de Caso de Uso).
+- [x] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
+#### Resultado da Sprint 90%
+Obs:
+- Iniciar o Mobile.
+- Revisar o cronograma.
+- Foco no Mobile, Testes automatizados e documentação final.
+- Apresentação final do projeto.
 
 ### Grupo06
 - Metodologia: SCRUM
@@ -165,21 +180,27 @@ Obs:
 - [Repositório principal github](https://github.com/WillianPiedade08/pizzaria.git)
 - [ ] **Implantação** do Back-End em um serviço de nuvem (ex: Vercel, Heroku, AWS).
 - [ ] **Implantação** do Front-End em um serviço de nuvem (ex: Vercel, GitHub Pages).
-- [ ] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
+- [x] Iniciar o desenvolvimento do App **Mobile** (Funcionalidades principais).
 - [ ] Testes de integração e ponto a ponto (Caixa preta e Caixa branca).
     - [ ] Após o **back-end** implantado, Criar um Roteiro/check-list e testar manualmente (**Teste de integração: Back/BD**) a API a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa branca**).
-    - [ ] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
+    - [x] Após o **front-end** implantado, Criar um Roteiro/check-list para testar o **Front-End** manualmente (**Teste ponto a ponto**), fazer um relatório dos testes. (**Caixa branca**).
     - [ ] Criar um Roteiro/check-list (**teste de integração**) pedir para um colega de outro grupo testar a **API implantada** a partir do **Insomnia** e documentar os testes. Tirando prints e fazendo um relatório. (**Caixa preta**).
-    - [ ] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
+    - [x] Criar um Roteiro/check-list (Teste **ponto a ponto**) pedir para um colega de outro grupo testar manualmente o **Front-End implantado** e fazer um relatório dos testes. (**Caixa preta**).
 - [ ] Adicionar um recurso de **IoT** (opcional, pois dependendo do tema pode não fazer sentido).
 - [ ] Revisão do cronograma do projeto.
-- [ ] Revisão da documentação.
-    - [ ] Matriz SWOT.
-    - [ ] DER atualizado ou UML Diagrama de Classes.
-    - [ ] Requisitos Funcionais e Não Funcionais.
-        - [ ] UML DCU (Diagrama de Caso de Uso).
+- [x] Revisão da documentação.
+    - [x] Matriz SWOT.
+    - [x] DER atualizado ou UML Diagrama de Classes.
+    - [x] Requisitos Funcionais e Não Funcionais.
+        - [x] UML DCU (Diagrama de Caso de Uso).
 - [ ] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
-#### Resultado da Sprint
+#### Resultado da Sprint 40%
+Obs:
+- Concluir as implantações do Back-end.
+- Concluir os relatórios de testes de caixa preta(prints e relatório em PDF).
+- Focar no Mobile, Testes automatizados e documentação final.
+- Documento final do projeto.
+- Apresentação final do projeto.
 
 ### Grupo07
 - Metodologia: KANBAN
