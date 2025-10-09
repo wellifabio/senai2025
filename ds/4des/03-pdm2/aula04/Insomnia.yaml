@@ -1,0 +1,365 @@
+type: collection.insomnia.rest/5.0
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1741697361940
+  modified: 1741697361940
+  description: ""
+collection:
+  - name: techman-api-2025
+    meta:
+      id: fld_43376f2ce8124d8e9a7d6457f8fbe2a4
+      created: 1758712903566
+      modified: 1758712903566
+      sortKey: -1758712903566
+      description: ""
+    children:
+      - url: https://techman-api-2025.vercel.app
+        name: TESTE-ROTAS
+        meta:
+          id: req_7d7a39fc33ca4bf68afa5c09c1d342a8
+          created: 1758712907118
+          modified: 1758733968628
+          isPrivate: false
+          description: ""
+          sortKey: -1758712938825
+        method: GET
+        headers:
+          - name: User-Agent
+            value: insomnia/11.6.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - name: perfil
+        meta:
+          id: fld_cbad9811a6b04978986fa8bfae1a648e
+          created: 1758712938725
+          modified: 1758714420473
+          sortKey: -1758712938725
+          description: ""
+        children:
+          - url: https://techman-api-2025.vercel.app/perfil
+            name: READ
+            meta:
+              id: req_7703a37671574c208901e9cc5174d795
+              created: 1758714386068
+              modified: 1758721261247
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386068
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/login
+            name: LOGIN
+            meta:
+              id: req_7f1aad5180f540d7a4f70b7e4b8b6896
+              created: 1758721470881
+              modified: 1759854318633
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386168
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"senha":"212121"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: usuario
+        meta:
+          id: fld_a1230d08b27e41d7a0cfccb52f9b99e5
+          created: 1758721321210
+          modified: 1758721452161
+          sortKey: -1758712938750
+          description: ""
+        children:
+          - url: https://techman-api-2025.vercel.app/usuario
+            name: READ
+            meta:
+              id: req_fbcf68e8fce044398d4ccf555d6fad39
+              created: 1758721321213
+              modified: 1758721392761
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386068
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/usuario/2
+            name: READ-POR-PERFIL
+            meta:
+              id: req_d02224f305ac4823b39e954b97e5f797
+              created: 1758721414219
+              modified: 1758721436257
+              isPrivate: false
+              description: ""
+              sortKey: -1758713662446.5
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Equipamento
+        meta:
+          id: fld_2e73235f26a7463db63e9130eac9a4ab
+          created: 1758721675068
+          modified: 1758723846169
+          sortKey: -1758712921145.5
+          description: ""
+        children:
+          - url: https://techman-api-2025.vercel.app/equipamento
+            name: READ
+            meta:
+              id: req_cc499e7bcf5d43bca9bbcb31b967bbe2
+              created: 1758721675070
+              modified: 1758722868934
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386068
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/equipamento
+            name: CREATE
+            meta:
+              id: req_26149258edc34aa8a2c622966ecf7b0f
+              created: 1758721675071
+              modified: 1758734961399
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386168
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                		"equipamento": "Teclado",
+                		"imagem": "Teclado_Microsoft.png",
+                		"descricao": "Teclado mecânico Microsoft",
+                		"ativo":1
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/equipamento/1
+            name: DELETE
+            meta:
+              id: req_3ba977a3e67a4f9dba7cefe69b2afd3a
+              created: 1758722816832
+              modified: 1758734603009
+              isPrivate: false
+              description: ""
+              sortKey: -1758714024157.25
+            method: DELETE
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/equipamento/7
+            name: READ-ONE
+            meta:
+              id: req_6a3e525da66d4c55b39c949ff028100b
+              created: 1758722880192
+              modified: 1758722884146
+              isPrivate: false
+              description: ""
+              sortKey: -1758714205162.625
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Comentario
+        meta:
+          id: fld_753c7bfa18ec4840af2c725f8751981f
+          created: 1758723015857
+          modified: 1758723839216
+          sortKey: -1758712912355.75
+          description: ""
+        children:
+          - url: https://techman-api-2025.vercel.app/comentario
+            name: READ
+            meta:
+              id: req_fee2a911a926423eb2f794c9616b00d4
+              created: 1758723015859
+              modified: 1758723020594
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386068
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/comentario
+            name: CREATE
+            meta:
+              id: req_5f07ae9c45f74205b67e319baa88b79c
+              created: 1758723015860
+              modified: 1758741636456
+              isPrivate: false
+              description: ""
+              sortKey: -1758714386168
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                		"equipamento": 6,
+                		"comentario": "Realizar manutenção preventiva",
+                		"perfil":1
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: https://techman-api-2025.vercel.app/comentario/equipamento/7
+            name: READ-POR-EQUIPAMENTO
+            meta:
+              id: req_c0cb8f20e6a442ff9d50b2ecbdfd86d7
+              created: 1758723015863
+              modified: 1758741569375
+              isPrivate: false
+              description: ""
+              sortKey: -1758714205162.625
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/11.6.0
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1741785010824
+    modified: 1756212128643
+  cookies:
+    - key: accessToken
+      value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NTYyMTIwMTEsImV4cCI6MTc1NjIxMjMxMX0.eNOV2m6A5mtmVXByu-Ce8Dflm_ybVvjyxqjOGrh8cEU
+      maxAge: 300
+      domain: dummyjson.com
+      path: /
+      secure: true
+      httpOnly: true
+      hostOnly: true
+      creation: 2025-07-29T11:41:32.844Z
+      lastAccessed: 2025-08-26T12:42:08.643Z
+      id: 1e39de64-f8f8-47b9-9383-35a4e23aaafc
+    - key: refreshToken
+      value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NTYyMTIwMTEsImV4cCI6MTc1ODgwNDAxMX0.hJtIWoWl_tSuWksONL_jR6gO30P5AhEXQzuzof-mkRI
+      maxAge: 300
+      domain: dummyjson.com
+      path: /
+      secure: true
+      httpOnly: true
+      hostOnly: true
+      creation: 2025-07-29T11:41:32.845Z
+      lastAccessed: 2025-08-26T12:42:08.643Z
+      id: cc4ef0f6-82af-456d-a49d-371afa0a83d9
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1741785010734
+    modified: 1741785010734
+    isPrivate: false
