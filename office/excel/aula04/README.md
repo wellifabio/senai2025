@@ -7,4 +7,4 @@ Continuando no tema da barraca de pastel, nesta aula vamos aprender a calcular a
  - Calcule a **Diferença** entre o faturamento e o custo total.
  - Utilize a função **SE()** para verificar se houve lucro ou prejuízo.
  - Por fim calcule a (Soma, Média, Máximo e Mínimo) das Quantidades, Custos, Faturamentos e Diferenças.
- - Utilize a função **SOMASE()** para calcular o total vendido de cada sabor de pastel.
+ - Utilize a função **SOMASE()** para calcular o total produzido, vendido, custos e faturamento de cada sabor de pastel.
