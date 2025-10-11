@@ -21,3 +21,11 @@ Continuando no tema da barraca de pastel, nesta aula vamos aprender a calcular a
 |-|-|
 |=SOMASE(intervalo; critérios; [intervalo_soma])|Soma os valores em um intervalo que atendem a critérios específicos.|
 |=SOMASE(B3:B22; "Carne"; C3:C22)|Soma os valores na coluna C (C3:C22) onde os valores correspondentes na coluna A (A3:A22) são iguais a "Carne".|
+|=SOMASE(B3:B22; "Queijo"; C3:C22)|Soma os valores na coluna C (C3:C22) onde os valores correspondentes na coluna A (A3:A22) são iguais a "Queijo".|
+
+![Planilha de vendas Calculada com SOMASE](./estatisticas3.png)
+ 
+ - Agora vamos fazer alguns gráficos para visualizar melhor os dados.
+    - Crie um gráfico de barras para mostrar a quantidade vendida de cada sabor de pastel.
+    - Crie um gráfico de colunas para mostrar o custo total de cada sabor de pastel.
+    - Crie um gráfico de linhas para mostrar o faturamento de cada sabor de pastel.
