@@ -17,15 +17,17 @@ Os três Japoneses, Sr. Suji Nakamura, Sra. Kanoco Maeda e o Sr. Fujimo Nakombi 
 - 2 Formate os dados no formato de moeda conforme indicado na imagem.
 - 3 Calcule o custo de cada ingrediente dos quatro sabores de pasteis, utilize a função **PROCV()** para buscar o **custo** do ingrediente e **multiplique** pela **quantidade**
 - 4 Calcue o custo total de cada sabor de pastel.
-- 5 Sabendo que o Sr. Suji Nakamura vende em média 50 pasteis por dia a 10 reais cada um, calcule qual o lucro ele teria se vendesse:
+- 5 Sabendo que o Sr. Suji Nakamura vende em média 500 pasteis por dia a 10 reais cada um, calcule qual o lucro ele teria se vendesse:
 
 |Pastel|Quantidade|Custo|Preço|Lucro|
 |-|:-:|-|-:|-|
-|Carne|20||R$ 10,00||
-|Queijo|5||R$ 10,00||
-|Frango|15||R$ 10,00||
-|Pizza|10||R$ 10,00||
+|Carne|200||R$ 10,00||
+|Queijo|50||R$ 10,00||
+|Frango|150||R$ 10,00||
+|Pizza|100||R$ 10,00||
 ||||Total||
+
+![Estimativas](./estimativas.png)
 
 ## Entrega
 Ao concluir o desafio vamos copiar e colar as planilhas no estudo de caso que fizemos no Word.
