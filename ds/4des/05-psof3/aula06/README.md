@@ -1,5 +1,8 @@
-# Aula06 - Situação de Aprendizagem - Sistema de Turmas e Atividades
+# Aula06 - Avaliação Prática - Sistema de Turmas e Atividades
 
+### Situação de aprendizagem desafiadora
+### Objetivo
+O objetivo desta aula é desenvolver um sistema web full-stack para controle de **turmas** e **atividades** de **professores**, baseado no SAEP 2023.1.
 ## Contextualização
 Na educação a falta de organização relacionada às atividades desenvolvidas pelos professores durante as aulas pode ocasionar problemas de gestão dos conhecimentos já trabalhados e avaliados. É fundamental, para que se possa atingir os objetivos educacionais, que os professores tenham controle sobre as atividades que serão aplicadas às turmas.<br>Muitas escolas situadas em áreas remotas do Brasil não possuem um sistema para solucionar essa falta de organização, acarretando prejuízos aos estudantes, professores e ao processo educacional como um todo.
 
@@ -100,10 +103,10 @@ Você deverá efetuar as entregas nos seguinte formato:
     - Pasta **./api** com os arquivos do back-end.
     - Pasta **./web** com os arquivos front-end das entregas 4, 5, 6, 7, 8, 9, 10, 11 e 12.
     - Arquivo README.md com a lista de *tecnologias/infraestrutura* e um passo a passo para executar o sistema (Back-end e Front-end) (entrega 13).
-- **[Formulário para colar o link do repositório]()**
+- **[Formulário para colar o link do repositório](https://docs.google.com/forms/d/e/1FAIpQLSfbtTuEcvdlVqDglq1kiCUi4Yix0FOMYx-iAkbdFjU36g69sQ/viewform?usp=dialog)**
 
 |Nº|Nome da entrega|Pontos|Pontos obtidos|
-|-|-|-|-|
+|-|-|:-:|:-:|
 |1|Diagrama de caso de uso|5||
 |2|Diagrama entidade relacionamento (DER)|10||
 |3|Back-end com a criação e conexão com o banco de dados|10||
@@ -117,3 +120,4 @@ Você deverá efetuar as entregas nos seguinte formato:
 |11|Cadastro de atividade para a turma|10||
 |12|Sair do sistema (logout)|5||
 |13|Lista de requisitos de infraestrutura|5||
+|**Total**||**100**|**0**|
