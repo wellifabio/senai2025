@@ -1,4 +1,10 @@
 # Técnico em Desenvolvimento de Sistemas
+
+|Assunto|Questões|Link|
+|-|:-:|-|
+|Testes, Lógica, UML, BD e Excel|20|https://forms.office.com/r/R9T5K9TcZr|
+|BD, Proj. Agil, POO, RMS, TS|21|https://forms.office.com/r/0mgH9qH9TD|
+
 ## 5º Itinerário: Formação Técnica e Profissional
 Esse itinerário específico é voltado para a Formação Técnica e Profissional dos estudantes em parceria SEDUC (Secretaria de Educação do Estado de São Paulo) e SESI (Serviço Social da Indústria) e SENAI (Serviço Nacional de Aprendizagem Industrial).
 ## Semestres
