@@ -121,3 +121,5 @@ Você deverá efetuar as entregas nos seguinte formato:
 |12|Sair do sistema (logout)|5||
 |13|Lista de requisitos de infraestrutura|5||
 |**Total**||**100**|**0**|
+
+### [Solução da situação de aprendizagem](https://github.com/wellifabio/escola-shadcn-2025.git)
