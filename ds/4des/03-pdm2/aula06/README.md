@@ -103,3 +103,5 @@ Você deverá efetuar as entregas nos seguinte formato:
 |9|Sair do sistema (logout)|5||
 |10|README com screenshots|5||
 |**Total**||**100**|**0**|
+
+#### [Exemplo demonstrado em aula com a tela de login e home básica](https://github.com/wellifabio/escolareact2025.git)
