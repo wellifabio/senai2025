@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Emanuel Rego de Barros",
+        "email": "emanuel@gmail.com",
+        "senha": "senha123"
+    },
+    {
+        "nome": "Maria da Silva",
+        "email": "maria@gmail.com",
+        "senha": "senha123"
+    },
+    {
+        "nome": "Ana da Silva",
+        "email": "ana@gmail.com",
+        "senha": "senha123"
+    }
+]

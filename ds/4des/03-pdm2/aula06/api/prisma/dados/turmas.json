@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Desenvolvimento de Sistemas 1DES",
+        "professorId": 1
+    },
+    {
+        "nome": "Desenvolvimento de Sistemas 2DES",
+        "professorId": 1
+    },
+    {
+        "nome": "Desenvolvimento de Sistemas 3DES",
+        "professorId": 1
+    },
+    {
+        "nome": "Eletrônica 1EA",
+        "professorId": 2
+    },
+    {
+        "nome": "Eletrônica 2EA",
+        "professorId": 2
+    },
+    {
+        "nome": "Eletrônica 3EA",
+        "professorId": 2
+    },
+    {
+        "nome": "Mecânico de Bombas 1MECB",
+        "professorId": 3
+    },
+    {
+        "nome": "Mecânico de Bombas 2MECB",
+        "professorId": 3
+    },
+    {
+        "nome": "Mecânico de Bombas 3MECB",
+        "professorId": 3
+    }
+]
