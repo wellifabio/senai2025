@@ -1,3 +1,5 @@
+# Aula03
+- [Questionário](https://docs.google.com/forms/d/e/1FAIpQLSfh54_bz0gpJLadbtPDu5iSZhMa7ewUA7T4T_ik_DV8UthJNA/viewform?usp=publish-editor)
 ## Sensor DHT11
 
 O DHT11 é um sensor digital de baixo custo e alta confiabilidade usado para medir a **umidade relativa e a temperatura do ambiente**. Ele possui um termistor **NTC** para a leitura da temperatura e um sensor tipo **HR202** para a umidade. O sensor se comunica com um microcontrolador (como o ESP32) através de um sinal serial digital, sendo ideal para projetos de automação, monitoramento climático e sistemas de controle ambiental. 
