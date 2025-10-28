@@ -19,7 +19,7 @@ Nesta sprint, vamos focar na implantação do projeto, garantindo que tudo estej
         - [x] UML DCU (Diagrama de Caso de Uso).
 - [x] Para implantação cada stack (front-end, back-end e mobile) foi necessário criar um repositório separado para cada um no **GitHub**, deixar link dos repositórios no **README.md do repositório principal** do projeto, com todas as documentações em formato **PDF**.
 
-## Sprint Final - Backlog de Entrega (Entrega em 26 de Novembro, Apresentações 04 e 05 de Dezembro)
+## Sprint Final - Backlog de Entrega (Entrega em 26 de Novembro, Apresentações 02 e 03 de Dezembro)
 - [ ] Código fonte do Back-End no GitHub com README.md atualizado e implantado.(vercel)
 - [ ] Código fonte do Front-End no GitHub com README.md atualizado e implantado (git pages ou vercel).
 - [ ] Código fonte do Mobile no GitHub com README.md atualizado.
