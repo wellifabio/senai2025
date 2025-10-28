@@ -110,3 +110,12 @@ Nesta sprint, vamos focar na implantação do projeto, garantindo que tudo estej
 |![Desejavel](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|Manter relacionamento interpessoal|Trabalhou em equipe e respeitou opiniões dos colegas|
 |![Desejavel](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|Demonstrar capacidade de comunicação com profissionais de diferentes áreas e especialidades|O documento é claro (Resumo e Conclusão da entrega), tirou dúvidas de colegas de outras turmas|
 |![Desejavel](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|Demonstrar visão sistêmica|Compreendeu onde a solução se aplica no mundo dos negócios, cumpriu os prazos conforme cronograma|
+
+### As notas do projeto serão compostas por:
+- 70% - Avaliação do Projeto (Código, Documentação, Protótipo, Diagramas, Apresentação)
+- 30% - Avaliação Individual (Relato das Lições Aprendidas)
+#### Serão válidas e distribuídas notas de 0 a 100 pelos componentes:
+- Projetos (PSOF3)
+- Programação Web Front-End (PFE2)
+- Programação para dispositivos móveis (PDM2)
+- Teste de Software (TS)
