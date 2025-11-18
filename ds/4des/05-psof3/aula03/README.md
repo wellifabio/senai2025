@@ -409,3 +409,39 @@ Segue os wireframes da UI para ter como base para o desenvolvimento:
 O formulário deve conter:
 - Links da API implantada na Vercel
 - Links da UI implantada no GitHub Pages
+
+# Atualizando aplicação implantada na vercel
+
+- Basta fazer **commit** que um novo deploy é feito automaticamente.
+## Caso seja alterado o banco de dados schema.prisma
+- 1 Não esquecer de voltar o **SGBD** para `postresql`
+- 2 Dar **drop** em todas as tabelas no **NEON** (Excluir todas)
+- 3 Dar o comando para resetar o banco e dados no script `postinstall` no aruqivo `package.json` conforme abaixo:
+```json
+  "scripts": {
+    "dev": "npx nodemon api/server.js",
+    "postinstall": "prisma migrate reset --force && prisma generate"
+  },
+```
+- 4 Dar **commit** e en seguida implantar o banco novamente
+```json
+  "scripts": {
+    "dev": "npx nodemon api/server.js",
+    "postinstall": "prisma migrate dev --name init && prisma generate"
+  },
+```
+- 5 Confira se as tabelas foram criadas novamente no NEON
+- 6 Se tiver arquivo com dados para semente: `prisma/seed.js` e dar **commit**
+```json
+  "scripts": {
+    "dev": "npx nodemon api/server.js",
+    "postinstall": "prisma db seed && prisma generate"
+  },
+```
+- 7 e por fim apenas `prisma generate`
+```json
+  "scripts": {
+    "dev": "npx nodemon api/server.js",
+    "postinstall": "prisma generate"
+  },
+```
