@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Silva",
+        "email": "ana@email.com",
+        "senha": "senha123",
+        "avatar": "ana.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Bruno Souza",
+        "email": "bruno@email.com",
+        "senha": "senha456",
+        "avatar": "bruno.jpg"
+    }
+]
