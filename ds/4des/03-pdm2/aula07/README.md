@@ -94,3 +94,8 @@ O aplicativo de exemplo além de enviar os dados para o WhatsApp, também armaze
 - Sinta-se à vontade para clonar o repositório e explorar o código para entender melhor como tudo foi implementado!
 
 A **IA Copilot** foi utilizada para auxiliar na construção do código, mas todo o projeto foi revisado e adaptado para garantir que atenda aos requisitos específicos do aplicativo.
+
+### Atividades
+1. Crie um novo projeto React Native com Expo seguindo os passos descritos no tutorial.
+2. Implemente a funcionalidade de carrinho de compras e envio para o WhatsApp.
+3. Personalize o aplicativo adicionando estilos e funcionalidades extras, como autenticação de usuário ou integração com uma API de produtos.
