@@ -4,13 +4,13 @@
         "nome": "Ana Silva",
         "email": "ana@email.com",
         "senha": "senha123",
-        "avatar": "ana.png"
+        "avatar": "https://raw.githubusercontent.com/wellifabio/senai2025/refs/heads/main/assets/avatares/ana.png"
     },
     {
         "id": 2,
         "nome": "Bruno Souza",
         "email": "bruno@email.com",
         "senha": "senha456",
-        "avatar": "bruno.png"
+        "avatar": "https://raw.githubusercontent.com/wellifabio/senai2025/refs/heads/main/assets/avatares/bruno.png"
     }
 ]

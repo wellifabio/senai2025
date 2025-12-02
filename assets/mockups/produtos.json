@@ -5,7 +5,7 @@
         "descricao": "Camiseta de algodão confortável disponível em várias cores.",
         "preco": 29.99,
         "categoria": "Roupas",
-        "imagem": "camiseta.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/camiseta.png",
         "estoque": 150
     },
     {
@@ -14,7 +14,7 @@
         "descricao": "Tênis ideal para corrida e atividades físicas.",
         "preco": 199.99,
         "categoria": "Calçados",
-        "imagem": "tenis.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/tenis.png",
         "estoque": 75
     },
     {
@@ -23,7 +23,7 @@
         "descricao": "Mochila resistente com múltiplos compartimentos.",
         "preco": 89.99,
         "categoria": "Acessórios",
-        "imagem": "mochila.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/mochila.png",
         "estoque": 40
     },
     {
@@ -32,7 +32,7 @@
         "descricao": "Relógio com cronômetro e alarme.",
         "preco": 49.99,
         "categoria": "Eletrônicos",
-        "imagem": "relogio.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/relogio.png",
         "estoque": 60
     },
     {
@@ -41,7 +41,7 @@
         "descricao": "Fone de ouvido sem fio com excelente qualidade de som.",
         "preco": 79.99,
         "categoria": "Eletrônicos",
-        "imagem": "fone.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/fone.png",
         "estoque": 85
     },
     {
@@ -50,7 +50,7 @@
         "descricao": "Uma emocionante aventura pelo espaço e tempo.",
         "preco": 24.99,
         "categoria": "Livros",
-        "imagem": "livro.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/livro.png",
         "estoque": 120
     },
     {
@@ -59,7 +59,7 @@
         "descricao": "Mantenha suas bebidas quentes ou frias por horas.",
         "preco": 34.99,
         "categoria": "Utensílios",
-        "imagem": "garrafa.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/garrafa.png",
         "estoque": 90
     },
     {
@@ -68,7 +68,7 @@
         "descricao": "Capture momentos especiais com alta resolução.",
         "preco": 299.99,
         "categoria": "Eletrônicos",
-        "imagem": "camera.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/camera.png",
         "estoque": 30
     },
     {
@@ -77,7 +77,7 @@
         "descricao": "Tablet leve e portátil para trabalho e entretenimento.",
         "preco": 399.99,
         "categoria": "Eletrônicos",
-        "imagem": "tablet.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/tablet.png",
         "estoque": 45
     },
     {
@@ -86,7 +86,7 @@
         "descricao": "Cadeira ergonômica para maior conforto durante o trabalho.",
         "preco": 149.99,
         "categoria": "Móveis",
-        "imagem": "cadeira.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/cadeira.png",
         "estoque": 25
     },
     {
@@ -95,7 +95,7 @@
         "descricao": "Luminária ajustável com design moderno.",
         "preco": 39.99,
         "categoria": "Iluminação",
-        "imagem": "luminaria.png",
+        "imagem": "https://raw.githubusercontent.com/wellifabio/senai2025/main/assets/produtos/luminaria.png",
         "estoque": 70
     }
 ]
