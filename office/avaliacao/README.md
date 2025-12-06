@@ -1,6 +1,6 @@
 # Aula10 - Excel Básico
 
-# VPS03 (Verificação Prática Formativa 03)
+# VPS01 (Verificação Prática Formativa 01)
 
 ## Situação de aprendizagem:
 
