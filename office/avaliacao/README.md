@@ -17,5 +17,5 @@
 - 6 Na terceira planilha calcule o total.
 - 7 Obtenha a porcentagem de comissão utilizando procv() pela região
 - 8 Calcule o valor da comissão
-- 9 Com os dados da terceira planilha crie um gráficos das colunas **Vendedor + Comissão** e outro gráfico de pizza cas colunas **Região + Comissão**
+- 9 Com os dados da terceira planilha crie um gráficos das colunas **Vendedor + Valor da Comissão** e outro gráfico de pizza cas colunas **Região + Comissão**
 - 10 Crie uma apresentação no Power Point dos resultados das comissões da empresa, cole os gráficos em slides da apresentação.
