@@ -9,8 +9,8 @@ Next.js é um framework React que fornece ferramentas e recursos para construir 
 npx create-next-app@latest nome-do-seu-projeto
 ```
 - 2  O npx: Executa o pacote create-next-app, garantindo a versão mais recente.
-- 3 Responda às Perguntas: O terminal fará algumas perguntas de configuração:
-    - Usar as configurações mais atuais, TypeScript...: `y` **Yes** 
+- 3 Responda **yes** às Perguntas:
+  - Would you like to use the recommended Next.js defaults? » Yes
 - 4 Acesse o Projeto: Após a instalação, navegue para a pasta do projeto e abra com o VsCode:
 ```bash
 cd nome-do-seu-projeto
