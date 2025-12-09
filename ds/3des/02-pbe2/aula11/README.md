@@ -16,10 +16,10 @@ npx create-next-app@latest nome-do-seu-projeto
 cd nome-do-seu-projeto
 code .
 ```
-- 5 Instale o Prisma, modele o schema.prisma, .env e seed.
+- 5 Instale o Prisma, modele o schema.prisma, .env e seed.ts
 ```bash
-npx prisma init --datasource-provider mysql
 npm i prisma @prisma/client @prisma/adapter-mariadb @prisma/extension-accelerate dotenv
+npx prisma init
 ```
 - 6 Próximos Passos:
     - Roteamento: Crie pastas dentro de `app/` para criar novas rotas automaticamente (ex: app/sobre/page.js para a rota /sobre).
