@@ -16,9 +16,9 @@ npx create-next-app@latest nome-do-seu-projeto
 cd nome-do-seu-projeto
 code .
 ```
-- 5 Instale o Prisma, modele o schema.prisma, .env e seed.ts
+- 5 Instale as dependência básicas, o prisma, modele o schema.prisma, .env e seed.ts
 ```bash
-npm i prisma @prisma/client @prisma/extension-accelerate dotenv
+npm i prisma@6.6.0 @prisma/client@6.6.0 @prisma/extension-accelerate dotenv bcrypt
 npx prisma init
 ```
 - 6 Próximos Passos:
