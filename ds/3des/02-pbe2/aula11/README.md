@@ -48,9 +48,48 @@ export default function Home() {
   );
 }
 ```
+- O arquivo `layout.tsx` configura a base das páginas do projeto
+```tsx
+import type { Metadata } from "next";
+import { Geist, Geist_Mono } from "next/font/google";
+import "./globals.css";
+
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+export const metadata: Metadata = {
+  title: "Tarefas",
+  description: "App de gestão de tarefas por usuário",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      >
+        {children}
+      </body>
+    </html>
+  );
+}
+```
 
 - 7 Inicie o Servidor de Desenvolvimento:
 ```bash
 npm run dev
 ```
 - Seu projeto Next.js estará rodando em http://localhost:3000.
+<br>![Alo Mundo](./alomundo.png)
+- Agora é começar a codificar
