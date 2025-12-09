@@ -19,7 +19,7 @@ code .
 - 5 Instale o Prisma, modele o schema.prisma, .env e seed.
 ```bash
 npx prisma init --datasource-provider mysql
-npm i @prisma/client @prisma/extension-accelerate @auth/prisma-adapter
+npm i prisma @prisma/client @prisma/adapter-mariadb @prisma/extension-accelerate dotenv
 ```
 - 6 Próximos Passos:
     - Roteamento: Crie pastas dentro de `app/` para criar novas rotas automaticamente (ex: app/sobre/page.js para a rota /sobre).
