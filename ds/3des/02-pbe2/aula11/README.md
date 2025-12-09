@@ -18,7 +18,7 @@ code .
 ```
 - 5 Instale o Prisma, modele o schema.prisma, .env e seed.ts
 ```bash
-npm i prisma @prisma/client @prisma/adapter-mariadb @prisma/extension-accelerate dotenv
+npm i prisma @prisma/client @prisma/extension-accelerate dotenv
 npx prisma init
 ```
 - 6 Próximos Passos:
