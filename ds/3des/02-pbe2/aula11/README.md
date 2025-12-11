@@ -93,3 +93,4 @@ npm run dev
 - Seu projeto Next.js estará rodando em http://localhost:3000.
 <br>![Alo Mundo](./alomundo.png)
 - Agora é começar a codificar
+### [Repositório com um exemplo de um aplicativo de gestão de tarefas](https://github.com/wellifabio/to-do-next-2025.git)
