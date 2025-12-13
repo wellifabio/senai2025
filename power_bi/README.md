@@ -1,6 +1,6 @@
 # Plano de Curso
 
-## [Arividade Prof Reenye](https://github.com/reenye-lima/Power-BI/blob/main/Atividade%2006-12/ATIVIDADE%20PR%C3%81TICA.pdf)
+## [Arividade Prof Reenye](https://github.com/reenye-lima/Power-BI/tree/main/Atividade%2006-12)
 
 ## Objetivo
 O Curso de Aperfeiçoamento Profissional Power BI tem por objetivo o desenvolvimento de competências relativas ao desenvolvimento de diversos tipos de indicadores e construção de painéis gerenciais, utilizando dados de fontes variadas por meio do software DataVisualization Microsoft Power BI.
